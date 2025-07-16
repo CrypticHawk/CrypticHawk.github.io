@@ -1,0 +1,123 @@
+/* TechSaverSA - Dark Modern Theme */
+body {
+    background: #181d23;
+    color: #e0e6ef;
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(90deg, #23272f 0%, #1e2636 100%);
+    padding: 2rem 1rem 1rem 1rem;
+    text-align: center;
+    border-bottom: 2px solid #0072ff;
+}
+
+header h1 {
+    color: #00fff7;
+    font-size: 2.7rem;
+    margin-bottom: 0.5rem;
+    letter-spacing: 2px;
+    font-weight: 800;
+}
+
+header p {
+    color: #a7b3cc;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+    background: #10141b;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid #23272f;
+}
+
+nav a {
+    color: #80c9ff;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+
+nav a:hover {
+    color: #00fff7;
+    text-shadow: 0 0 8px #00fff7aa;
+}
+
+main {
+    max-width: 900px;
+    margin: 2.5rem auto;
+    padding: 1rem;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+h2 {
+    color: #00fff7;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    border-left: 4px solid #0072ff;
+    padding-left: 0.7rem;
+    letter-spacing: 1px;
+}
+
+.deals-list {
+    display: grid;
+    gap: 1.7rem;
+    grid-template-columns: 1fr;
+}
+
+.deal {
+    background: #23272f;
+    border-radius: 1.2rem;
+    box-shadow: 0 4px 28px #0005;
+    padding: 1.3rem;
+    transition: transform 0.18s;
+    border-left: 4px solid #00fff7;
+}
+
+.deal h3 {
+    margin-top: 0;
+    color: #80c9ff;
+    font-size: 1.3rem;
+}
+
+.deal a {
+    color: #00fff7;
+    font-weight: bold;
+}
+
+.deal a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background: #10141b;
+    color: #444e63;
+    padding: 1.1rem 0;
+    font-size: 1rem;
+    border-top: 1px solid #23272f;
+}
+
+@media (max-width: 600px) {
+    main {
+        padding: 0.5rem;
+    }
+    nav {
+        gap: 1.1rem;
+        font-size: 1rem;
+    }
+    h2 {
+        font-size: 1.2rem;
+        padding-left: 0.4rem;
+    }
+}
