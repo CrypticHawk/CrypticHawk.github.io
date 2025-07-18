@@ -1,123 +1,109 @@
-/* TechSaverSA - Dark Modern Theme */
 body {
-    background: #181d23;
-    color: #e0e6ef;
-    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f8fafc;
+  color: #222;
+  margin: 0;
+  padding: 0;
 }
 
 header {
-    background: linear-gradient(90deg, #23272f 0%, #1e2636 100%);
-    padding: 2rem 1rem 1rem 1rem;
-    text-align: center;
-    border-bottom: 2px solid #0072ff;
+  background: #0f172a;
+  color: #fff;
+  padding: 24px 0 12px 0;
+  text-align: center;
 }
 
 header h1 {
-    color: #00fff7;
-    font-size: 2.7rem;
-    margin-bottom: 0.5rem;
-    letter-spacing: 2px;
-    font-weight: 800;
-}
-
-header p {
-    color: #a7b3cc;
-    font-size: 1.3rem;
-    font-weight: 400;
+  margin: 0;
+  font-size: 2.3em;
+  letter-spacing: 1px;
 }
 
 nav {
-    display: flex;
-    justify-content: center;
-    gap: 2.5rem;
-    background: #10141b;
-    padding: 0.8rem 0;
-    border-bottom: 1px solid #23272f;
+  margin-top: 12px;
 }
 
 nav a {
-    color: #80c9ff;
-    text-decoration: none;
-    font-size: 1.1rem;
-    font-weight: 500;
-    transition: color 0.2s;
+  color: #60a5fa;
+  text-decoration: none;
+  margin: 0 18px;
+  font-weight: 500;
+  font-size: 1.05em;
 }
 
 nav a:hover {
-    color: #00fff7;
-    text-shadow: 0 0 8px #00fff7aa;
+  color: #fff;
+  text-decoration: underline;
 }
 
 main {
-    max-width: 900px;
-    margin: 2.5rem auto;
-    padding: 1rem;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 0 16px;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 6px 32px rgba(0,0,0,0.06);
 }
 
-section {
-    margin-bottom: 3rem;
+.intro {
+  text-align: center;
+  margin-bottom: 32px;
 }
 
-h2 {
-    color: #00fff7;
-    font-size: 2rem;
-    margin-bottom: 1rem;
-    border-left: 4px solid #0072ff;
-    padding-left: 0.7rem;
-    letter-spacing: 1px;
-}
-
-.deals-list {
-    display: grid;
-    gap: 1.7rem;
-    grid-template-columns: 1fr;
+.deals {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
 }
 
 .deal {
-    background: #23272f;
-    border-radius: 1.2rem;
-    box-shadow: 0 4px 28px #0005;
-    padding: 1.3rem;
-    transition: transform 0.18s;
-    border-left: 4px solid #00fff7;
+  border: 1px solid #e0e7ef;
+  border-radius: 15px;
+  padding: 24px;
+  background: #f1f5f9;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
 }
 
 .deal h3 {
-    margin-top: 0;
-    color: #80c9ff;
-    font-size: 1.3rem;
+  margin-top: 0;
+  margin-bottom: 6px;
+  font-size: 1.25em;
 }
 
-.deal a {
-    color: #00fff7;
-    font-weight: bold;
+.deal .cta {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 10px 20px;
+  background: #60a5fa;
+  color: #fff;
+  border-radius: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.2s;
 }
 
-.deal a:hover {
-    text-decoration: underline;
+.deal .cta:hover {
+  background: #2563eb;
 }
 
 footer {
-    text-align: center;
-    background: #10141b;
-    color: #444e63;
-    padding: 1.1rem 0;
-    font-size: 1rem;
-    border-top: 1px solid #23272f;
+  text-align: center;
+  padding: 30px 0 12px 0;
+  color: #64748b;
+  background: none;
+  font-size: 0.97em;
 }
 
 @media (max-width: 600px) {
-    main {
-        padding: 0.5rem;
-    }
-    nav {
-        gap: 1.1rem;
-        font-size: 1rem;
-    }
-    h2 {
-        font-size: 1.2rem;
-        padding-left: 0.4rem;
-    }
+  main {
+    margin: 16px 2px;
+    padding: 0 4px;
+  }
+  .deals {
+    gap: 16px;
+  }
+  .deal {
+    padding: 14px;
+  }
 }
+
