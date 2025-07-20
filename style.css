@@ -1,109 +1,144 @@
 body {
-  font-family: 'Segoe UI', Arial, sans-serif;
-  background: #f8fafc;
-  color: #222;
+  background: #f5f7fa;
   margin: 0;
-  padding: 0;
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  color: #222;
 }
 
 header {
-  background: #0f172a;
+  background: #222;
   color: #fff;
-  padding: 24px 0 12px 0;
-  text-align: center;
+  padding: 1rem 0 0.5rem 0;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.06);
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
-
-header h1 {
-  margin: 0;
-  font-size: 2.3em;
-  letter-spacing: 1px;
-}
-
-nav {
-  margin-top: 12px;
-}
-
-nav a {
-  color: #60a5fa;
-  text-decoration: none;
-  margin: 0 18px;
-  font-weight: 500;
-  font-size: 1.05em;
-}
-
-nav a:hover {
-  color: #fff;
-  text-decoration: underline;
-}
-
-main {
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 0 16px;
-  background: #fff;
-  border-radius: 20px;
-  box-shadow: 0 6px 32px rgba(0,0,0,0.06);
-}
-
-.intro {
-  text-align: center;
-  margin-bottom: 32px;
-}
-
-.deals {
+header .container {
+  max-width: 960px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
-  gap: 28px;
+  align-items: center;
+}
+header h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+}
+header nav {
+  margin-bottom: 0.5rem;
+}
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 1rem;
+  font-size: 1.05rem;
+  opacity: 0.9;
+  transition: opacity 0.2s;
+}
+header nav a:hover { opacity: 1; text-decoration: underline; }
+
+main .container {
+  max-width: 800px;
+  margin: 2.5rem auto 1rem auto;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 32px rgba(30,80,220,0.08);
+}
+#dealSearch {
+  width: 100%;
+  padding: 1.1rem;
+  font-size: 1.15rem;
+  border: 1px solid #ddd;
+  border-radius: 0.7rem;
+  margin-bottom: 2rem;
+  background: #f8fafd;
+  outline: none;
+  box-shadow: 0 2px 4px rgba(50,100,200,0.06);
+  transition: border 0.2s;
+}
+#dealSearch:focus {
+  border-color: #3178c6;
+}
+
+#dealResults {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(275px,1fr));
+  gap: 1.3rem;
 }
 
 .deal {
-  border: 1px solid #e0e7ef;
-  border-radius: 15px;
-  padding: 24px;
-  background: #f1f5f9;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  background: #f5faff;
+  padding: 1.2rem 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 2px 16px rgba(44, 100, 220, 0.11);
+  margin-bottom: 1.2rem;
+  transition: box-shadow 0.2s;
+  position: relative;
+  min-height: 185px;
 }
-
-.deal h3 {
-  margin-top: 0;
-  margin-bottom: 6px;
-  font-size: 1.25em;
-}
-
+.deal:hover { box-shadow: 0 6px 28px rgba(20,70,170,0.16); }
+.deal h3 { margin: 0 0 0.5rem 0; font-size: 1.17rem; }
+.deal p { margin: 0 0 0.7rem 0; font-size: 1.04rem; }
 .deal .cta {
   display: inline-block;
-  margin-top: 8px;
-  padding: 10px 20px;
-  background: #60a5fa;
+  background: linear-gradient(90deg,#3178c6 60%,#48e);
   color: #fff;
-  border-radius: 10px;
-  font-weight: bold;
+  border-radius: 0.6rem;
+  padding: 0.5rem 1.2rem;
   text-decoration: none;
-  transition: background 0.2s;
+  font-weight: bold;
+  font-size: 1.06rem;
+  margin-right: 0.7rem;
+  margin-top: 0.2rem;
+  transition: background 0.2s, box-shadow 0.2s;
+  box-shadow: 0 1px 8px rgba(49,120,198,0.11);
+}
+.deal .cta:hover {
+  background: linear-gradient(90deg,#48e 60%,#3178c6);
+  box-shadow: 0 4px 18px rgba(40,70,180,0.19);
 }
 
-.deal .cta:hover {
-  background: #2563eb;
+.deal button {
+  background: #e2e8f8;
+  color: #3178c6;
+  border: none;
+  border-radius: 0.6rem;
+  padding: 0.43rem 0.95rem;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 0.2rem;
+  font-size: 0.99rem;
+  transition: background 0.15s;
+}
+.deal button:hover {
+  background: #c7dbf7;
+}
+
+.deal ul {
+  margin: 0.5rem 0 0 0;
+  padding: 0 0 0 1.1rem;
+}
+.deal li {
+  margin: 0.1rem 0;
+  font-size: 0.97rem;
 }
 
 footer {
+  background: #222;
+  color: #cfd7e8;
   text-align: center;
-  padding: 30px 0 12px 0;
-  color: #64748b;
-  background: none;
-  font-size: 0.97em;
+  padding: 2rem 0 1.1rem 0;
+  font-size: 0.98rem;
+  margin-top: 2.5rem;
+  border-top: 1px solid #353535;
 }
+footer a { color: #8ec4f7; text-decoration: underline; }
 
 @media (max-width: 600px) {
-  main {
-    margin: 16px 2px;
-    padding: 0 4px;
-  }
-  .deals {
-    gap: 16px;
-  }
-  .deal {
-    padding: 14px;
-  }
+  main .container { padding: 0.5rem; }
+  header h1 { font-size: 1.13rem; }
+  #dealSearch { font-size: 1.01rem; }
+  .deal { padding: 0.9rem 0.6rem; }
 }
-
