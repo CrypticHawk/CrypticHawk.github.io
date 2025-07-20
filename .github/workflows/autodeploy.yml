@@ -1,6 +1,7 @@
 name: Auto Update Deals
 
 on:
+  push:
   schedule:
     - cron:  '0 0 * * *'   # Runs every day at midnight UTC
   workflow_dispatch:        # Allows you to run manually in Actions tab
