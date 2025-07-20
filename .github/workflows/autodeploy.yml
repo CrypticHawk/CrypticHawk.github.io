@@ -20,22 +20,17 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
+          pip install --upgrade pip beautifulsoup4 requests
 
-      - name: Run deal scraper (generates deals.json)
-        run: python scrape_deals_master.py
-
-      # Uncomment the following lines if you still want to generate index.html from Python!
-      # - name: Generate index.html (optional)
-      #   run: python generate_index.py
+      - name: Run master deal scraper
+        run: python scripts/scrape_deals_master.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add deals.json
-          # git add index.html  # Uncomment if us
-
+          git commit -m "Auto-update deals [skip ci]" || echo "No changes to commit"
           git push
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
