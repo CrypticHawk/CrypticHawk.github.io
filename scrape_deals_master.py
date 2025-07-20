@@ -5,7 +5,6 @@ print("SCRIPT IS RUNNING!")
 print("CWD:", os.getcwd())
 print("Files in CWD:", os.listdir())
 
-# Dummy deals from multiple stores for demo/testing.
 takealot = [
     {
         "product": "Demo Laptop",
@@ -43,9 +42,12 @@ def master_deal_merge(*deal_lists):
         pname = d["product"]
         if pname not in best or d["price"] < best[pname]["price"]:
             best[pname] = d
-    for d in all_deals:
-        pname = d["product"]
-        best.setdefault(pname, {}).setdefault("alternatives", []).append(d)
+
+    # Now, add an "alternatives" list to each best deal (excluding itself)
+    for pname, best_deal in best.items():
+        best_deal["alternatives"] = [
+            d for d in all_deals if d["product"] == pname and d is not best_deal
+        ]
     return list(best.values()), all_deals
 
 if __name__ == "__main__":
