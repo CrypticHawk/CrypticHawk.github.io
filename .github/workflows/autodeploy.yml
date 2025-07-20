@@ -23,7 +23,7 @@ jobs:
           pip install --upgrade pip
 
       - name: Run deal scraper (generates deals.json)
-        run: python scrape_deals.py
+        run: python scrape_deals_master.py
 
       # Uncomment the following lines if you still want to generate index.html from Python!
       # - name: Generate index.html (optional)
