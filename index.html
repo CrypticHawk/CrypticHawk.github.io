@@ -8,96 +8,88 @@
 </head>
 <body>
   <header>
-    <h1>TechSaverSA</h1>
-    <h2>Find the Best Tech Deals in South Africa</h2>
-<input id="dealSearch" type="text" placeholder="Search laptops, phones, consoles..." style="width:100%;padding:10px;border-radius:8px;">
-<div id="dealResults"></div>
-
-<script>
-// Loads deals.json (from your site root)
-async function loadDeals() {
-    let res = await fetch('deals.json');
-    let data = await res.json();
-    return data;
-}
-
-function renderDeals(deals, query="") {
-    let out = '';
-    for (let deal of deals) {
-        if (query && !deal.product.toLowerCase().includes(query.toLowerCase()) && !deal.category.toLowerCase().includes(query.toLowerCase())) continue;
-        out += `
-        <div class="deal">
-            <h3>${deal.product}</h3>
-            <p><b>Best Price:</b> R${deal.price} @ <b>${deal.store}</b></p>
-            <a href="${deal.affiliate_url}" target="_blank" class="cta">View Deal</a>
-            <button onclick="showMore('${deal.product.replace(/'/g, "\\'")}')">Show More Offers</button>
-            <div id="more-${deal.product.replace(/\s+/g,'-')}" style="display:none;"></div>
-        </div>`;
-    }
-    if (!out) out = "<p>No deals found for your search.</p>";
-    document.getElementById('dealResults').innerHTML = out;
-}
-
-// Show more offers for a product
-async function showMore(product) {
-    let res = await fetch('deals.json');
-    let data = await res.json();
-    let offers = data.all_deals.filter(d => d.product === product);
-    let moreDiv = document.getElementById('more-'+product.replace(/\s+/g,'-'));
-    if (moreDiv.style.display === "block") {
-        moreDiv.style.display = "none";
-        return;
-    }
-    let html = "<ul>";
-    for (let o of offers) {
-        html += `<li>R${o.price} @ <b>${o.store}</b> <a href="${o.affiliate_url}" target="_blank">View</a></li>`;
-    }
-    html += "</ul>";
-    moreDiv.innerHTML = html;
-    moreDiv.style.display = "block";
-}
-
-window.onload = async () => {
-    let data = await loadDeals();
-    renderDeals(data.best_deals);
-
-    document.getElementById('dealSearch').addEventListener('input', async (e) => {
-        let data = await loadDeals();
-        renderDeals(data.best_deals, e.target.value);
-    });
-};
-</script>
-
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
-      <a href="privacy.html">Privacy</a>
-    </nav>
+    <div class="container">
+      <h1><span style="color:#3178c6">TechSaverSA</span> <span style="font-size:1.1rem; color:#555;">Find the best tech deals in South Africa</span></h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy</a>
+      </nav>
+    </div>
   </header>
   <main>
-    <section class="intro">
-      <h2>Find the Best Tech Deals in South Africa</h2>
-      <p>Curated laptop, phone, and gaming deals from top online stores. Updated daily. Click through to save money!</p>
-    </section>
-    <section class="deals">
-      
-      <article class="deal">
-        <h3>Lenovo Legion Slim 5 -  RTX 4060</h3>
-        <p>Intel i7</p>
-        <a href=" 16GB RAM" target="_blank" class="cta">View Deal</a>
-      </article>
-    
-      <article class="deal">
-        <h3>Xbox Series S Console -  digital only. Best price in SA!</h3>
-        <p>Next-gen gaming</p>
-        <a href="R6" target="_blank" class="cta">View Deal</a>
-      </article>
-    
-    </section>
+    <div class="container">
+      <input id="dealSearch" type="text" placeholder="🔍 Search laptops, phones, consoles..." />
+      <div id="dealResults"></div>
+      <p style="text-align:center; color: #888; margin-top:2rem;">
+        Updated daily from <b>Takealot</b>, <b>Loot</b>, <b>Evetech</b>, <b>Incredible Connection</b>, <b>Computer Mania</b>.
+      </p>
+    </div>
   </main>
   <footer>
-    <p>&copy; 2025 TechSaverSA. All rights reserved.</p>
+    <div class="container">
+      <small>
+        &copy; 2025 TechSaverSA. All rights reserved.<br>
+        As an affiliate, we may earn a commission from qualifying purchases. 
+        <a href="privacy.html">Privacy Policy</a>
+      </small>
+    </div>
   </footer>
+
+  <script>
+  // Loads deals.json (from your site root)
+  async function loadDeals() {
+      let res = await fetch('deals.json');
+      let data = await res.json();
+      return data;
+  }
+
+  function renderDeals(deals, query="") {
+      let out = '';
+      for (let deal of deals) {
+          if (query && !deal.product.toLowerCase().includes(query.toLowerCase()) && !deal.category.toLowerCase().includes(query.toLowerCase())) continue;
+          out += `
+          <div class="deal">
+              <h3>${deal.product}</h3>
+              <p><b>Best Price:</b> R${deal.price} @ <b>${deal.store}</b></p>
+              <a href="${deal.affiliate_url}" target="_blank" class="cta">View Deal</a>
+              <button onclick="showMore('${deal.product.replace(/'/g, "\\'")}')">Show More Offers</button>
+              <div id="more-${deal.product.replace(/\s+/g,'-')}" style="display:none;"></div>
+          </div>`;
+      }
+      if (!out) out = "<p>No deals found for your search.</p>";
+      document.getElementById('dealResults').innerHTML = out;
+  }
+
+  // Show more offers for a product
+  async function showMore(product) {
+      let res = await fetch('deals.json');
+      let data = await res.json();
+      let offers = data.all_deals.filter(d => d.product === product);
+      let moreDiv = document.getElementById('more-'+product.replace(/\s+/g,'-'));
+      if (moreDiv.style.display === "block") {
+          moreDiv.style.display = "none";
+          return;
+      }
+      let html = "<ul>";
+      for (let o of offers) {
+          html += `<li>R${o.price} @ <b>${o.store}</b> <a href="${o.affiliate_url}" target="_blank">View</a></li>`;
+      }
+      html += "</ul>";
+      moreDiv.innerHTML = html;
+      moreDiv.style.display = "block";
+  }
+
+  window.onload = async () => {
+      let data = await loadDeals();
+      renderDeals(data.best_deals);
+
+      document.getElementById('dealSearch').addEventListener('input', async (e) => {
+          let data = await loadDeals();
+          renderDeals(data.best_deals, e.target.value);
+      });
+  };
+  </script>
 </body>
 </html>
