@@ -43,4 +43,4 @@ def master_deal_merge(*deal_lists):
 if __name__ == "__main__":
     print("About to merge deals...")
     best_deals, all_deals = master_deal_merge(takealot, loot, evetech, ic, mania)
-    print("Best deals:", len(best_deals), "All deals:", len(all_de
+    print("Best deals:", len(best_deals), "All deals:", len(all_deals))
