@@ -5,7 +5,7 @@ print("SCRIPT IS RUNNING!")
 print("CWD:", os.getcwd())
 print("Files in CWD:", os.listdir())
 
-# Dummy deals for test (works even if scraping is empty)
+# Dummy deals from multiple stores for demo/testing.
 takealot = [
     {
         "product": "Demo Laptop",
@@ -24,7 +24,15 @@ loot = [
         "category": "Laptops"
     }
 ]
-evetech = []
+evetech = [
+    {
+        "product": "Demo Laptop",
+        "store": "Evetech",
+        "price": 9500,
+        "affiliate_url": "https://www.evetech.co.za",
+        "category": "Laptops"
+    }
+]
 ic = []
 mania = []
 
@@ -44,3 +52,9 @@ if __name__ == "__main__":
     print("About to merge deals...")
     best_deals, all_deals = master_deal_merge(takealot, loot, evetech, ic, mania)
     print("Best deals:", len(best_deals), "All deals:", len(all_deals))
+    with open('deals.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            "best_deals": best_deals,
+            "all_deals": all_deals
+        }, f, indent=2)
+    print("WROTE JSON!")
