@@ -1,1 +1,66 @@
-
+{
+  "best_deals": [
+    {
+      "product": "Demo Laptop",
+      "store": "Evetech",
+      "price": 9500,
+      "affiliate_url": "https://www.evetech.co.za",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Demo Laptop",
+          "store": "Takealot",
+          "price": 9999,
+          "affiliate_url": "https://www.takealot.com",
+          "category": "Laptops"
+        },
+        {
+          "product": "Demo Laptop",
+          "store": "Loot",
+          "price": 10499,
+          "affiliate_url": "https://www.loot.co.za",
+          "category": "Laptops"
+        }
+      ]
+    }
+  ],
+  "all_deals": [
+    {
+      "product": "Demo Laptop",
+      "store": "Takealot",
+      "price": 9999,
+      "affiliate_url": "https://www.takealot.com",
+      "category": "Laptops"
+    },
+    {
+      "product": "Demo Laptop",
+      "store": "Loot",
+      "price": 10499,
+      "affiliate_url": "https://www.loot.co.za",
+      "category": "Laptops"
+    },
+    {
+      "product": "Demo Laptop",
+      "store": "Evetech",
+      "price": 9500,
+      "affiliate_url": "https://www.evetech.co.za",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Demo Laptop",
+          "store": "Takealot",
+          "price": 9999,
+          "affiliate_url": "https://www.takealot.com",
+          "category": "Laptops"
+        },
+        {
+          "product": "Demo Laptop",
+          "store": "Loot",
+          "price": 10499,
+          "affiliate_url": "https://www.loot.co.za",
+          "category": "Laptops"
+        }
+      ]
+    }
+  ]
+}
