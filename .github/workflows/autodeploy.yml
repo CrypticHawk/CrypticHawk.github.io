@@ -3,7 +3,7 @@ name: Auto Update Deals
 on:
   schedule:
     - cron:  '0 0 * * *'   # Every day at midnight UTC
-  workflow_dispatch:        # Allows manual runs from the Actions tab
+  workflow_dispatch:
 
 jobs:
   build:
@@ -21,10 +21,9 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip install --upgrade pip
-          pip install beautifulsoup4 requests
 
       - name: Run master deal scraper (creates deals.json)
-        run: python scripts/scrape_deals_master.py
+        run: python scrape_deals_master.py
 
       - name: Commit and push changes
         run: |
