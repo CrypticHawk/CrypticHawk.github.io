@@ -9,6 +9,66 @@
 <body>
   <header>
     <h1>TechSaverSA</h1>
+    <!-- Place this inside <body> in index.html -->
+<h2>Find the Best Tech Deals in South Africa</h2>
+<input id="dealSearch" type="text" placeholder="Search laptops, consoles, etc..." style="width:100%;padding:10px;border-radius:8px;">
+<div id="dealResults"></div>
+
+<script>
+// Loads deals.json (from your site root)
+async function loadDeals() {
+    let res = await fetch('deals.json');
+    let data = await res.json();
+    return data;
+}
+
+function renderDeals(deals, query="") {
+    let out = '';
+    for (let deal of deals) {
+        if (query && !deal.product.toLowerCase().includes(query.toLowerCase()) && !deal.category.toLowerCase().includes(query.toLowerCase())) continue;
+        out += `
+        <div class="deal">
+            <h3>${deal.product}</h3>
+            <p><b>Best Price:</b> R${deal.price} @ <b>${deal.store}</b></p>
+            <a href="${deal.affiliate_url}" target="_blank" class="cta">View Deal</a>
+            <button onclick="showMore('${deal.product.replace(/'/g, "\\'")}')">Show More Offers</button>
+            <div id="more-${deal.product.replace(/\s+/g,'-')}" style="display:none;"></div>
+        </div>`;
+    }
+    if (!out) out = "<p>No deals found for your search.</p>";
+    document.getElementById('dealResults').innerHTML = out;
+}
+
+// Show more offers for a product
+async function showMore(product) {
+    let res = await fetch('deals.json');
+    let data = await res.json();
+    let offers = data.all_deals.filter(d => d.product === product);
+    let moreDiv = document.getElementById('more-'+product.replace(/\s+/g,'-'));
+    if (moreDiv.style.display === "block") {
+        moreDiv.style.display = "none";
+        return;
+    }
+    let html = "<ul>";
+    for (let o of offers) {
+        html += `<li>R${o.price} @ <b>${o.store}</b> <a href="${o.affiliate_url}" target="_blank">View</a></li>`;
+    }
+    html += "</ul>";
+    moreDiv.innerHTML = html;
+    moreDiv.style.display = "block";
+}
+
+window.onload = async () => {
+    let data = await loadDeals();
+    renderDeals(data.best_deals);
+
+    document.getElementById('dealSearch').addEventListener('input', async (e) => {
+        let data = await loadDeals();
+        renderDeals(data.best_deals, e.target.value);
+    });
+};
+</script>
+
     <nav>
       <a href="index.html">Home</a>
       <a href="about.html">About</a>
