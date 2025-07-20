@@ -1,0 +1,28 @@
+name: Auto Update Deals
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'   # Every day at midnight UTC
+  workflow_dispatch:        # Allows manual run from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+
+    - name: Generate index.html
+      run: python generate_index.py
+
+    - name: Comm
