@@ -1,6 +1,11 @@
 import json
+import os
 
-# Dummy deals for demonstration.
+print("SCRIPT IS RUNNING!")
+print("CWD:", os.getcwd())
+print("Files in CWD:", os.listdir())
+
+# Dummy deals for test (works even if scraping is empty)
 takealot = [
     {
         "product": "Demo Laptop",
@@ -36,11 +41,6 @@ def master_deal_merge(*deal_lists):
     return list(best.values()), all_deals
 
 if __name__ == "__main__":
-    print("SCRIPT IS RUNNING")
+    print("About to merge deals...")
     best_deals, all_deals = master_deal_merge(takealot, loot, evetech, ic, mania)
-    with open('deals.json', 'w', encoding='utf-8') as f:
-        json.dump({
-            "best_deals": best_deals,
-            "all_deals": all_deals
-        }, f, indent=2)
-    print(f"Scraped and saved {len(best_deals)} best deals, {len(all_deals)} total offers.")
+    print("Best deals:", len(best_deals), "All deals:", len(all_de
