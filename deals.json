@@ -19,7 +19,7 @@
     {
       "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -161,18 +161,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Asus Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 14000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -617,6 +617,14 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Switch OLED + The Legend of Zelda: TOTK Bundle",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-the-legend-of-zelda-totk-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -629,14 +637,6 @@
       "store": "Incredible Connection",
       "price": 699,
       "affiliate_url": "https://www.incredible.co.za/xbox-one-turtle-beach-recon-50x",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch OLED + The Legend of Zelda: TOTK Bundle",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-the-legend-of-zelda-totk-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -817,18 +817,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 19499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 DualSense Wireless Controller - Galactic Purple",
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 19499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -861,7 +861,7 @@
     {
       "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1003,18 +1003,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Asus Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 14000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1459,6 +1459,14 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Switch OLED + The Legend of Zelda: TOTK Bundle",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-the-legend-of-zelda-totk-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -1471,14 +1479,6 @@
       "store": "Incredible Connection",
       "price": 699,
       "affiliate_url": "https://www.incredible.co.za/xbox-one-turtle-beach-recon-50x",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch OLED + The Legend of Zelda: TOTK Bundle",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-the-legend-of-zelda-totk-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1659,18 +1659,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 19499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 DualSense Wireless Controller - Galactic Purple",
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 19499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
