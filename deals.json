@@ -337,6 +337,22 @@
       "alternatives": []
     },
     {
+      "product": "Huawei nova Y63 128GB Silver",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova Y72s Black",
+      "store": "Incredible Connection",
+      "price": 1100,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
@@ -355,7 +371,7 @@
     {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb-titanium-black",
       "category": "Phones",
       "alternatives": []
@@ -393,6 +409,14 @@
       "alternatives": []
     },
     {
+      "product": "Motorola G35 5G 128GB Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 2799,
+      "affiliate_url": "https://www.incredible.co.za/motorola-g35-5g-128gb-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Xiaomi Redmi Note 13 Pro",
       "store": "Incredible Connection",
       "price": 1700,
@@ -401,10 +425,26 @@
       "alternatives": []
     },
     {
+      "product": "Motorola G05 128GB Green Dual Sim",
+      "store": "Incredible Connection",
+      "price": 1899,
+      "affiliate_url": "https://www.incredible.co.za/motorola-g05-128gb-green-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Honor X5B 64GB DS Midnight Black",
       "store": "Incredible Connection",
       "price": 100,
       "affiliate_url": "https://www.incredible.co.za/honor-x5b-64gb-ds-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova 13i Blue",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i-blue",
       "category": "Phones",
       "alternatives": []
     },
@@ -433,6 +473,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei nova Y63 128GB Black",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
       "price": 5999,
@@ -453,6 +501,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/honor-x9c-jade-cyan",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei nova Y63",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63",
       "category": "Phones",
       "alternatives": []
     },
@@ -481,6 +537,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s",
+      "store": "Incredible Connection",
+      "price": 1100,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Honor X5B 64GB DS  Blue",
       "store": "Incredible Connection",
       "price": 1799,
@@ -489,74 +553,10 @@
       "alternatives": []
     },
     {
-      "product": "Honor X5B Plus 128GB DS Midnight Black",
+      "product": "Motorola E15 64GB Blue Dual Sim",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/honor-x5b-plus-128gb-ds-midnight-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi 14T 512GB Titan Black incl Robovac E5",
-      "store": "Incredible Connection",
-      "price": 20499,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-14t-512gb-titan-black-incl-robovac-e5",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Honor X6B 128GB Midnight Black",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/honor-x6b-128gb-midnight-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S24 Ultra 256GB",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S24 256GB",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "HONOR X7c",
-      "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/honor-x7c",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS 43mm Black",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit  3 GPS 43mm White",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
+      "price": 1599,
+      "affiliate_url": "https://www.incredible.co.za/motorola-e15-64gb-blue-dual-sim",
       "category": "Phones",
       "alternatives": []
     },
@@ -1179,6 +1179,22 @@
       "alternatives": []
     },
     {
+      "product": "Huawei nova Y63 128GB Silver",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova Y72s Black",
+      "store": "Incredible Connection",
+      "price": 1100,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
@@ -1197,7 +1213,7 @@
     {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb-titanium-black",
       "category": "Phones",
       "alternatives": []
@@ -1235,6 +1251,14 @@
       "alternatives": []
     },
     {
+      "product": "Motorola G35 5G 128GB Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 2799,
+      "affiliate_url": "https://www.incredible.co.za/motorola-g35-5g-128gb-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Xiaomi Redmi Note 13 Pro",
       "store": "Incredible Connection",
       "price": 1700,
@@ -1243,10 +1267,26 @@
       "alternatives": []
     },
     {
+      "product": "Motorola G05 128GB Green Dual Sim",
+      "store": "Incredible Connection",
+      "price": 1899,
+      "affiliate_url": "https://www.incredible.co.za/motorola-g05-128gb-green-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Honor X5B 64GB DS Midnight Black",
       "store": "Incredible Connection",
       "price": 100,
       "affiliate_url": "https://www.incredible.co.za/honor-x5b-64gb-ds-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova 13i Blue",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i-blue",
       "category": "Phones",
       "alternatives": []
     },
@@ -1275,6 +1315,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei nova Y63 128GB Black",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
       "price": 5999,
@@ -1295,6 +1343,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/honor-x9c-jade-cyan",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei nova Y63",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63",
       "category": "Phones",
       "alternatives": []
     },
@@ -1323,6 +1379,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s",
+      "store": "Incredible Connection",
+      "price": 1100,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Honor X5B 64GB DS  Blue",
       "store": "Incredible Connection",
       "price": 1799,
@@ -1331,74 +1395,10 @@
       "alternatives": []
     },
     {
-      "product": "Honor X5B Plus 128GB DS Midnight Black",
+      "product": "Motorola E15 64GB Blue Dual Sim",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/honor-x5b-plus-128gb-ds-midnight-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi 14T 512GB Titan Black incl Robovac E5",
-      "store": "Incredible Connection",
-      "price": 20499,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-14t-512gb-titan-black-incl-robovac-e5",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Honor X6B 128GB Midnight Black",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/honor-x6b-128gb-midnight-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S24 Ultra 256GB",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S24 256GB",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "HONOR X7c",
-      "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/honor-x7c",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS 43mm Black",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit  3 GPS 43mm White",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
+      "price": 1599,
+      "affiliate_url": "https://www.incredible.co.za/motorola-e15-64gb-blue-dual-sim",
       "category": "Phones",
       "alternatives": []
     },
