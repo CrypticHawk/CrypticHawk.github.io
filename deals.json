@@ -41,6 +41,14 @@
       "alternatives": []
     },
     {
+      "product": "Proline 14.1-inch Intel\u00ae Core\u00ae i5-1035G7 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/proline-14-1-inch-intel-core-i5-1035g7-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Acer Aspire Lite 15 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 5999,
@@ -241,14 +249,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4020-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -389,14 +389,6 @@
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb-onyx-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A25 5G 128GB Blue Black",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a25-5g-128gb-blue-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 829,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
       "category": "Phones",
       "alternatives": []
     },
@@ -883,6 +883,14 @@
       "alternatives": []
     },
     {
+      "product": "Proline 14.1-inch Intel\u00ae Core\u00ae i5-1035G7 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/proline-14-1-inch-intel-core-i5-1035g7-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Acer Aspire Lite 15 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 5999,
@@ -1083,14 +1091,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4020-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1231,14 +1231,6 @@
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb-onyx-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A25 5G 128GB Blue Black",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a25-5g-128gb-blue-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1399,6 +1391,14 @@
       "store": "Incredible Connection",
       "price": 829,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
       "category": "Phones",
       "alternatives": []
     },
