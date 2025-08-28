@@ -449,14 +449,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 3800,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
       "price": 2300,
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 829,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -747,7 +747,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
-      "price": 1949,
+      "price": 430,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
@@ -755,7 +755,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 1949,
+      "price": 430,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
@@ -1291,14 +1291,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 3800,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
       "price": 2300,
@@ -1399,6 +1391,14 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 829,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1589,7 +1589,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
-      "price": 1949,
+      "price": 430,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
@@ -1597,7 +1597,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 1949,
+      "price": 430,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
