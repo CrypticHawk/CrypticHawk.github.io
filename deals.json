@@ -25,7 +25,7 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
@@ -51,7 +51,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -91,7 +91,7 @@
     {
       "product": "TUF A16 AMD Ryzen\u21225 7535HS 16GB RAM & 512GB SSD RTX\u2122 4050 Win11 Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 18999,
       "affiliate_url": "https://www.incredible.co.za/tuf-a16-amd-ryzen5-7535hs-16gb-ram-512gb-ssd-rtx-4050-win11-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -99,7 +99,7 @@
     {
       "product": "Lenovo IP 1 AMD\u00ae Athlon\u2122 7120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 8499,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ip-1-amd-athlon-7120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -163,7 +163,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -203,7 +203,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -233,18 +233,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 5 2-in-1 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 8000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-5-2-in-1-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -275,7 +275,7 @@
     {
       "product": "Surface Pro 11 13-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 13000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/surface-pro-11-13-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -283,7 +283,7 @@
     {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 650,
+      "price": 600,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -299,7 +299,7 @@
     {
       "product": "Apple iPhone 13 128GB Midnight",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 10999,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-128gb-midnight",
       "category": "Phones",
       "alternatives": []
@@ -307,7 +307,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 600,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -323,7 +323,7 @@
     {
       "product": "Apple iPhone 15 128GB Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 16499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -387,7 +387,7 @@
     {
       "product": "Xiaomi Redmi Note 13 Pro",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1700,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-13-pro",
       "category": "Phones",
       "alternatives": []
@@ -491,7 +491,7 @@
     {
       "product": "Samsung Galaxy Flip7 512GB Jet Black",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 29999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-flip7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -523,7 +523,7 @@
     {
       "product": "Samsung Galaxy Fold7 1TB Jet Black",
       "store": "Incredible Connection",
-      "price": 9000,
+      "price": 54999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-1tb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -545,18 +545,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Xiaomi Redmi 15C 128GB Midnight Black",
       "store": "Incredible Connection",
       "price": 2499,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Watch Fit 3 GPS Green 43mm",
+      "store": "Incredible Connection",
+      "price": 600,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
     },
@@ -747,7 +747,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
-      "price": 430,
+      "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
@@ -755,7 +755,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 430,
+      "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
@@ -835,7 +835,7 @@
     {
       "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
       "store": "Incredible Connection",
-      "price": 20,
+      "price": 159,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
@@ -867,7 +867,7 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
@@ -893,7 +893,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -933,7 +933,7 @@
     {
       "product": "TUF A16 AMD Ryzen\u21225 7535HS 16GB RAM & 512GB SSD RTX\u2122 4050 Win11 Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 18999,
       "affiliate_url": "https://www.incredible.co.za/tuf-a16-amd-ryzen5-7535hs-16gb-ram-512gb-ssd-rtx-4050-win11-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -941,7 +941,7 @@
     {
       "product": "Lenovo IP 1 AMD\u00ae Athlon\u2122 7120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 8499,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ip-1-amd-athlon-7120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1005,7 +1005,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1045,7 +1045,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1075,18 +1075,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 5 2-in-1 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 8000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-5-2-in-1-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1117,7 +1117,7 @@
     {
       "product": "Surface Pro 11 13-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 13000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/surface-pro-11-13-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1125,7 +1125,7 @@
     {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 650,
+      "price": 600,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -1141,7 +1141,7 @@
     {
       "product": "Apple iPhone 13 128GB Midnight",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 10999,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-128gb-midnight",
       "category": "Phones",
       "alternatives": []
@@ -1149,7 +1149,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 600,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -1165,7 +1165,7 @@
     {
       "product": "Apple iPhone 15 128GB Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 16499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1229,7 +1229,7 @@
     {
       "product": "Xiaomi Redmi Note 13 Pro",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1700,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-13-pro",
       "category": "Phones",
       "alternatives": []
@@ -1333,7 +1333,7 @@
     {
       "product": "Samsung Galaxy Flip7 512GB Jet Black",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 29999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-flip7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -1365,7 +1365,7 @@
     {
       "product": "Samsung Galaxy Fold7 1TB Jet Black",
       "store": "Incredible Connection",
-      "price": 9000,
+      "price": 54999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-1tb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -1387,18 +1387,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Xiaomi Redmi 15C 128GB Midnight Black",
       "store": "Incredible Connection",
       "price": 2499,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Watch Fit 3 GPS Green 43mm",
+      "store": "Incredible Connection",
+      "price": 600,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
     },
@@ -1589,7 +1589,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
-      "price": 430,
+      "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
@@ -1597,7 +1597,7 @@
     {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 430,
+      "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
@@ -1677,7 +1677,7 @@
     {
       "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
       "store": "Incredible Connection",
-      "price": 20,
+      "price": 159,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
