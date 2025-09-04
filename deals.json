@@ -59,7 +59,7 @@
     {
       "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -131,16 +131,8 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-and-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 15999,
-      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -149,6 +141,14 @@
       "store": "Incredible Connection",
       "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/hp-255-amd-ryzen-3-7330u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 15999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -163,7 +163,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -243,7 +243,7 @@
     {
       "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -379,7 +379,7 @@
     {
       "product": "Xiaomi Redmi Note 13 Pro",
       "store": "Incredible Connection",
-      "price": 1700,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-13-pro",
       "category": "Phones",
       "alternatives": []
@@ -467,7 +467,7 @@
     {
       "product": "Xiaomi Redmi Note 13 Pro+ 5G 256GB",
       "store": "Incredible Connection",
-      "price": 3500,
+      "price": 3700,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-13-pro-5g-256gb",
       "category": "Phones",
       "alternatives": []
@@ -585,14 +585,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 19499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
       "price": 12499,
@@ -661,6 +653,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 19499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -745,14 +745,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -769,6 +761,14 @@
       "alternatives": []
     },
     {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
       "price": 1699,
@@ -777,18 +777,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
-      "store": "Incredible Connection",
-      "price": 549,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 549,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -901,7 +901,7 @@
     {
       "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -973,16 +973,8 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-and-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 15999,
-      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -991,6 +983,14 @@
       "store": "Incredible Connection",
       "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/hp-255-amd-ryzen-3-7330u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 15999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1005,7 +1005,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1085,7 +1085,7 @@
     {
       "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1221,7 +1221,7 @@
     {
       "product": "Xiaomi Redmi Note 13 Pro",
       "store": "Incredible Connection",
-      "price": 1700,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-13-pro",
       "category": "Phones",
       "alternatives": []
@@ -1309,7 +1309,7 @@
     {
       "product": "Xiaomi Redmi Note 13 Pro+ 5G 256GB",
       "store": "Incredible Connection",
-      "price": 3500,
+      "price": 3700,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-13-pro-5g-256gb",
       "category": "Phones",
       "alternatives": []
@@ -1427,14 +1427,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 19499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
       "price": 12499,
@@ -1503,6 +1495,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 19499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1587,14 +1587,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1611,6 +1603,14 @@
       "alternatives": []
     },
     {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
       "price": 1699,
@@ -1619,18 +1619,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
-      "store": "Incredible Connection",
-      "price": 549,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 549,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
