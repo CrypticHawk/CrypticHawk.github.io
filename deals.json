@@ -11,7 +11,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -107,7 +107,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -123,7 +123,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 10999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -411,7 +411,7 @@
     {
       "product": "Samsung Galaxy Watch7 44mm BT Green",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 6499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-44mm-bt-green",
       "category": "Phones",
       "alternatives": []
@@ -427,7 +427,7 @@
     {
       "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
-      "price": 2300,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream",
       "category": "Phones",
       "alternatives": []
@@ -627,7 +627,7 @@
     {
       "product": "PS5 Slim Digital Edition",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
@@ -635,7 +635,7 @@
     {
       "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
-      "price": 1400,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
@@ -651,7 +651,7 @@
     {
       "product": "PlayStation\u00ae5 Pro Console",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 19499,
       "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
@@ -683,7 +683,7 @@
     {
       "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
@@ -721,18 +721,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -853,7 +853,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -949,7 +949,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -965,7 +965,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 10999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1253,7 +1253,7 @@
     {
       "product": "Samsung Galaxy Watch7 44mm BT Green",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 6499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-44mm-bt-green",
       "category": "Phones",
       "alternatives": []
@@ -1269,7 +1269,7 @@
     {
       "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
-      "price": 2300,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream",
       "category": "Phones",
       "alternatives": []
@@ -1469,7 +1469,7 @@
     {
       "product": "PS5 Slim Digital Edition",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
@@ -1477,7 +1477,7 @@
     {
       "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
-      "price": 1400,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
@@ -1493,7 +1493,7 @@
     {
       "product": "PlayStation\u00ae5 Pro Console",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 19499,
       "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
@@ -1525,7 +1525,7 @@
     {
       "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
@@ -1563,18 +1563,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
