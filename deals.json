@@ -59,7 +59,7 @@
     {
       "product": "Acer Aspire Lite 15 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -67,7 +67,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 4999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -91,7 +91,7 @@
     {
       "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -163,7 +163,7 @@
     {
       "product": "Asus Vivobook Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -395,7 +395,7 @@
     {
       "product": "Apple iPhone 12 64GB Black",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 3500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
       "category": "Phones",
       "alternatives": []
@@ -761,18 +761,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Robot White",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
       "price": 250,
       "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -827,7 +827,7 @@
     {
       "product": "SanDisk Ultra Fit\u2122 USB 3.1 128GB",
       "store": "Incredible Connection",
-      "price": 170,
+      "price": 180,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
       "category": "Consoles",
       "alternatives": []
@@ -901,7 +901,7 @@
     {
       "product": "Acer Aspire Lite 15 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -909,7 +909,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 4999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -933,7 +933,7 @@
     {
       "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1005,7 +1005,7 @@
     {
       "product": "Asus Vivobook Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1237,7 +1237,7 @@
     {
       "product": "Apple iPhone 12 64GB Black",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 3500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1603,18 +1603,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Robot White",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
       "price": 250,
       "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1669,7 +1669,7 @@
     {
       "product": "SanDisk Ultra Fit\u2122 USB 3.1 128GB",
       "store": "Incredible Connection",
-      "price": 170,
+      "price": 180,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
       "category": "Consoles",
       "alternatives": []
