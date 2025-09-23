@@ -11,7 +11,7 @@
     {
       "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -129,18 +129,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
+      "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
+      "price": 9000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
+      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -155,7 +155,7 @@
     {
       "product": "Asus Vivobook Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -185,18 +185,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo Ideapad 3 Intel\u00ae Core\u2122 i5-12450H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-12450h-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -235,16 +235,8 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 32999,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 19499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 19499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -729,18 +729,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -761,18 +761,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
-      "store": "Incredible Connection",
-      "price": 180,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
       "price": 300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-electric-volt",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 180,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -853,7 +853,7 @@
     {
       "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -971,18 +971,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
+      "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
+      "price": 9000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
+      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -997,7 +997,7 @@
     {
       "product": "Asus Vivobook Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1027,18 +1027,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo Ideapad 3 Intel\u00ae Core\u2122 i5-12450H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-12450h-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1077,16 +1077,8 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad5 Slim Intel\u00ae Core\u2122 Ultra 7 155U 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad5-slim-intel-core-ultra-7-155u-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 32999,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 19499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 19499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1571,18 +1571,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1603,18 +1603,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
-      "store": "Incredible Connection",
-      "price": 180,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
       "price": 300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-electric-volt",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 180,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
