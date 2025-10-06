@@ -35,7 +35,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -131,7 +131,7 @@
     {
       "product": "Lenovo IP 1 AMD\u00ae Athlon\u2122 7120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 8499,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ip-1-amd-athlon-7120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -641,18 +641,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -691,7 +691,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -699,7 +699,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -715,7 +715,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -731,7 +731,7 @@
     {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -779,7 +779,7 @@
     {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-electric-volt",
       "category": "Consoles",
       "alternatives": []
@@ -877,7 +877,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -973,7 +973,7 @@
     {
       "product": "Lenovo IP 1 AMD\u00ae Athlon\u2122 7120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 8499,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ip-1-amd-athlon-7120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1483,18 +1483,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1533,7 +1533,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -1541,7 +1541,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -1557,7 +1557,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1573,7 +1573,7 @@
     {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -1621,7 +1621,7 @@
     {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-electric-volt",
       "category": "Consoles",
       "alternatives": []
