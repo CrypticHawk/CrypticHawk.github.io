@@ -9,10 +9,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -25,10 +25,10 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
+      "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -209,10 +209,10 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
+      "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3799,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -225,10 +225,10 @@
       "alternatives": []
     },
     {
-      "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
+      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
+      "price": 3799,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -257,18 +257,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i5 12450HX 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i5-12450hx-16gb-ram-512gb-ssd-rtx-3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 3520 Intel\u00ae Core\u2122 i5-1235U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-3520-intel-core-i5-1235u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -409,6 +409,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S25 FE 128GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S24 256GB",
       "store": "Incredible Connection",
       "price": 1000,
@@ -425,10 +433,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 FE 128GB Jet Black",
+      "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova 13i",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i",
       "category": "Phones",
       "alternatives": []
     },
@@ -441,26 +457,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch7 40mm BT Cream",
-      "store": "Incredible Connection",
-      "price": 1300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
       "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Nova 13i",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i",
       "category": "Phones",
       "alternatives": []
     },
@@ -585,18 +585,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 Console",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 Console",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -625,6 +625,14 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 13499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
       "price": 1000,
@@ -645,14 +653,6 @@
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 13499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -689,18 +689,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller - Carbon Black",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
     },
@@ -721,18 +721,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Red",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
       "price": 150,
       "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
     },
@@ -769,14 +769,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
       "price": 1699,
@@ -789,6 +781,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
@@ -851,10 +851,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -867,10 +867,10 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
+      "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1051,10 +1051,10 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
+      "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3799,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1067,10 +1067,10 @@
       "alternatives": []
     },
     {
-      "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
+      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
+      "price": 3799,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1099,18 +1099,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i5 12450HX 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i5-12450hx-16gb-ram-512gb-ssd-rtx-3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 3520 Intel\u00ae Core\u2122 i5-1235U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-3520-intel-core-i5-1235u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1251,6 +1251,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S25 FE 128GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S24 256GB",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1267,10 +1275,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 FE 128GB Jet Black",
+      "product": "Samsung Galaxy Watch7 40mm BT Cream",
       "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova 13i",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i",
       "category": "Phones",
       "alternatives": []
     },
@@ -1283,26 +1299,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch7 40mm BT Cream",
-      "store": "Incredible Connection",
-      "price": 1300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
       "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Nova 13i",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i",
       "category": "Phones",
       "alternatives": []
     },
@@ -1427,18 +1427,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 Console",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 Console",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1467,6 +1467,14 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 13499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1487,14 +1495,6 @@
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 13499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1531,18 +1531,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller - Carbon Black",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1563,18 +1563,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Red",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
       "price": 150,
       "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1611,14 +1611,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Electric Volt",
       "store": "Incredible Connection",
       "price": 1699,
@@ -1631,6 +1623,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
