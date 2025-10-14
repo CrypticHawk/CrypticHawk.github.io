@@ -33,18 +33,18 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -171,15 +171,23 @@
     {
       "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 9000,
+      "price": 6000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo Flex 5 AMD Ryzen\u2122 5 7430U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-flex-5-amd-ryzen-5-7430u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -211,7 +219,7 @@
     {
       "product": "Vivobook X1407 Intel\u00ae Core\u2122 Ultra 5 225H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/vivobook-x1407-intel-core-ultra-5-225h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -259,7 +267,7 @@
     {
       "product": "Dell Inspiron 3520 Intel\u00ae Core\u2122 i5-1235U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/dell-inspiron-3520-intel-core-i5-1235u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -269,14 +277,6 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -355,7 +355,7 @@
     {
       "product": "Huawei Nova 13i Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i-blue",
       "category": "Phones",
       "alternatives": []
@@ -387,7 +387,7 @@
     {
       "product": "Apple iPhone 12 64GB Black",
       "store": "Incredible Connection",
-      "price": 3500,
+      "price": 4500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
       "category": "Phones",
       "alternatives": []
@@ -427,7 +427,7 @@
     {
       "product": "ZTE Blade L210 Dual Sim Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/zte-blade-l210-dual-sim-black",
       "category": "Phones",
       "alternatives": []
@@ -443,7 +443,7 @@
     {
       "product": "Huawei Nova 13i",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i",
       "category": "Phones",
       "alternatives": []
@@ -529,6 +529,14 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "UAG Apple iPhone 16 Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
@@ -545,18 +553,10 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "product": "UAG Apple iPhone 16 Pathfinder Magsafe Case Black",
       "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Plyo Magsafe Case Ice White",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-magsafe-case-ice-white",
+      "price": 829,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -819,7 +819,7 @@
     {
       "product": "SanDisk Ultra Fit\u2122 USB 3.1 128GB",
       "store": "Incredible Connection",
-      "price": 180,
+      "price": 429,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
       "category": "Consoles",
       "alternatives": []
@@ -875,18 +875,18 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1013,15 +1013,23 @@
     {
       "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 9000,
+      "price": 6000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo Flex 5 AMD Ryzen\u2122 5 7430U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-flex-5-amd-ryzen-5-7430u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1053,7 +1061,7 @@
     {
       "product": "Vivobook X1407 Intel\u00ae Core\u2122 Ultra 5 225H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/vivobook-x1407-intel-core-ultra-5-225h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1101,7 +1109,7 @@
     {
       "product": "Dell Inspiron 3520 Intel\u00ae Core\u2122 i5-1235U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/dell-inspiron-3520-intel-core-i5-1235u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1111,14 +1119,6 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1197,7 +1197,7 @@
     {
       "product": "Huawei Nova 13i Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i-blue",
       "category": "Phones",
       "alternatives": []
@@ -1229,7 +1229,7 @@
     {
       "product": "Apple iPhone 12 64GB Black",
       "store": "Incredible Connection",
-      "price": 3500,
+      "price": 4500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1269,7 +1269,7 @@
     {
       "product": "ZTE Blade L210 Dual Sim Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/zte-blade-l210-dual-sim-black",
       "category": "Phones",
       "alternatives": []
@@ -1285,7 +1285,7 @@
     {
       "product": "Huawei Nova 13i",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-13i",
       "category": "Phones",
       "alternatives": []
@@ -1371,6 +1371,14 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "UAG Apple iPhone 16 Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
@@ -1387,18 +1395,10 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "product": "UAG Apple iPhone 16 Pathfinder Magsafe Case Black",
       "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Plyo Magsafe Case Ice White",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-magsafe-case-ice-white",
+      "price": 829,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1661,7 +1661,7 @@
     {
       "product": "SanDisk Ultra Fit\u2122 USB 3.1 128GB",
       "store": "Incredible Connection",
-      "price": 180,
+      "price": 429,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
       "category": "Consoles",
       "alternatives": []
