@@ -201,6 +201,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 5 2-in-1 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 24999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-5-2-in-1-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 6000,
@@ -269,14 +277,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Dell Inspiron 3520 Intel\u00ae Core\u2122 i5-1235U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-3520-intel-core-i5-1235u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
       "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1043,6 +1043,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 5 2-in-1 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 24999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-5-2-in-1-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 6000,
@@ -1111,14 +1119,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Dell Inspiron 3520 Intel\u00ae Core\u2122 i5-1235U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-3520-intel-core-i5-1235u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
       "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
