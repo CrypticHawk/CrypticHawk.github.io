@@ -19,7 +19,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -75,7 +75,7 @@
     {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4799,
       "affiliate_url": "https://www.incredible.co.za/proline-14-intel-celeron-n4020-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -211,7 +211,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 7730U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7730u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -259,7 +259,7 @@
     {
       "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -333,14 +333,6 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei nova Y63 128GB Black",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -553,6 +545,14 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -621,6 +621,14 @@
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edtion Console + Dualsense Teal",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edtion-console-dualsense-teal",
       "category": "Consoles",
       "alternatives": []
     },
@@ -821,14 +829,6 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
-      "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
@@ -853,7 +853,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -909,7 +909,7 @@
     {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4799,
       "affiliate_url": "https://www.incredible.co.za/proline-14-intel-celeron-n4020-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1045,7 +1045,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 7730U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7730u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1093,7 +1093,7 @@
     {
       "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1167,14 +1167,6 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei nova Y63 128GB Black",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1387,6 +1379,14 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -1455,6 +1455,14 @@
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edtion Console + Dualsense Teal",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edtion-console-dualsense-teal",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1655,14 +1663,6 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
-      "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
