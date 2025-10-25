@@ -97,18 +97,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -353,6 +353,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s Black",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPhone 14 128GB Midnight",
       "store": "Incredible Connection",
       "price": 3800,
@@ -465,6 +473,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Huawei Watch Fit 3 GPS 43mm Pink",
       "store": "Incredible Connection",
       "price": 2999,
@@ -521,6 +537,14 @@
       "alternatives": []
     },
     {
+      "product": "Ulefone Armor 17 Pro Rugged Phone Black",
+      "store": "Incredible Connection",
+      "price": 7299,
+      "affiliate_url": "https://www.incredible.co.za/ulefone-armor-17-pro-rugged-phone-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Nokia 105 Black DS",
       "store": "Incredible Connection",
       "price": 249,
@@ -533,30 +557,6 @@
       "store": "Incredible Connection",
       "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/yoco-counter-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 829,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Pathfinder Clear Magsafe Case Ice",
-      "store": "Incredible Connection",
-      "price": 979,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-clear-magsafe-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Ulefone Armor 17 Pro Rugged Phone Black",
-      "store": "Incredible Connection",
-      "price": 7299,
-      "affiliate_url": "https://www.incredible.co.za/ulefone-armor-17-pro-rugged-phone-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -681,18 +681,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
       "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -769,18 +769,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -939,18 +939,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1195,6 +1195,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s Black",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPhone 14 128GB Midnight",
       "store": "Incredible Connection",
       "price": 3800,
@@ -1307,6 +1315,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Huawei Watch Fit 3 GPS 43mm Pink",
       "store": "Incredible Connection",
       "price": 2999,
@@ -1363,6 +1379,14 @@
       "alternatives": []
     },
     {
+      "product": "Ulefone Armor 17 Pro Rugged Phone Black",
+      "store": "Incredible Connection",
+      "price": 7299,
+      "affiliate_url": "https://www.incredible.co.za/ulefone-armor-17-pro-rugged-phone-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Nokia 105 Black DS",
       "store": "Incredible Connection",
       "price": 249,
@@ -1375,30 +1399,6 @@
       "store": "Incredible Connection",
       "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/yoco-counter-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 829,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Pathfinder Clear Magsafe Case Ice",
-      "store": "Incredible Connection",
-      "price": 979,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-clear-magsafe-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Ulefone Armor 17 Pro Rugged Phone Black",
-      "store": "Incredible Connection",
-      "price": 7299,
-      "affiliate_url": "https://www.incredible.co.za/ulefone-armor-17-pro-rugged-phone-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1523,18 +1523,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Pro Console",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
       "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Pro Console",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1611,18 +1611,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
