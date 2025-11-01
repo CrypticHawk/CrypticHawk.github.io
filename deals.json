@@ -75,7 +75,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -115,7 +115,7 @@
     {
       "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -131,7 +131,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 11999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -141,14 +141,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -249,18 +241,18 @@
       "alternatives": []
     },
     {
-      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 22999,
-      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Victus 15 Intel\u00ae Core\u2122 i5 13420H 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-victus-15-intel-core-i5-13420h-16gb-ram-512gb-ssd-rtx-3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 22999,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,9 +273,17 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 650,
+      "price": 1299,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -307,7 +307,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 600,
+      "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -315,7 +315,7 @@
     {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 24999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb-titanium-black",
       "category": "Phones",
       "alternatives": []
@@ -355,7 +355,7 @@
     {
       "product": "Samsung Galaxy S24 256GB Onyx Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb-onyx-black",
       "category": "Phones",
       "alternatives": []
@@ -379,7 +379,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 899,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -411,7 +411,7 @@
     {
       "product": "Samsung Galaxy S24 Ultra 256GB",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 24999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb",
       "category": "Phones",
       "alternatives": []
@@ -435,7 +435,7 @@
     {
       "product": "Samsung Galaxy S24 256GB",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb",
       "category": "Phones",
       "alternatives": []
@@ -451,7 +451,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
@@ -475,8 +475,16 @@
     {
       "product": "Huawei Watch Fit  3 GPS 43mm White",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova Y72s Black",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -529,6 +537,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S25 Edge 256GB Black",
       "store": "Incredible Connection",
       "price": 24999,
@@ -541,22 +557,6 @@
       "store": "Incredible Connection",
       "price": 3800,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS 43mm",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -595,7 +595,7 @@
     {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -699,7 +699,7 @@
     {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -715,7 +715,7 @@
     {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
       "category": "Consoles",
       "alternatives": []
@@ -917,7 +917,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -957,7 +957,7 @@
     {
       "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -973,7 +973,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 11999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -983,14 +983,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1091,18 +1083,18 @@
       "alternatives": []
     },
     {
-      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 22999,
-      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Victus 15 Intel\u00ae Core\u2122 i5 13420H 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-victus-15-intel-core-i5-13420h-16gb-ram-512gb-ssd-rtx-3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 22999,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,9 +1115,17 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 650,
+      "price": 1299,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -1149,7 +1149,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 600,
+      "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -1157,7 +1157,7 @@
     {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 24999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb-titanium-black",
       "category": "Phones",
       "alternatives": []
@@ -1197,7 +1197,7 @@
     {
       "product": "Samsung Galaxy S24 256GB Onyx Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb-onyx-black",
       "category": "Phones",
       "alternatives": []
@@ -1221,7 +1221,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 899,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -1253,7 +1253,7 @@
     {
       "product": "Samsung Galaxy S24 Ultra 256GB",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 24999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-ultra-256gb",
       "category": "Phones",
       "alternatives": []
@@ -1277,7 +1277,7 @@
     {
       "product": "Samsung Galaxy S24 256GB",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s24-256gb",
       "category": "Phones",
       "alternatives": []
@@ -1293,7 +1293,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
@@ -1317,8 +1317,16 @@
     {
       "product": "Huawei Watch Fit  3 GPS 43mm White",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova Y72s Black",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1371,6 +1379,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y72s",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S25 Edge 256GB Black",
       "store": "Incredible Connection",
       "price": 24999,
@@ -1383,22 +1399,6 @@
       "store": "Incredible Connection",
       "price": 3800,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS 43mm",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -1437,7 +1437,7 @@
     {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1541,7 +1541,7 @@
     {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1557,7 +1557,7 @@
     {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
       "category": "Consoles",
       "alternatives": []
