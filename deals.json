@@ -729,14 +729,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation Portal\u2122 Remote Player Midnight Black",
-      "store": "Incredible Connection",
-      "price": 5499,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal-remote-player-midnight-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation Portal",
       "store": "Incredible Connection",
       "price": 5499,
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Starlight Blue",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-starlight-blue",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1571,14 +1571,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation Portal\u2122 Remote Player Midnight Black",
-      "store": "Incredible Connection",
-      "price": 5499,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal-remote-player-midnight-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation Portal",
       "store": "Incredible Connection",
       "price": 5499,
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Starlight Blue",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-starlight-blue",
       "category": "Consoles",
       "alternatives": []
     }
