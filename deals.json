@@ -3,7 +3,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -59,7 +59,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -83,7 +83,7 @@
     {
       "product": "Lenovo IP 1 AMD\u00ae Athlon\u2122 7120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ip-1-amd-athlon-7120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -123,7 +123,7 @@
     {
       "product": "Packard Bell Mclaren Intel\u00ae Celeron\u00ae N4020 4GB RAM 64GB eMMC Laptop",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -227,7 +227,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 11999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -259,7 +259,7 @@
     {
       "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
       "store": "Incredible Connection",
-      "price": 21999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -347,7 +347,7 @@
     {
       "product": "Apple iPhone 14 128GB Midnight",
       "store": "Incredible Connection",
-      "price": 3800,
+      "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
       "category": "Phones",
       "alternatives": []
@@ -689,14 +689,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation Portal",
-      "store": "Incredible Connection",
-      "price": 5499,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Digital Bundle + EA FC 26",
       "store": "Incredible Connection",
       "price": 12899,
@@ -745,18 +737,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Robot White",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Bundle + EA FC 26",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -793,6 +785,14 @@
       "alternatives": []
     },
     {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -805,14 +805,6 @@
       "store": "Incredible Connection",
       "price": 450,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
-      "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Pro  Bundle: EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     }
@@ -845,7 +845,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -901,7 +901,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -925,7 +925,7 @@
     {
       "product": "Lenovo IP 1 AMD\u00ae Athlon\u2122 7120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ip-1-amd-athlon-7120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -965,7 +965,7 @@
     {
       "product": "Packard Bell Mclaren Intel\u00ae Celeron\u00ae N4020 4GB RAM 64GB eMMC Laptop",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1069,7 +1069,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 11999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1101,7 +1101,7 @@
     {
       "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
       "store": "Incredible Connection",
-      "price": 21999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1189,7 +1189,7 @@
     {
       "product": "Apple iPhone 14 128GB Midnight",
       "store": "Incredible Connection",
-      "price": 3800,
+      "price": 15799,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
       "category": "Phones",
       "alternatives": []
@@ -1531,14 +1531,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation Portal",
-      "store": "Incredible Connection",
-      "price": 5499,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Digital Bundle + EA FC 26",
       "store": "Incredible Connection",
       "price": 12899,
@@ -1587,18 +1579,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Robot White",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Slim Disc Bundle + EA FC 26",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1635,6 +1627,14 @@
       "alternatives": []
     },
     {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1647,14 +1647,6 @@
       "store": "Incredible Connection",
       "price": 450,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
-      "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Pro  Bundle: EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     }
