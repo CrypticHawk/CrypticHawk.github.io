@@ -611,7 +611,7 @@
     {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
-      "price": 12499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
       "category": "Consoles",
       "alternatives": []
@@ -651,7 +651,7 @@
     {
       "product": "Nintendo Switch 2 + Mario Kart World",
       "store": "Incredible Connection",
-      "price": 13499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
@@ -673,18 +673,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -785,14 +785,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -805,6 +797,14 @@
       "store": "Incredible Connection",
       "price": 450,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 700,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1453,7 +1453,7 @@
     {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
-      "price": 12499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
       "category": "Consoles",
       "alternatives": []
@@ -1493,7 +1493,7 @@
     {
       "product": "Nintendo Switch 2 + Mario Kart World",
       "store": "Incredible Connection",
-      "price": 13499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
@@ -1515,18 +1515,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1627,14 +1627,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1647,6 +1639,14 @@
       "store": "Incredible Connection",
       "price": 450,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 700,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
