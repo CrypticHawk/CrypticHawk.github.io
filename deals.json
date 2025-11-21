@@ -337,14 +337,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 12 64GB Black",
-      "store": "Incredible Connection",
-      "price": 4500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
       "price": 5000,
@@ -389,6 +381,14 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Flash TouchGo2 Mobile Vending Machine",
+      "store": "Incredible Connection",
+      "price": 750,
+      "affiliate_url": "https://www.incredible.co.za/flash-touchgo2-mobile-vending-machine",
       "category": "Phones",
       "alternatives": []
     },
@@ -481,14 +481,6 @@
       "alternatives": []
     },
     {
-      "product": "Yoco Counter Machine",
-      "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/yoco-counter-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
       "price": 800,
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Essential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1179,14 +1179,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 12 64GB Black",
-      "store": "Incredible Connection",
-      "price": 4500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
       "price": 5000,
@@ -1231,6 +1223,14 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Flash TouchGo2 Mobile Vending Machine",
+      "store": "Incredible Connection",
+      "price": 750,
+      "affiliate_url": "https://www.incredible.co.za/flash-touchgo2-mobile-vending-machine",
       "category": "Phones",
       "alternatives": []
     },
@@ -1323,14 +1323,6 @@
       "alternatives": []
     },
     {
-      "product": "Yoco Counter Machine",
-      "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/yoco-counter-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
       "price": 800,
@@ -1399,6 +1391,14 @@
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Essential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
