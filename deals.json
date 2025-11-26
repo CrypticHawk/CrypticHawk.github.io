@@ -219,7 +219,7 @@
     {
       "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -801,18 +801,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
       "price": 300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 700,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1061,7 +1061,7 @@
     {
       "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1643,18 +1643,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
       "price": 300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 700,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
