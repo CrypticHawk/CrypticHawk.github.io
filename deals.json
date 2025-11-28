@@ -25,14 +25,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4799,
@@ -189,6 +181,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Proline 14 Intel\u00ae Core\u00ae i5 1035G1 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/proline-14-intel-core-i5-1035g1-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -587,7 +587,7 @@
     {
       "product": "PlayStation\u00ae5 Pro Console",
       "store": "Incredible Connection",
-      "price": 20999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
@@ -595,7 +595,7 @@
     {
       "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
       "store": "Incredible Connection",
-      "price": 15499,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
       "category": "Consoles",
       "alternatives": []
@@ -651,7 +651,7 @@
     {
       "product": "PS5 Slim Digital Edition",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 2600,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
@@ -659,7 +659,7 @@
     {
       "product": "PlayStation Portal\u2122 Remote Player - 30th Anniversary Limited Edition",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/playstation-portal-remote-player-30th-anniversary-limited-edition",
       "category": "Consoles",
       "alternatives": []
@@ -667,7 +667,7 @@
     {
       "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 2300,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
@@ -675,7 +675,7 @@
     {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
-      "price": 12999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
@@ -683,7 +683,7 @@
     {
       "product": "PS5 Slim Digital Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 2600,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
@@ -699,16 +699,8 @@
     {
       "product": "PS5 Slim Disc Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 2300,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 15799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -717,6 +709,14 @@
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
+      "store": "Incredible Connection",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -731,7 +731,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Midnight Black",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
       "category": "Consoles",
       "alternatives": []
@@ -761,18 +761,18 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 150,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "store": "Incredible Connection",
+      "price": 150,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -819,7 +819,7 @@
     {
       "product": "PS5 Pro  Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 20999,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
@@ -835,7 +835,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Nova Pink",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
@@ -867,14 +867,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4799,
@@ -1031,6 +1023,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Proline 14 Intel\u00ae Core\u00ae i5 1035G1 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/proline-14-intel-core-i5-1035g1-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1429,7 +1429,7 @@
     {
       "product": "PlayStation\u00ae5 Pro Console",
       "store": "Incredible Connection",
-      "price": 20999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
@@ -1437,7 +1437,7 @@
     {
       "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
       "store": "Incredible Connection",
-      "price": 15499,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
       "category": "Consoles",
       "alternatives": []
@@ -1493,7 +1493,7 @@
     {
       "product": "PS5 Slim Digital Edition",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 2600,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
@@ -1501,7 +1501,7 @@
     {
       "product": "PlayStation Portal\u2122 Remote Player - 30th Anniversary Limited Edition",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/playstation-portal-remote-player-30th-anniversary-limited-edition",
       "category": "Consoles",
       "alternatives": []
@@ -1509,7 +1509,7 @@
     {
       "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 2300,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
@@ -1517,7 +1517,7 @@
     {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
-      "price": 12999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
@@ -1525,7 +1525,7 @@
     {
       "product": "PS5 Slim Digital Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 2600,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
@@ -1541,16 +1541,8 @@
     {
       "product": "PS5 Slim Disc Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 2300,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 15799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1559,6 +1551,14 @@
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
+      "store": "Incredible Connection",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1573,7 +1573,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Midnight Black",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
       "category": "Consoles",
       "alternatives": []
@@ -1603,18 +1603,18 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 150,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "store": "Incredible Connection",
+      "price": 150,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1661,7 +1661,7 @@
     {
       "product": "PS5 Pro  Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 20999,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
@@ -1677,7 +1677,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Nova Pink",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
