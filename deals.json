@@ -41,14 +41,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Intel\u00ae Core\u2122 i3 N305 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i3-n305-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -121,6 +113,14 @@
       "alternatives": []
     },
     {
+      "product": "Asus Vivobook Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -181,14 +181,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Proline 14 Intel\u00ae Core\u00ae i5 1035G1 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/proline-14-intel-core-i5-1035g1-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,6 +273,14 @@
       "alternatives": []
     },
     {
+      "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -333,14 +333,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 12 64GB Black",
-      "store": "Incredible Connection",
-      "price": 4500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
       "category": "Phones",
       "alternatives": []
     },
@@ -883,14 +883,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Intel\u00ae Core\u2122 i3 N305 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i3-n305-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -963,6 +955,14 @@
       "alternatives": []
     },
     {
+      "product": "Asus Vivobook Intel\u00ae Core\u2122 i5-1334U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -1023,14 +1023,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Proline 14 Intel\u00ae Core\u00ae i5 1035G1 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/proline-14-intel-core-i5-1035g1-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,6 +1115,14 @@
       "alternatives": []
     },
     {
+      "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -1175,14 +1175,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 12 64GB Black",
-      "store": "Incredible Connection",
-      "price": 4500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-12-64gb-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1399,6 +1391,14 @@
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
       "category": "Phones",
       "alternatives": []
     },
