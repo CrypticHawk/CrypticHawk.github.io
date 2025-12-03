@@ -67,7 +67,7 @@
     {
       "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -115,7 +115,7 @@
     {
       "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -123,7 +123,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -195,7 +195,7 @@
     {
       "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 7999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -251,7 +251,7 @@
     {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i7-13620H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -283,7 +283,7 @@
     {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 1299,
+      "price": 650,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -307,7 +307,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 1999,
+      "price": 600,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -395,7 +395,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 899,
+      "price": 150,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -475,7 +475,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
@@ -483,7 +483,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS 43mm",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
       "category": "Phones",
       "alternatives": []
@@ -529,14 +529,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 749,
@@ -545,18 +537,26 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Essential Armor Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Plyo Magsafe Case Ice White",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-magsafe-case-ice-white",
       "category": "Phones",
       "alternatives": []
     },
@@ -641,6 +641,14 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 2600,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Switch 2 + Mario Kart World",
       "store": "Incredible Connection",
       "price": 500,
@@ -649,10 +657,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Edition",
+      "product": "PS5 Slim Digital Bundle + EA FC 26",
       "store": "Incredible Connection",
       "price": 2600,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -681,10 +689,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Bundle + EA FC 26",
+      "product": "PS5 Slim Disc Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 2600,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -693,14 +701,6 @@
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 2300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -825,18 +825,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
       "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
@@ -909,7 +909,7 @@
     {
       "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -957,7 +957,7 @@
     {
       "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -965,7 +965,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1037,7 +1037,7 @@
     {
       "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 7999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1093,7 +1093,7 @@
     {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i7-13620H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1125,7 +1125,7 @@
     {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 1299,
+      "price": 650,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -1149,7 +1149,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 1999,
+      "price": 600,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -1237,7 +1237,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 899,
+      "price": 150,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -1317,7 +1317,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
@@ -1325,7 +1325,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS 43mm",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
       "category": "Phones",
       "alternatives": []
@@ -1371,14 +1371,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 749,
@@ -1387,18 +1379,26 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Essential Armor Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Plyo Magsafe Case Ice White",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-magsafe-case-ice-white",
       "category": "Phones",
       "alternatives": []
     },
@@ -1483,6 +1483,14 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 2600,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Switch 2 + Mario Kart World",
       "store": "Incredible Connection",
       "price": 500,
@@ -1491,10 +1499,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Edition",
+      "product": "PS5 Slim Digital Bundle + EA FC 26",
       "store": "Incredible Connection",
       "price": 2600,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1523,10 +1531,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Bundle + EA FC 26",
+      "product": "PS5 Slim Disc Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 2600,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1535,14 +1543,6 @@
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 2300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1667,18 +1667,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
       "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
