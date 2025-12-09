@@ -3,7 +3,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 4999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -83,7 +83,7 @@
     {
       "product": "Packard Bell Mclaren Intel\u00ae Celeron\u00ae N4020 4GB RAM 64GB eMMC Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 3299,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -109,14 +109,6 @@
       "store": "Incredible Connection",
       "price": 21999,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -155,16 +147,8 @@
     {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 12450H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 11999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-12450h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -217,18 +201,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -251,7 +235,7 @@
     {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i7-13620H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -275,8 +259,24 @@
     {
       "product": "Asus ProArt PZ13 Qualcomm\u00ae Snapdragon\u00ae X Plus 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-proart-pz13-qualcomm-snapdragon-x-plus-16gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -355,7 +355,7 @@
     {
       "product": "Huawei nova Y63 128GB Black",
       "store": "Incredible Connection",
-      "price": 700,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -387,7 +387,7 @@
     {
       "product": "Flash TouchGo2 Mobile Vending Machine",
       "store": "Incredible Connection",
-      "price": 750,
+      "price": 1599,
       "affiliate_url": "https://www.incredible.co.za/flash-touchgo2-mobile-vending-machine",
       "category": "Phones",
       "alternatives": []
@@ -395,7 +395,7 @@
     {
       "product": "ZTE Blade L210 Dual Sim Black",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 899,
       "affiliate_url": "https://www.incredible.co.za/zte-blade-l210-dual-sim-black",
       "category": "Phones",
       "alternatives": []
@@ -443,7 +443,7 @@
     {
       "product": "Huawei Watch Fit  3 GPS 43mm White",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
       "category": "Phones",
       "alternatives": []
@@ -451,7 +451,7 @@
     {
       "product": "Huawei Nova Y72s Black",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 4299,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
@@ -499,7 +499,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
@@ -507,7 +507,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS 43mm",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
       "category": "Phones",
       "alternatives": []
@@ -531,7 +531,7 @@
     {
       "product": "Huawei nova Y63 128GB Silver",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
       "category": "Phones",
       "alternatives": []
@@ -681,14 +681,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 2300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 9999,
@@ -821,6 +813,14 @@
       "store": "Incredible Connection",
       "price": 100,
       "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
@@ -829,7 +829,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 4999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -909,7 +909,7 @@
     {
       "product": "Packard Bell Mclaren Intel\u00ae Celeron\u00ae N4020 4GB RAM 64GB eMMC Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 3299,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -935,14 +935,6 @@
       "store": "Incredible Connection",
       "price": 21999,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -981,16 +973,8 @@
     {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 12450H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 11999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-12450h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1043,18 +1027,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1077,7 +1061,7 @@
     {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i7-13620H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1101,8 +1085,24 @@
     {
       "product": "Asus ProArt PZ13 Qualcomm\u00ae Snapdragon\u00ae X Plus 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-proart-pz13-qualcomm-snapdragon-x-plus-16gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1181,7 +1181,7 @@
     {
       "product": "Huawei nova Y63 128GB Black",
       "store": "Incredible Connection",
-      "price": 700,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1213,7 +1213,7 @@
     {
       "product": "Flash TouchGo2 Mobile Vending Machine",
       "store": "Incredible Connection",
-      "price": 750,
+      "price": 1599,
       "affiliate_url": "https://www.incredible.co.za/flash-touchgo2-mobile-vending-machine",
       "category": "Phones",
       "alternatives": []
@@ -1221,7 +1221,7 @@
     {
       "product": "ZTE Blade L210 Dual Sim Black",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 899,
       "affiliate_url": "https://www.incredible.co.za/zte-blade-l210-dual-sim-black",
       "category": "Phones",
       "alternatives": []
@@ -1269,7 +1269,7 @@
     {
       "product": "Huawei Watch Fit  3 GPS 43mm White",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
       "category": "Phones",
       "alternatives": []
@@ -1277,7 +1277,7 @@
     {
       "product": "Huawei Nova Y72s Black",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 4299,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
@@ -1325,7 +1325,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS Green 43mm",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
@@ -1333,7 +1333,7 @@
     {
       "product": "Huawei Watch Fit 3 GPS 43mm",
       "store": "Incredible Connection",
-      "price": 800,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
       "category": "Phones",
       "alternatives": []
@@ -1357,7 +1357,7 @@
     {
       "product": "Huawei nova Y63 128GB Silver",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
       "category": "Phones",
       "alternatives": []
@@ -1507,14 +1507,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 2300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 9999,
@@ -1647,6 +1639,14 @@
       "store": "Incredible Connection",
       "price": 100,
       "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
