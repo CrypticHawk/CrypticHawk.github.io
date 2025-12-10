@@ -51,7 +51,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -141,14 +141,6 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7730u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 12450H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-12450h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -259,7 +251,7 @@
     {
       "product": "Asus ProArt PZ13 Qualcomm\u00ae Snapdragon\u00ae X Plus 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-proart-pz13-qualcomm-snapdragon-x-plus-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -529,18 +529,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei nova Y63 128GB Silver",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei nova Y63 128GB Silver",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -877,7 +877,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -967,14 +967,6 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7730u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 12450H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-12450h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1085,7 +1077,7 @@
     {
       "product": "Asus ProArt PZ13 Qualcomm\u00ae Snapdragon\u00ae X Plus 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-proart-pz13-qualcomm-snapdragon-x-plus-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1103,6 +1095,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1355,18 +1355,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei nova Y63 128GB Silver",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei nova Y63 128GB Silver",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-silver",
       "category": "Phones",
       "alternatives": []
     },
