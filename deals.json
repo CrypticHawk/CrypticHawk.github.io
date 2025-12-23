@@ -155,7 +155,7 @@
     {
       "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
       "store": "Incredible Connection",
-      "price": 14999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -537,6 +537,30 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Pathfinder Clear Magsafe Case Ice",
+      "store": "Incredible Connection",
+      "price": 969,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-clear-magsafe-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy S25 Edge 256GB Black",
+      "store": "Incredible Connection",
+      "price": 24999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -809,10 +833,10 @@
       "alternatives": []
     },
     {
-      "product": "The PS5\u00ae Digital Edition (E) 825GB",
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
-      "price": 2600,
-      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
       "category": "Consoles",
       "alternatives": []
     }
@@ -973,7 +997,7 @@
     {
       "product": "Dell 15 Intel\u00ae Core i7-1355U 16GB RAM 512 SSD Laptop",
       "store": "Incredible Connection",
-      "price": 14999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/dell-15-intel-core-i7-1355u-16gb-ram-512-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1355,6 +1379,30 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Pathfinder Clear Magsafe Case Ice",
+      "store": "Incredible Connection",
+      "price": 969,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-clear-magsafe-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy S25 Edge 256GB Black",
+      "store": "Incredible Connection",
+      "price": 24999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -1627,10 +1675,10 @@
       "alternatives": []
     },
     {
-      "product": "The PS5\u00ae Digital Edition (E) 825GB",
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
-      "price": 2600,
-      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
+      "price": 2300,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
       "category": "Consoles",
       "alternatives": []
     }
