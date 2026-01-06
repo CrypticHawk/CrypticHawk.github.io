@@ -113,6 +113,14 @@
       "alternatives": []
     },
     {
+      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -273,14 +281,6 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -387,7 +387,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 150,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -537,14 +537,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 749,
@@ -553,10 +545,18 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Essential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 739,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -955,6 +955,14 @@
       "alternatives": []
     },
     {
+      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s Intel\u00ae Core\u2122 i7 1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1115,14 +1123,6 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Matebook D16  Intel\u00ae Core\u2122 i5 13420H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/huawei-matebook-d16-intel-core-i5-13420h-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -1229,7 +1229,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 150,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -1379,14 +1379,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 749,
@@ -1395,10 +1387,18 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Magsafe Case Ice White",
+      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-magsafe-case-ice-white",
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Essential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 739,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-essential-armor-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
