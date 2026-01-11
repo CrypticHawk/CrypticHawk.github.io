@@ -57,14 +57,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 500,
@@ -233,14 +225,6 @@
       "alternatives": []
     },
     {
-      "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 32999,
@@ -277,6 +261,22 @@
       "store": "Incredible Connection",
       "price": 9000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -673,18 +673,18 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -777,18 +777,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -899,14 +899,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 500,
@@ -1075,14 +1067,6 @@
       "alternatives": []
     },
     {
-      "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 32999,
@@ -1119,6 +1103,22 @@
       "store": "Incredible Connection",
       "price": 9000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1515,18 +1515,18 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1619,18 +1619,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
