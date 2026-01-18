@@ -137,14 +137,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Pavillion 16-inch Intel\u00ae Core\u2122 Ultra 5 125U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/hp-pavillion-16-inch-intel-core-ultra-5-125u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 7999,
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 99999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i7-12650HX 16GB RAM & 512GB SSD RTX\u21224050 Laptop",
+      "store": "Incredible Connection",
+      "price": 18999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -979,14 +979,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Pavillion 16-inch Intel\u00ae Core\u2122 Ultra 5 125U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/hp-pavillion-16-inch-intel-core-ultra-5-125u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 7999,
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 99999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i7-12650HX 16GB RAM & 512GB SSD RTX\u21224050 Laptop",
+      "store": "Incredible Connection",
+      "price": 18999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
       "category": "Laptops",
       "alternatives": []
     },
