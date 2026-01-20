@@ -49,18 +49,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -121,18 +121,18 @@
       "alternatives": []
     },
     {
-      "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -337,14 +337,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
       "price": 2000,
@@ -473,18 +465,18 @@
       "alternatives": []
     },
     {
-      "product": "Nokia 105 Black Dual Sim",
-      "store": "Incredible Connection",
-      "price": 249,
-      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Watch Fit  3 GPS 43mm White",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 249,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
       "category": "Phones",
       "alternatives": []
     },
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch8 44mm BT Silver",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -891,18 +891,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -963,18 +963,18 @@
       "alternatives": []
     },
     {
-      "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook S16 AMD Ryzen\u2122 AI 9 HX370 32GB RAM 2TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s16-amd-ryzen-ai-9-hx370-32gb-ram-2tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1179,14 +1179,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy S24 Ultra 256GB Titanium Black",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1315,18 +1307,18 @@
       "alternatives": []
     },
     {
-      "product": "Nokia 105 Black Dual Sim",
-      "store": "Incredible Connection",
-      "price": 249,
-      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Watch Fit  3 GPS 43mm White",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 249,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
       "category": "Phones",
       "alternatives": []
     },
@@ -1399,6 +1391,14 @@
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch8 44mm BT Silver",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
     },
