@@ -41,6 +41,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -105,14 +113,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -125,6 +125,14 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo Ideapad 1 AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -225,14 +233,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i7-13620H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -291,7 +291,7 @@
     {
       "product": "Samsung Galaxy S25 FE 128GB Jet Black",
       "store": "Incredible Connection",
-      "price": 4000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -363,7 +363,7 @@
     {
       "product": "Samsung Galaxy A06 Blue Black",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
       "category": "Phones",
       "alternatives": []
@@ -379,7 +379,7 @@
     {
       "product": "Samsung Galaxy A17 128GB Black",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -427,7 +427,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -451,7 +451,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -459,7 +459,7 @@
     {
       "product": "Samsung Galaxy A07 128GB Green",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
       "category": "Phones",
       "alternatives": []
@@ -555,7 +555,7 @@
     {
       "product": "Samsung Galaxy Watch8 44mm BT Silver",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
@@ -827,7 +827,7 @@
     {
       "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
@@ -835,7 +835,7 @@
     {
       "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
@@ -883,6 +883,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -947,14 +955,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -967,6 +967,14 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo Ideapad 1 AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1067,14 +1075,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i7-13620H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1133,7 +1133,7 @@
     {
       "product": "Samsung Galaxy S25 FE 128GB Jet Black",
       "store": "Incredible Connection",
-      "price": 4000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -1205,7 +1205,7 @@
     {
       "product": "Samsung Galaxy A06 Blue Black",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
       "category": "Phones",
       "alternatives": []
@@ -1221,7 +1221,7 @@
     {
       "product": "Samsung Galaxy A17 128GB Black",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1269,7 +1269,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -1293,7 +1293,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 2999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1301,7 +1301,7 @@
     {
       "product": "Samsung Galaxy A07 128GB Green",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
       "category": "Phones",
       "alternatives": []
@@ -1397,7 +1397,7 @@
     {
       "product": "Samsung Galaxy Watch8 44mm BT Silver",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
@@ -1669,7 +1669,7 @@
     {
       "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
@@ -1677,7 +1677,7 @@
     {
       "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
