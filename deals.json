@@ -49,14 +49,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -281,6 +273,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i7-12650HX 16GB RAM & 512GB SSD RTX\u21224050 Laptop",
+      "store": "Incredible Connection",
+      "price": 18999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -291,7 +291,7 @@
     {
       "product": "Samsung Galaxy S25 FE 128GB Jet Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -363,7 +363,7 @@
     {
       "product": "Samsung Galaxy A06 Blue Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
       "category": "Phones",
       "alternatives": []
@@ -379,7 +379,7 @@
     {
       "product": "Samsung Galaxy A17 128GB Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -427,7 +427,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -451,7 +451,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -459,7 +459,7 @@
     {
       "product": "Samsung Galaxy A07 128GB Green",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
       "category": "Phones",
       "alternatives": []
@@ -555,7 +555,7 @@
     {
       "product": "Samsung Galaxy Watch8 44mm BT Silver",
       "store": "Incredible Connection",
-      "price": 7499,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
@@ -891,14 +891,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1123,6 +1115,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i7-12650HX 16GB RAM & 512GB SSD RTX\u21224050 Laptop",
+      "store": "Incredible Connection",
+      "price": 18999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -1133,7 +1133,7 @@
     {
       "product": "Samsung Galaxy S25 FE 128GB Jet Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
       "category": "Phones",
       "alternatives": []
@@ -1205,7 +1205,7 @@
     {
       "product": "Samsung Galaxy A06 Blue Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
       "category": "Phones",
       "alternatives": []
@@ -1221,7 +1221,7 @@
     {
       "product": "Samsung Galaxy A17 128GB Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1269,7 +1269,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -1293,7 +1293,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 2999,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1301,7 +1301,7 @@
     {
       "product": "Samsung Galaxy A07 128GB Green",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
       "category": "Phones",
       "alternatives": []
@@ -1397,7 +1397,7 @@
     {
       "product": "Samsung Galaxy Watch8 44mm BT Silver",
       "store": "Incredible Connection",
-      "price": 7499,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
