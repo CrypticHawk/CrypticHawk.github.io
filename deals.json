@@ -11,7 +11,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -75,7 +75,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -737,18 +737,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
-      "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Charging Station",
+      "store": "Incredible Connection",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
@@ -827,7 +827,7 @@
     {
       "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
@@ -835,7 +835,7 @@
     {
       "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
@@ -853,7 +853,7 @@
     {
       "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -917,7 +917,7 @@
     {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1579,18 +1579,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
-      "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Charging Station",
+      "store": "Incredible Connection",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1669,7 +1669,7 @@
     {
       "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
@@ -1677,7 +1677,7 @@
     {
       "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
