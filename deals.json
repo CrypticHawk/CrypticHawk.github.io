@@ -1,6 +1,14 @@
 {
   "best_deals": [
     {
+      "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
       "price": 500,
@@ -49,6 +57,14 @@
       "alternatives": []
     },
     {
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -85,14 +101,6 @@
       "store": "Incredible Connection",
       "price": 3299,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -273,14 +281,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i7-12650HX 16GB RAM & 512GB SSD RTX\u21224050 Laptop",
-      "store": "Incredible Connection",
-      "price": 18999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -449,6 +449,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy Watch7 40mm BT Cream + Pink Strap",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream-pink-strap",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
       "price": 500,
@@ -549,14 +557,6 @@
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 44mm BT Silver",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -737,18 +737,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Robot White",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Charging Station",
       "store": "Incredible Connection",
       "price": 799,
       "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -833,16 +833,24 @@
       "alternatives": []
     },
     {
-      "product": "The PS5\u00ae Digital Edition (E) 825GB",
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
       "category": "Consoles",
       "alternatives": []
     }
   ],
   "all_deals": [
     {
+      "product": "Asus Vivobook Go Intel\u00ae Core\u2122 i3-N305 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-intel-core-i3-n305-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
       "price": 500,
@@ -891,6 +899,14 @@
       "alternatives": []
     },
     {
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i7-1355U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i7-1355u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -927,14 +943,6 @@
       "store": "Incredible Connection",
       "price": 3299,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1115,14 +1123,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo LOQ 15 Intel\u00ae Core\u2122 i7-12650HX 16GB RAM & 512GB SSD RTX\u21224050 Laptop",
-      "store": "Incredible Connection",
-      "price": 18999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -1291,6 +1291,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy Watch7 40mm BT Cream + Pink Strap",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch7-40mm-bt-cream-pink-strap",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
       "price": 500,
@@ -1391,14 +1399,6 @@
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 44mm BT Silver",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -1579,18 +1579,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Robot White",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Charging Station",
       "store": "Incredible Connection",
       "price": 799,
       "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1675,10 +1675,10 @@
       "alternatives": []
     },
     {
-      "product": "The PS5\u00ae Digital Edition (E) 825GB",
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
       "category": "Consoles",
       "alternatives": []
     }
