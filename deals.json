@@ -11,7 +11,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -19,7 +19,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -43,7 +43,7 @@
     {
       "product": "Acer Aspire Lite 15 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -93,14 +93,6 @@
       "store": "Incredible Connection",
       "price": 3299,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -179,7 +171,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -243,7 +235,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Midnight Blue",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-midnight-blue",
       "category": "Laptops",
       "alternatives": []
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 18999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Nitro V15 AMD Ryzen\u2122 7 7735HS 16GB RAM & 1TB SSD RTX\u2122 3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-7-7735hs-16gb-ram-1tb-ssd-rtx-3050-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -473,18 +473,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit  3 GPS 43mm White",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Nokia 105 Black Dual Sim",
       "store": "Incredible Connection",
       "price": 249,
       "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Watch Fit  3 GPS 43mm White",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
       "category": "Phones",
       "alternatives": []
     },
@@ -689,18 +689,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -777,18 +777,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 1499,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 1499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
@@ -853,7 +853,7 @@
     {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -861,7 +861,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -885,7 +885,7 @@
     {
       "product": "Acer Aspire Lite 15 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -935,14 +935,6 @@
       "store": "Incredible Connection",
       "price": 3299,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-mclaren-intel-celeron-n4020-4gb-ram-64gb-emmc-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Ryzen\u2122 3 5425U 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-5425u-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1021,7 +1013,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -1085,7 +1077,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Midnight Blue",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-midnight-blue",
       "category": "Laptops",
       "alternatives": []
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 18999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-intel-core-i7-12650hx-16gb-ram-512gb-ssd-rtx4050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Nitro V15 AMD Ryzen\u2122 7 7735HS 16GB RAM & 1TB SSD RTX\u2122 3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-7-7735hs-16gb-ram-1tb-ssd-rtx-3050-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1315,18 +1315,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit  3 GPS 43mm White",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Nokia 105 Black Dual Sim",
       "store": "Incredible Connection",
       "price": 249,
       "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Watch Fit  3 GPS 43mm White",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
       "category": "Phones",
       "alternatives": []
     },
@@ -1531,18 +1531,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1619,18 +1619,18 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 1499,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 1499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     },
