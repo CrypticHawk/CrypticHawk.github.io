@@ -25,14 +25,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-core-i3-1215u-8gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4799,
@@ -77,14 +69,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +261,22 @@
       "store": "Incredible Connection",
       "price": 259,
       "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -729,18 +729,18 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 150,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "store": "Incredible Connection",
+      "price": 150,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -859,14 +859,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-core-i3-1215u-8gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4799,
@@ -911,14 +903,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1111,6 +1095,22 @@
       "store": "Incredible Connection",
       "price": 259,
       "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1563,18 +1563,18 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 150,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "store": "Incredible Connection",
+      "price": 150,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
