@@ -457,14 +457,6 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit  3 GPS 43mm White",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Nokia 105 Black Dual Sim",
       "store": "Incredible Connection",
       "price": 249,
@@ -549,6 +541,22 @@
       "store": "Incredible Connection",
       "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Watch Fit 3 GPS 43mm",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Monarch Case Carbon Fibre",
+      "store": "Incredible Connection",
+      "price": 899,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
       "category": "Phones",
       "alternatives": []
     },
@@ -649,6 +657,14 @@
       "alternatives": []
     },
     {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
@@ -661,14 +677,6 @@
       "store": "Incredible Connection",
       "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -699,7 +707,7 @@
     {
       "product": "PS5 DualSense Wireless Controller Midnight Black",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
       "category": "Consoles",
       "alternatives": []
@@ -707,7 +715,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -715,7 +723,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -731,7 +739,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -745,14 +753,6 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -761,9 +761,17 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -795,7 +803,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Nova Pink",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
@@ -1291,14 +1299,6 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit  3 GPS 43mm White",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Nokia 105 Black Dual Sim",
       "store": "Incredible Connection",
       "price": 249,
@@ -1383,6 +1383,22 @@
       "store": "Incredible Connection",
       "price": 800,
       "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Watch Fit 3 GPS 43mm",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Monarch Case Carbon Fibre",
+      "store": "Incredible Connection",
+      "price": 899,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
       "category": "Phones",
       "alternatives": []
     },
@@ -1483,6 +1499,14 @@
       "alternatives": []
     },
     {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
@@ -1495,14 +1519,6 @@
       "store": "Incredible Connection",
       "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1533,7 +1549,7 @@
     {
       "product": "PS5 DualSense Wireless Controller Midnight Black",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
       "category": "Consoles",
       "alternatives": []
@@ -1541,7 +1557,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1549,7 +1565,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -1565,7 +1581,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -1579,14 +1595,6 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1595,9 +1603,17 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -1629,7 +1645,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Nova Pink",
       "store": "Incredible Connection",
-      "price": 1799,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
