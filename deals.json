@@ -65,10 +65,26 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5999,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -145,14 +161,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo Flex 5 AMD Ryzen\u2122 5 7430U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-flex-5-amd-ryzen-5-7430u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
       "price": 1000,
@@ -205,14 +213,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-midnight-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 9000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -465,6 +465,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S25 FE 256GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-256gb-jet-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Huawei Nova 13i White",
       "store": "Incredible Connection",
       "price": 5999,
@@ -553,14 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -579,7 +579,7 @@
     {
       "product": "Xbox Series S Console",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 10299,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
       "category": "Consoles",
       "alternatives": []
@@ -907,10 +907,26 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5999,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD\u00ae Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -987,14 +1003,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo Flex 5 AMD Ryzen\u2122 5 7430U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-flex-5-amd-ryzen-5-7430u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1047,14 +1055,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-midnight-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook Duo Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 2TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 9000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-duo-intel-core-ultra-9-285h-32gb-ram-2tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1307,6 +1307,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S25 FE 256GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-256gb-jet-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Huawei Nova 13i White",
       "store": "Incredible Connection",
       "price": 5999,
@@ -1395,14 +1403,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -1421,7 +1421,7 @@
     {
       "product": "Xbox Series S Console",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 10299,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
       "category": "Consoles",
       "alternatives": []
