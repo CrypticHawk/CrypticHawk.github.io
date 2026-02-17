@@ -49,9 +49,17 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -203,7 +211,7 @@
     {
       "product": "Acer Nitro V15 AMD Ryzen\u2122 7 7735HS 16GB RAM & 1TB SSD RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7000,
       "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-7-7735hs-16gb-ram-1tb-ssd-rtx-3050-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -273,14 +281,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -339,7 +339,7 @@
     {
       "product": "Yoco Neo Touch Card Machine",
       "store": "Incredible Connection",
-      "price": 999,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -649,18 +649,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -747,7 +747,7 @@
     {
       "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
-      "price": 699,
+      "price": 599,
       "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
@@ -891,9 +891,17 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1045,7 +1053,7 @@
     {
       "product": "Acer Nitro V15 AMD Ryzen\u2122 7 7735HS 16GB RAM & 1TB SSD RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7000,
       "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-7-7735hs-16gb-ram-1tb-ssd-rtx-3050-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1115,14 +1123,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -1181,7 +1181,7 @@
     {
       "product": "Yoco Neo Touch Card Machine",
       "store": "Incredible Connection",
-      "price": 999,
+      "price": 100,
       "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -1491,18 +1491,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1589,7 +1589,7 @@
     {
       "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
-      "price": 699,
+      "price": 599,
       "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
