@@ -25,6 +25,14 @@
       "alternatives": []
     },
     {
+      "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5999,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 800,
@@ -85,6 +93,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -153,18 +169,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -261,22 +277,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-pink",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 9000,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -761,18 +761,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -867,6 +867,14 @@
       "alternatives": []
     },
     {
+      "product": "HP 250 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5999,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 800,
@@ -927,6 +935,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 16 Intel\u00ae Core\u2122 i5 1334U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-16-intel-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -995,18 +1011,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1103,22 +1119,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-pink",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 9000,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1603,18 +1603,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
