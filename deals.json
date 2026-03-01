@@ -171,7 +171,7 @@
     {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 64GB 4TB SSD RTX\u21225090 Laptop",
       "store": "Incredible Connection",
-      "price": 13000,
+      "price": 99999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -257,14 +257,6 @@
       "alternatives": []
     },
     {
-      "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD 2-in-1 Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/dell-14-plus-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-2-in-1-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-ultra-flip-intel-core-ultra-7-258v-32gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP OmniBook 3 Ryzen AI 7 350 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-ryzen-ai-7-350-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -339,7 +339,7 @@
     {
       "product": "Yoco Neo Touch Card Machine",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 999,
       "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -387,7 +387,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 150,
+      "price": 170,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -715,7 +715,7 @@
     {
       "product": "PS5 DualSense Wireless Controller Midnight Black",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
       "category": "Consoles",
       "alternatives": []
@@ -723,7 +723,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -731,7 +731,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -747,7 +747,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -779,7 +779,7 @@
     {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -811,7 +811,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Nova Pink",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
@@ -835,7 +835,7 @@
     {
       "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 900,
+      "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
@@ -1013,7 +1013,7 @@
     {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 64GB 4TB SSD RTX\u21225090 Laptop",
       "store": "Incredible Connection",
-      "price": 13000,
+      "price": 99999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1099,14 +1099,6 @@
       "alternatives": []
     },
     {
-      "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD 2-in-1 Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/dell-14-plus-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-2-in-1-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-ultra-flip-intel-core-ultra-7-258v-32gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP OmniBook 3 Ryzen AI 7 350 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-ryzen-ai-7-350-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1181,7 +1181,7 @@
     {
       "product": "Yoco Neo Touch Card Machine",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 999,
       "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -1229,7 +1229,7 @@
     {
       "product": "Xiaomi Redmi Watch 5 Active",
       "store": "Incredible Connection",
-      "price": 150,
+      "price": 170,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
       "category": "Phones",
       "alternatives": []
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation VR2",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1557,7 +1557,7 @@
     {
       "product": "PS5 DualSense Wireless Controller Midnight Black",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
       "category": "Consoles",
       "alternatives": []
@@ -1565,7 +1565,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1573,7 +1573,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -1589,7 +1589,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -1621,7 +1621,7 @@
     {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -1653,7 +1653,7 @@
     {
       "product": "PS5 DualSense Wireless Controller - Nova Pink",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
@@ -1677,7 +1677,7 @@
     {
       "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 900,
+      "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
