@@ -73,22 +73,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 7730U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -99,7 +83,7 @@
     {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 11999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -107,7 +91,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -153,17 +137,9 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Midnight Blue",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-midnight-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Lite 14 Intel\u00ae Celeron\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-celeron-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -195,7 +171,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
       "category": "Laptops",
       "alternatives": []
@@ -277,6 +253,30 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-ryzen-ai-7-350-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Volkano Midtown 15.6 Laptop Backpack Black",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/volkano-midtown-15-6-laptop-backpack-black",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
+      "store": "Incredible Connection",
+      "price": 84999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Nitro V15 AMD Ryzen\u2122 5 7535HS 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-5-7535hs-16gb-ram-512gb-ssd-rtx-3050-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -371,7 +371,7 @@
     {
       "product": "Xiaomi Redmi 15C 128GB Midnight Black",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
       "category": "Phones",
       "alternatives": []
@@ -467,7 +467,7 @@
     {
       "product": "Xiaomi Redmi 15C",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
       "category": "Phones",
       "alternatives": []
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -915,22 +915,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 7730U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -941,7 +925,7 @@
     {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 11999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -949,7 +933,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -995,17 +979,9 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Midnight Blue",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-midnight-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Lite 14 Intel\u00ae Celeron\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-celeron-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1037,7 +1013,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
       "category": "Laptops",
       "alternatives": []
@@ -1119,6 +1095,30 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-ryzen-ai-7-350-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Volkano Midtown 15.6 Laptop Backpack Black",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/volkano-midtown-15-6-laptop-backpack-black",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
+      "store": "Incredible Connection",
+      "price": 84999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Nitro V15 AMD Ryzen\u2122 5 7535HS 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-5-7535hs-16gb-ram-512gb-ssd-rtx-3050-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1213,7 +1213,7 @@
     {
       "product": "Xiaomi Redmi 15C 128GB Midnight Black",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
       "category": "Phones",
       "alternatives": []
@@ -1309,7 +1309,7 @@
     {
       "product": "Xiaomi Redmi 15C",
       "store": "Incredible Connection",
-      "price": 100,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
       "category": "Phones",
       "alternatives": []
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
