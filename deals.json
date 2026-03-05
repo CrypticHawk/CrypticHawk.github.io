@@ -11,7 +11,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -29,14 +29,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -69,14 +61,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,6 +265,22 @@
       "alternatives": []
     },
     {
+      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
+      "store": "Incredible Connection",
+      "price": 84999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Nitro V15 AMD Ryzen\u2122 5 7535HS 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-5-7535hs-16gb-ram-512gb-ssd-rtx-3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -333,6 +333,14 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 14 128GB Midnight",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
       "category": "Phones",
       "alternatives": []
     },
@@ -553,14 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 Edge 256GB Black",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -723,7 +723,7 @@
     {
       "product": "PS4 DualShock 4 - Black",
       "store": "Incredible Connection",
-      "price": 50,
+      "price": 450,
       "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
       "category": "Consoles",
       "alternatives": []
@@ -753,14 +753,6 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 50,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
@@ -769,10 +761,10 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "price": 50,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -781,6 +773,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -853,7 +853,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -871,14 +871,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD\u00ae Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -911,14 +903,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 i5-1334U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,6 +1107,22 @@
       "alternatives": []
     },
     {
+      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
+      "store": "Incredible Connection",
+      "price": 84999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Nitro V15 AMD Ryzen\u2122 5 7535HS 16GB RAM & 512GB SSD RTX\u2122 3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-nitro-v15-amd-ryzen-5-7535hs-16gb-ram-512gb-ssd-rtx-3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
       "price": 650,
@@ -1175,6 +1175,14 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 14 128GB Midnight",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
       "category": "Phones",
       "alternatives": []
     },
@@ -1395,14 +1403,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 Edge 256GB Black",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -1565,7 +1565,7 @@
     {
       "product": "PS4 DualShock 4 - Black",
       "store": "Incredible Connection",
-      "price": 50,
+      "price": 450,
       "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
       "category": "Consoles",
       "alternatives": []
@@ -1595,14 +1595,6 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 50,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
@@ -1611,10 +1603,10 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
       "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "price": 50,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1623,6 +1615,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
