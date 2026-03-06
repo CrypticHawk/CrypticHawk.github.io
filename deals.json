@@ -155,7 +155,7 @@
     {
       "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
       "store": "Incredible Connection",
-      "price": 50,
+      "price": 60,
       "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
       "category": "Laptops",
       "alternatives": []
@@ -587,7 +587,7 @@
     {
       "product": "PlayStation\u00ae5 Pro Console",
       "store": "Incredible Connection",
-      "price": 21999,
+      "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -769,18 +769,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -833,10 +833,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
+      "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "price": 900,
+      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
     }
@@ -997,7 +997,7 @@
     {
       "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
       "store": "Incredible Connection",
-      "price": 50,
+      "price": 60,
       "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
       "category": "Laptops",
       "alternatives": []
@@ -1429,7 +1429,7 @@
     {
       "product": "PlayStation\u00ae5 Pro Console",
       "store": "Incredible Connection",
-      "price": 21999,
+      "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/playstation5-pro-console",
       "category": "Consoles",
       "alternatives": []
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1611,18 +1611,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1675,10 +1675,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
+      "product": "The PS5\u00ae Digital Edition (E) 825GB",
       "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "price": 900,
+      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb",
       "category": "Consoles",
       "alternatives": []
     }
