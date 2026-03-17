@@ -115,7 +115,7 @@
     {
       "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 512GB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -201,6 +201,14 @@
       "alternatives": []
     },
     {
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Pink",
+      "store": "Incredible Connection",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-pink",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "VICTUS 15 Intel\u00ae Core\u2122 i7 16GB RAM & 512GB SSD  RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
       "price": 16999,
@@ -249,18 +257,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Warm Gold",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-warm-gold",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Omnibook Ultra Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-ultra-flip-intel-core-ultra-7-258v-32gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Warm Gold",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-warm-gold",
       "category": "Laptops",
       "alternatives": []
     },
@@ -273,17 +281,9 @@
       "alternatives": []
     },
     {
-      "product": "Volkano Midtown 15.6 Laptop Backpack Black",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/volkano-midtown-15-6-laptop-backpack-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 1299,
+      "price": 650,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -315,7 +315,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 1999,
+      "price": 600,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -523,7 +523,7 @@
     {
       "product": "UAG Apple iPhone 16 Monarch Case Carbon Fibre",
       "store": "Incredible Connection",
-      "price": 899,
+      "price": 799,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
       "category": "Phones",
       "alternatives": []
@@ -957,7 +957,7 @@
     {
       "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 512GB SSD OLED Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1043,6 +1043,14 @@
       "alternatives": []
     },
     {
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Pink",
+      "store": "Incredible Connection",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-pink",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "VICTUS 15 Intel\u00ae Core\u2122 i7 16GB RAM & 512GB SSD  RTX\u2122 3050 Laptop",
       "store": "Incredible Connection",
       "price": 16999,
@@ -1091,18 +1099,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Warm Gold",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-warm-gold",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Omnibook Ultra Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-ultra-flip-intel-core-ultra-7-258v-32gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Warm Gold",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-warm-gold",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1115,17 +1123,9 @@
       "alternatives": []
     },
     {
-      "product": "Volkano Midtown 15.6 Laptop Backpack Black",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/volkano-midtown-15-6-laptop-backpack-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Card Machine",
       "store": "Incredible Connection",
-      "price": 1299,
+      "price": 650,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
@@ -1157,7 +1157,7 @@
     {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
-      "price": 1999,
+      "price": 600,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
       "category": "Phones",
       "alternatives": []
@@ -1365,7 +1365,7 @@
     {
       "product": "UAG Apple iPhone 16 Monarch Case Carbon Fibre",
       "store": "Incredible Connection",
-      "price": 899,
+      "price": 799,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
       "category": "Phones",
       "alternatives": []
