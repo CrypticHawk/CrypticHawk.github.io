@@ -1,10 +1,10 @@
 {
   "best_deals": [
     {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
+      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -17,74 +17,26 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
+      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -97,122 +49,106 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 512GB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 14 Intel\u00ae Celeron\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "product": "Acer Aspire Lite 14 Intel\u00ae N150 8GB RAM 256GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-celeron-n150-8gb-ram-256gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-n150-8gb-ram-256gb-ssd-laptop-blue",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 64GB 4TB SSD RTX\u21225090 Laptop",
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 20000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
-      "store": "Incredible Connection",
-      "price": 60,
-      "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
+      "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/orion-14-intel-core-i3-10100y-8gb-ram-256gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
+      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Carrera Flex 5 AMD\u00ae Ryzen\u2122 5 5500U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-5-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+      "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Orion 14 Intel\u00ae Pentium\u00ae 6500Y 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/dell-14-plus-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Pink",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-pink",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
     },
@@ -225,50 +161,34 @@
       "alternatives": []
     },
     {
-      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
+      "product": "Acer Aspire Lite 14 Intel\u00ae Celeron\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-celeron-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5-7520U 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9000,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-7520u-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Diamond White",
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
+      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Silver",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Targus CityGear 13.3\" Laptop Sleeve Black",
-      "store": "Incredible Connection",
-      "price": 549,
-      "affiliate_url": "https://www.incredible.co.za/targus-citygear-13-3-laptop-sleeve-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "TUF A16 AMD Ryzen\u21225 7535HS 16GB RAM & 512GB SSD RTX\u2122 4050 Win11 Laptop",
-      "store": "Incredible Connection",
-      "price": 7500,
-      "affiliate_url": "https://www.incredible.co.za/tuf-a16-amd-ryzen5-7535hs-16gb-ram-512gb-ssd-rtx-4050-win11-laptop",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,170 +201,90 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 14 Intel\u00ae N150 8GB RAM 256GB SSD Laptop Pink",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-n150-8gb-ram-256gb-ssd-laptop-pink",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Carrera R3 Flex 14.1\" AMD\u00ae Ryzen\u2122 3 16GB 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-r3-flex-14-1-amd-ryzen-3-16gb-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS Vivobook 15 AMD\u2122 Ryzen\u2122 5 7430U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-7430u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7-7735H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7735h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S25 FE 128GB Jet Black",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
-      "store": "Incredible Connection",
-      "price": 99,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 15 128GB Black",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Yoco Khumo Print Card Machine",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 13 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom Huawei E5576 Router Including 7.5GB Anytime and 7.5GB Night time",
-      "store": "Incredible Connection",
-      "price": 999,
-      "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Yoco Neo Touch Card Machine",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei nova Y63 128GB Black",
-      "store": "Incredible Connection",
-      "price": 1200,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A06 Blue Black",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A17 128GB Black",
-      "store": "Incredible Connection",
-      "price": 3999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15C 128GB Midnight Black",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A26 5G Black 128GB Dual SIM",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a26-5g-black-128gb-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi Watch 5 Active",
-      "store": "Incredible Connection",
-      "price": 180,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
-      "store": "Incredible Connection",
-      "price": 149,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-      "store": "Incredible Connection",
-      "price": 8999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fit3 Pink Gold",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 2999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A07 128GB Green",
-      "store": "Incredible Connection",
-      "price": 2499,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Nokia 105 Black Dual Sim",
-      "store": "Incredible Connection",
-      "price": 249,
-      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Nova Y72s Black",
-      "store": "Incredible Connection",
-      "price": 1800,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -457,18 +297,178 @@
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi 15C",
+      "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
+      "price": 99,
+      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch8 44mm BT Dark Gray",
+      "product": "Yoco Khumo Print Card Machine",
+      "store": "Incredible Connection",
+      "price": 600,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Neo Touch Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 15 128GB Black",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Telkom Huawei E5576 Router Including 7.5GB Anytime and 7.5GB Night time",
+      "store": "Incredible Connection",
+      "price": 999,
+      "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A06 Blue Black",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 8999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi Watch 5 Active",
+      "store": "Incredible Connection",
+      "price": 180,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
+      "store": "Incredible Connection",
+      "price": 2999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A17 128GB Black",
+      "store": "Incredible Connection",
+      "price": 3999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 650,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A26 5G Black 128GB Dual SIM",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a26-5g-black-128gb-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
+      "store": "Incredible Connection",
+      "price": 149,
+      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "store": "Incredible Connection",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Motorola G06 Power",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi 15C 128GB Midnight Black",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 4G Gray",
+      "store": "Incredible Connection",
+      "price": 3799,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X7d Black",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/honor-x7d-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei nova Y63 128GB Black",
+      "store": "Incredible Connection",
+      "price": 1200,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X7d",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/honor-x7d",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
       "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-dark-gray",
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fit3 Pink Gold",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
       "category": "Phones",
       "alternatives": []
     },
@@ -481,66 +481,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch8 40mm BT Silver",
+      "product": "Apple iPhone 14 128GB Starlight Pre Owned (A Grade)",
       "store": "Incredible Connection",
-      "price": 5499,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-silver",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-starlight-pre-owned-a-grade",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
+      "product": "Huawei Nova Y72s Black",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS 43mm",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Monarch Case Carbon Fibre",
-      "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 44mm BT Silver",
-      "store": "Incredible Connection",
-      "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Pathfinder Clear Magsafe Case Ice",
-      "store": "Incredible Connection",
-      "price": 969,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-clear-magsafe-case-ice",
+      "price": 1800,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -553,10 +505,58 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
+      "product": "Samsung Galaxy A07 128GB Green",
       "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "price": 2499,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X5c Plus Black",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 14 128GB Midnight Pre Owned (A Grade)",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight-pre-owned-a-grade",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch8 40mm BT Silver",
+      "store": "Incredible Connection",
+      "price": 5499,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 249,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X5c Plus",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch Ultra Titanium Silver LTE 2025",
+      "store": "Incredible Connection",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch-ultra-titanium-silver-lte-2025",
       "category": "Phones",
       "alternatives": []
     },
@@ -585,18 +585,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro Console",
+      "product": "The PS5 Digital Edition (E) 825GB Console",
       "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "price": 900,
+      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb-console",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
+      "product": "PS5 Pro Console",
       "store": "Incredible Connection",
-      "price": 15499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -609,10 +609,10 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch - Red/Blue",
+      "product": "PS5 Slim Digital + Fortnite Console Bundle",
       "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -625,62 +625,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Edtion Console + Dualsense Teal",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edtion-console-dualsense-teal",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
-      "store": "Incredible Connection",
-      "price": 599,
-      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
-      "store": "Incredible Connection",
-      "price": 699,
-      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "The PS5 Digital Edition (E) 825GB Console",
-      "store": "Incredible Connection",
-      "price": 900,
-      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Digital Edition",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
       "price": 11999,
@@ -689,18 +633,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital + Fortnite Console Bundle",
+      "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
+      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
       "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
       "category": "Consoles",
       "alternatives": []
     },
@@ -713,34 +657,74 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
+      "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Bundle + EA FC 26",
+      "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 900,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
+      "product": "Nintendo Switch 2 + Mario Kart World",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edtion Console + Dualsense Teal",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edtion-console-dualsense-teal",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS4 DualShock 4 - Black",
+      "store": "Incredible Connection",
+      "price": 1299,
+      "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -761,26 +745,18 @@
       "alternatives": []
     },
     {
-      "product": "ABP Series X Rechargeable Battery Pack - Black",
-      "store": "Incredible Connection",
-      "price": 50,
-      "affiliate_url": "https://www.incredible.co.za/abp-series-x-rechargeable-battery-pack-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller Midnight Black",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
+      "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
       "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -793,6 +769,14 @@
       "alternatives": []
     },
     {
+      "product": "PS5 DualSense Wireless Controller Midnight Black",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
       "price": 300,
@@ -801,10 +785,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     },
@@ -817,10 +801,10 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "product": "PS5 Charging Station",
       "store": "Incredible Connection",
-      "price": 40,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
@@ -837,16 +821,32 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
   ],
   "all_deals": [
     {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
+      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -859,74 +859,26 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
+      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -939,122 +891,106 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "MSI Thin 15 Intel\u00ae Core\u2122 i7 13620H 16GB RAM & 512GB SSD RTX\u2122 4050 Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/msi-thin-15-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 512GB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Acer Aspire Lite 14 Intel\u00ae Celeron\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "product": "Acer Aspire Lite 14 Intel\u00ae N150 8GB RAM 256GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-celeron-n150-8gb-ram-256gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-n150-8gb-ram-256gb-ssd-laptop-blue",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 8GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 64GB 4TB SSD RTX\u21225090 Laptop",
+      "product": "ASUS Vivobook Go E510 Intel\u00ae Celeron\u00ae N4500 4GB RAM 256GB SSD Laptop Black",
       "store": "Incredible Connection",
-      "price": 20000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e510-intel-celeron-n4500-4gb-ram-256gb-ssd-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
-      "store": "Incredible Connection",
-      "price": 60,
-      "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
+      "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/orion-14-intel-core-i3-10100y-8gb-ram-256gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
+      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Carrera Flex 5 AMD\u00ae Ryzen\u2122 5 5500U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-5-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+      "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Orion 14 Intel\u00ae Pentium\u00ae 6500Y 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/dell-14-plus-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Pink",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-pink",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1067,50 +1003,34 @@
       "alternatives": []
     },
     {
-      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
+      "product": "Acer Aspire Lite 14 Intel\u00ae Celeron\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-celeron-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5-7520U 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9000,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-7520u-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Diamond White",
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
+      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Silver",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Targus CityGear 13.3\" Laptop Sleeve Black",
-      "store": "Incredible Connection",
-      "price": 549,
-      "affiliate_url": "https://www.incredible.co.za/targus-citygear-13-3-laptop-sleeve-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "TUF A16 AMD Ryzen\u21225 7535HS 16GB RAM & 512GB SSD RTX\u2122 4050 Win11 Laptop",
-      "store": "Incredible Connection",
-      "price": 7500,
-      "affiliate_url": "https://www.incredible.co.za/tuf-a16-amd-ryzen5-7535hs-16gb-ram-512gb-ssd-rtx-4050-win11-laptop",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,170 +1043,90 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 14 Intel\u00ae N150 8GB RAM 256GB SSD Laptop Pink",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-n150-8gb-ram-256gb-ssd-laptop-pink",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Carrera R3 Flex 14.1\" AMD\u00ae Ryzen\u2122 3 16GB 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-r3-flex-14-1-amd-ryzen-3-16gb-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS Vivobook 15 AMD\u2122 Ryzen\u2122 5 7430U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-7430u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 14 Intel\u00ae Core\u2122 i3-N355 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7-7735H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7735h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S25 FE 128GB Jet Black",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
-      "store": "Incredible Connection",
-      "price": 99,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 15 128GB Black",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Yoco Khumo Print Card Machine",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 13 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 700,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom Huawei E5576 Router Including 7.5GB Anytime and 7.5GB Night time",
-      "store": "Incredible Connection",
-      "price": 999,
-      "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Midnight",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Yoco Neo Touch Card Machine",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei nova Y63 128GB Black",
-      "store": "Incredible Connection",
-      "price": 1200,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A06 Blue Black",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A17 128GB Black",
-      "store": "Incredible Connection",
-      "price": 3999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15C 128GB Midnight Black",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A26 5G Black 128GB Dual SIM",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a26-5g-black-128gb-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi Watch 5 Active",
-      "store": "Incredible Connection",
-      "price": 180,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
-      "store": "Incredible Connection",
-      "price": 149,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-      "store": "Incredible Connection",
-      "price": 8999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fit3 Pink Gold",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 2999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A07 128GB Green",
-      "store": "Incredible Connection",
-      "price": 2499,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Nokia 105 Black Dual Sim",
-      "store": "Incredible Connection",
-      "price": 249,
-      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Nova Y72s Black",
-      "store": "Incredible Connection",
-      "price": 1800,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1299,18 +1139,178 @@
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi 15C",
+      "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
+      "price": 99,
+      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch8 44mm BT Dark Gray",
+      "product": "Yoco Khumo Print Card Machine",
+      "store": "Incredible Connection",
+      "price": 600,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Neo Touch Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 15 128GB Black",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Telkom Huawei E5576 Router Including 7.5GB Anytime and 7.5GB Night time",
+      "store": "Incredible Connection",
+      "price": 999,
+      "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A06 Blue Black",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 8999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi Watch 5 Active",
+      "store": "Incredible Connection",
+      "price": 180,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
+      "store": "Incredible Connection",
+      "price": 2999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A17 128GB Black",
+      "store": "Incredible Connection",
+      "price": 3999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 650,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A26 5G Black 128GB Dual SIM",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a26-5g-black-128gb-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
+      "store": "Incredible Connection",
+      "price": 149,
+      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "store": "Incredible Connection",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Motorola G06 Power",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi 15C 128GB Midnight Black",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 4G Gray",
+      "store": "Incredible Connection",
+      "price": 3799,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X7d Black",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/honor-x7d-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei nova Y63 128GB Black",
+      "store": "Incredible Connection",
+      "price": 1200,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y63-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X7d",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/honor-x7d",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
       "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-dark-gray",
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fit3 Pink Gold",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
       "category": "Phones",
       "alternatives": []
     },
@@ -1323,66 +1323,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch8 40mm BT Silver",
+      "product": "Apple iPhone 14 128GB Starlight Pre Owned (A Grade)",
       "store": "Incredible Connection",
-      "price": 5499,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-silver",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-starlight-pre-owned-a-grade",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
+      "product": "Huawei Nova Y72s Black",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS 43mm",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Monarch Case Carbon Fibre",
-      "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-monarch-case-carbon-fibre",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 44mm BT Silver",
-      "store": "Incredible Connection",
-      "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Pathfinder Clear Magsafe Case Ice",
-      "store": "Incredible Connection",
-      "price": 969,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-clear-magsafe-case-ice",
+      "price": 1800,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y72s-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1395,10 +1347,58 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
+      "product": "Samsung Galaxy A07 128GB Green",
       "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "price": 2499,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X5c Plus Black",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 14 128GB Midnight Pre Owned (A Grade)",
+      "store": "Incredible Connection",
+      "price": 10999,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight-pre-owned-a-grade",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch8 40mm BT Silver",
+      "store": "Incredible Connection",
+      "price": 5499,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 249,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X5c Plus",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch Ultra Titanium Silver LTE 2025",
+      "store": "Incredible Connection",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch-ultra-titanium-silver-lte-2025",
       "category": "Phones",
       "alternatives": []
     },
@@ -1427,18 +1427,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro Console",
+      "product": "The PS5 Digital Edition (E) 825GB Console",
       "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "price": 900,
+      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb-console",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
+      "product": "PS5 Pro Console",
       "store": "Incredible Connection",
-      "price": 15499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1451,10 +1451,10 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch - Red/Blue",
+      "product": "PS5 Slim Digital + Fortnite Console Bundle",
       "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1467,62 +1467,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Edtion Console + Dualsense Teal",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edtion-console-dualsense-teal",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
-      "store": "Incredible Connection",
-      "price": 599,
-      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
-      "store": "Incredible Connection",
-      "price": 699,
-      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "The PS5 Digital Edition (E) 825GB Console",
-      "store": "Incredible Connection",
-      "price": 900,
-      "affiliate_url": "https://www.incredible.co.za/the-ps5-digital-edition-e-825gb-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Digital Edition",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
       "price": 11999,
@@ -1531,18 +1475,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital + Fortnite Console Bundle",
+      "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
+      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
       "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1555,34 +1499,74 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation VR2",
+      "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Bundle + EA FC 26",
+      "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 900,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-bundle-ea-fc-26",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
+      "product": "Nintendo Switch 2 + Mario Kart World",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
       "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
+      "store": "Incredible Connection",
+      "price": 13999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edtion Console + Dualsense Teal",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edtion-console-dualsense-teal",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS4 DualShock 4 - Black",
+      "store": "Incredible Connection",
+      "price": 1299,
+      "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1603,26 +1587,18 @@
       "alternatives": []
     },
     {
-      "product": "ABP Series X Rechargeable Battery Pack - Black",
-      "store": "Incredible Connection",
-      "price": 50,
-      "affiliate_url": "https://www.incredible.co.za/abp-series-x-rechargeable-battery-pack-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller Midnight Black",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
+      "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
       "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation VR2",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/playstation-vr2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1635,6 +1611,14 @@
       "alternatives": []
     },
     {
+      "product": "PS5 DualSense Wireless Controller Midnight Black",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
       "price": 300,
@@ -1643,10 +1627,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1659,10 +1643,10 @@
       "alternatives": []
     },
     {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "product": "PS5 Charging Station",
       "store": "Incredible Connection",
-      "price": 40,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1679,6 +1663,22 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
