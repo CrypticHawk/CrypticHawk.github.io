@@ -89,6 +89,14 @@
       "alternatives": []
     },
     {
+      "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/proline-14-intel-celeron-n4020-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -233,6 +241,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 7730U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7730u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -261,22 +277,6 @@
       "store": "Incredible Connection",
       "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7-7735H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7735h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Laptops",
       "alternatives": []
     },
@@ -373,6 +373,14 @@
       "store": "Incredible Connection",
       "price": 3999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 650,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
     },
@@ -549,14 +557,6 @@
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch-ultra-titanium-silver-lte-2025",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
     },
@@ -809,18 +809,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -931,6 +931,14 @@
       "alternatives": []
     },
     {
+      "product": "Proline 14 Intel\u00ae Celeron\u00ae N4020 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/proline-14-intel-celeron-n4020-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1075,6 +1083,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 7730U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7730u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1103,22 +1119,6 @@
       "store": "Incredible Connection",
       "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-core-i3-n355-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7-7735H 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-7735h-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1215,6 +1215,14 @@
       "store": "Incredible Connection",
       "price": 3999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 650,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
       "category": "Phones",
       "alternatives": []
     },
@@ -1391,14 +1399,6 @@
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch-ultra-titanium-silver-lte-2025",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Huawei Watch Fit 3 GPS Green 43mm",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-green-43mm",
       "category": "Phones",
       "alternatives": []
     },
@@ -1651,18 +1651,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
