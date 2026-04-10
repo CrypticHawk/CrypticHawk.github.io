@@ -161,18 +161,18 @@
       "alternatives": []
     },
     {
-      "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
-      "store": "Incredible Connection",
-      "price": 43999,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5060",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Surface 7 15-inch Snapdragon\u00ae X Elite 16GB RAM 1TB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 43999,
       "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
+      "store": "Incredible Connection",
+      "price": 43999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5060",
       "category": "Laptops",
       "alternatives": []
     },
@@ -201,10 +201,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD Silver",
+      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
       "store": "Incredible Connection",
-      "price": 42999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-silver",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
       "category": "Laptops",
       "alternatives": []
     },
@@ -225,14 +225,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Apple MacBook Pro 14\" M5  10\u2011core CPU 16GB 1TB SSD10\u2011core GPU Space Black",
       "store": "Incredible Connection",
       "price": 38799,
@@ -245,6 +237,14 @@
       "store": "Incredible Connection",
       "price": 38799,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd-10-core-gpu-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "store": "Incredible Connection",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -265,10 +265,10 @@
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 37999,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
+      "price": 34999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,18 +281,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Fold7 512GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fold7 512GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -569,18 +569,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Pro Console",
       "store": "Incredible Connection",
       "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Pro  Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -633,18 +633,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Samsung T7  Shield Portable SSD 4 TB",
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-t7-shield-portable-ssd-4-tb",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -665,6 +665,14 @@
       "alternatives": []
     },
     {
+      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
       "price": 12999,
@@ -677,14 +685,6 @@
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
       "category": "Consoles",
       "alternatives": []
     },
@@ -745,98 +745,98 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario 3D World + Bowser's Fury",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-3d-world-bowser-s-fury",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch - Red/Blue",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Odyssey",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-odyssey",
+      "price": 3698,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Mario Kart 8 Deluxe",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-mario-kart-8-deluxe",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Super Mario Odyssey",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-super-mario-odyssey",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
+      "price": 3698,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario Odyssey + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 3198,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-odyssey-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Skyworth 60-inch UHD Google TV-60G6400H",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario Odyssey + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/skyworth-60-inch-uhd-google-tv-60g6400h",
+      "price": 3698,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-odyssey-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
+      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario 3D World + Bowser's Fury",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-3d-world-bowser-s-fury",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "SanDisk Extreme\u00ae Portable SSD 2TB for PlayStation\u00ae5 console and PC",
+      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 6499,
-      "affiliate_url": "https://www.incredible.co.za/sandisk-extreme-portable-ssd-2tb-for-playstation5-console-and-pc",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "JVC 34-inch Curved Adjustable Monitor",
+      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/jvc-34-inch-curved-adjustable-monitor",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1003,18 +1003,18 @@
       "alternatives": []
     },
     {
-      "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
-      "store": "Incredible Connection",
-      "price": 43999,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5060",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Surface 7 15-inch Snapdragon\u00ae X Elite 16GB RAM 1TB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 43999,
       "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
+      "store": "Incredible Connection",
+      "price": 43999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5060",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1043,10 +1043,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD Silver",
+      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
       "store": "Incredible Connection",
-      "price": 42999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-silver",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1067,14 +1067,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Apple MacBook Pro 14\" M5  10\u2011core CPU 16GB 1TB SSD10\u2011core GPU Space Black",
       "store": "Incredible Connection",
       "price": 38799,
@@ -1087,6 +1079,14 @@
       "store": "Incredible Connection",
       "price": 38799,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd-10-core-gpu-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "store": "Incredible Connection",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1107,10 +1107,10 @@
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 37999,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
+      "price": 34999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,18 +1123,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Fold7 512GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fold7 512GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1411,18 +1411,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Pro Console",
       "store": "Incredible Connection",
       "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Pro  Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1475,18 +1475,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Samsung T7  Shield Portable SSD 4 TB",
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/samsung-t7-shield-portable-ssd-4-tb",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc Bundle: Hitman, Monster Hunter Wilds & Rugby 25",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-bundle-hitman-monster-hunter-wilds-rugby-25",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1507,6 +1507,14 @@
       "alternatives": []
     },
     {
+      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
       "price": 12999,
@@ -1519,14 +1527,6 @@
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1587,98 +1587,98 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario 3D World + Bowser's Fury",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-3d-world-bowser-s-fury",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch - Red/Blue",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 7999,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Odyssey",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Mario Kart 8 Deluxe + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-odyssey",
+      "price": 3698,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-mario-kart-8-deluxe-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Mario Kart 8 Deluxe",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-mario-kart-8-deluxe",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Super Mario Odyssey",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-super-mario-odyssey",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 3098,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
+      "price": 3698,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Switch Console Red/Blue 2022 + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario Odyssey + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 3198,
-      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-odyssey-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Skyworth 60-inch UHD Google TV-60G6400H",
+      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario Odyssey + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/skyworth-60-inch-uhd-google-tv-60g6400h",
+      "price": 3698,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-odyssey-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
+      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario 3D World + Bowser's Fury",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-3d-world-bowser-s-fury",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "SanDisk Extreme\u00ae Portable SSD 2TB for PlayStation\u00ae5 console and PC",
+      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 6499,
-      "affiliate_url": "https://www.incredible.co.za/sandisk-extreme-portable-ssd-2tb-for-playstation5-console-and-pc",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "JVC 34-inch Curved Adjustable Monitor",
+      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/jvc-34-inch-curved-adjustable-monitor",
+      "price": 3598,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     }
