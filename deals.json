@@ -3,8 +3,16 @@
     {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 64GB 4TB SSD RTX\u21225090 Laptop",
       "store": "Incredible Connection",
-      "price": 20000,
+      "price": 99999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
+      "store": "Incredible Connection",
+      "price": 84999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -45,14 +53,6 @@
       "store": "Incredible Connection",
       "price": 73999,
       "affiliate_url": "https://www.incredible.co.za/asus-zephyrus-rog-g16-intel-core-ultra-9-32gb-ram-2tb-ssd-rtx-5070-ti",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
-      "store": "Incredible Connection",
-      "price": 16000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -105,10 +105,10 @@
       "alternatives": []
     },
     {
-      "product": "ROG STRIX G18 Intel\u00ae Core\u2122 Ultra 9 275HX 32GB RAM & 1TB SSD RTX\u21225070 Ti",
+      "product": "ROG STRIX G16 AMD Ryzen\u2122 9 8940HX 16GB RAM & 1TB SSD RTX\u21225070",
       "store": "Incredible Connection",
-      "price": 19000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-g18-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx5070-ti",
+      "price": 49999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5070",
       "category": "Laptops",
       "alternatives": []
     },
@@ -153,18 +153,18 @@
       "alternatives": []
     },
     {
-      "product": "Surface 7 15-inch Snapdragon\u00ae X Elite 16GB RAM 1TB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 43999,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
       "store": "Incredible Connection",
       "price": 43999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5060",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 15-inch Snapdragon\u00ae X Elite 16GB RAM 1TB SSD Storage Laptop",
+      "store": "Incredible Connection",
+      "price": 43999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -241,18 +241,10 @@
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
       "store": "Incredible Connection",
-      "price": 37999,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ROG STRIX G16 AMD Ryzen\u2122 9 8940HX 16GB RAM & 1TB SSD RTX\u21225070",
-      "store": "Incredible Connection",
-      "price": 12000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5070",
+      "price": 39999,
+      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
       "category": "Laptops",
       "alternatives": []
     },
@@ -265,6 +257,22 @@
       "alternatives": []
     },
     {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "store": "Incredible Connection",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
+      "store": "Incredible Connection",
+      "price": 7000,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Apple MacBook Pro 14\" M5  10\u2011core CPU 16GB 1TB SSD10\u2011core GPU Space Black",
       "store": "Incredible Connection",
       "price": 1800,
@@ -273,11 +281,11 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 16GB 1TB SSD 10\u2011core GPU Silver",
+      "product": "Samsung Galaxy Fold7 512GB Jet Black",
       "store": "Incredible Connection",
-      "price": 1800,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd-10-core-gpu-silver",
-      "category": "Laptops",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
+      "category": "Phones",
       "alternatives": []
     },
     {
@@ -285,14 +293,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fold7 512GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -309,6 +309,14 @@
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-1tb-series",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro 1TB Cosmic Orange",
+      "store": "Incredible Connection",
+      "price": 38499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-1tb-cosmic-orange",
       "category": "Phones",
       "alternatives": []
     },
@@ -377,6 +385,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S26 Ultra 256GB Black",
+      "store": "Incredible Connection",
+      "price": 30999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-256gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
       "store": "Incredible Connection",
       "price": 30999,
@@ -393,26 +409,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 Ultra 256GB Black",
-      "store": "Incredible Connection",
-      "price": 30999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-256gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 17 Pro Max",
-      "store": "Incredible Connection",
-      "price": 30499,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPhone 17 Pro Max 256GB Deep Blue",
       "store": "Incredible Connection",
       "price": 30499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-256gb-deep-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max 256GB Silver",
+      "store": "Incredible Connection",
+      "price": 30499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-256gb-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -425,18 +433,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S11 Ultra 5G 256GB Gray",
+      "product": "Apple iPhone 17 Pro Max",
       "store": "Incredible Connection",
-      "price": 29999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s11-ultra-5g-256gb-gray",
+      "price": 30499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26+ Series",
+      "product": "Samsung Galaxy Tab S11 Ultra 5G 256GB Gray",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-series-1",
+      "price": 29999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s11-ultra-5g-256gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -465,10 +473,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 17 Pro",
+      "product": "Samsung Galaxy S26+ Series",
       "store": "Incredible Connection",
-      "price": 27699,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-series-1",
       "category": "Phones",
       "alternatives": []
     },
@@ -497,10 +505,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 13 inch M5",
+      "product": "Apple iPhone 17 Pro",
       "store": "Incredible Connection",
-      "price": 27499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
+      "price": 27699,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro",
       "category": "Phones",
       "alternatives": []
     },
@@ -517,6 +525,14 @@
       "store": "Incredible Connection",
       "price": 27499,
       "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5-wifi-256gb-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPad Pro 13 inch M5",
+      "store": "Incredible Connection",
+      "price": 27499,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
       "category": "Phones",
       "alternatives": []
     },
@@ -545,22 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 512GB Black and Samsung Galaxy Buds 4 Bundle",
-      "store": "Incredible Connection",
-      "price": 1299,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-512gb-black-and-samsung-galaxy-buds-4-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPad Pro 13inch M4 WiFi 256GB Standard Glass Silver",
-      "store": "Incredible Connection",
-      "price": 26499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-wifi-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "JVC 100-inch QLED Smart TV-LT100NQ7145",
       "store": "Incredible Connection",
       "price": 17800,
@@ -569,18 +569,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Pro Console",
       "store": "Incredible Connection",
       "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Pro  Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -665,10 +665,10 @@
       "alternatives": []
     },
     {
-      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
+      "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -681,18 +681,18 @@
       "alternatives": []
     },
     {
-      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
+      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
       "store": "Incredible Connection",
       "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Edition",
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     },
@@ -709,6 +709,14 @@
       "store": "Incredible Connection",
       "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -829,14 +837,6 @@
       "store": "Incredible Connection",
       "price": 3598,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-odyssey",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
-      "store": "Incredible Connection",
-      "price": 3598,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     }
@@ -845,8 +845,16 @@
     {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 64GB 4TB SSD RTX\u21225090 Laptop",
       "store": "Incredible Connection",
-      "price": 20000,
+      "price": 99999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-64gb-4tb-ssd-rtx5090-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
+      "store": "Incredible Connection",
+      "price": 84999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -887,14 +895,6 @@
       "store": "Incredible Connection",
       "price": 73999,
       "affiliate_url": "https://www.incredible.co.za/asus-zephyrus-rog-g16-intel-core-ultra-9-32gb-ram-2tb-ssd-rtx-5070-ti",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
-      "store": "Incredible Connection",
-      "price": 16000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -947,10 +947,10 @@
       "alternatives": []
     },
     {
-      "product": "ROG STRIX G18 Intel\u00ae Core\u2122 Ultra 9 275HX 32GB RAM & 1TB SSD RTX\u21225070 Ti",
+      "product": "ROG STRIX G16 AMD Ryzen\u2122 9 8940HX 16GB RAM & 1TB SSD RTX\u21225070",
       "store": "Incredible Connection",
-      "price": 19000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-g18-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx5070-ti",
+      "price": 49999,
+      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5070",
       "category": "Laptops",
       "alternatives": []
     },
@@ -995,18 +995,18 @@
       "alternatives": []
     },
     {
-      "product": "Surface 7 15-inch Snapdragon\u00ae X Elite 16GB RAM 1TB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 43999,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
       "store": "Incredible Connection",
       "price": 43999,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5060",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 15-inch Snapdragon\u00ae X Elite 16GB RAM 1TB SSD Storage Laptop",
+      "store": "Incredible Connection",
+      "price": 43999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1083,18 +1083,10 @@
       "alternatives": []
     },
     {
-      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
       "store": "Incredible Connection",
-      "price": 37999,
-      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ROG STRIX G16 AMD Ryzen\u2122 9 8940HX 16GB RAM & 1TB SSD RTX\u21225070",
-      "store": "Incredible Connection",
-      "price": 12000,
-      "affiliate_url": "https://www.incredible.co.za/rog-strix-g16-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx5070",
+      "price": 39999,
+      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1107,6 +1099,22 @@
       "alternatives": []
     },
     {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Elite 16GB RAM 512GB SSD Storage Laptop",
+      "store": "Incredible Connection",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-elite-16gb-ram-512gb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
+      "store": "Incredible Connection",
+      "price": 7000,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Apple MacBook Pro 14\" M5  10\u2011core CPU 16GB 1TB SSD10\u2011core GPU Space Black",
       "store": "Incredible Connection",
       "price": 1800,
@@ -1115,11 +1123,11 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 16GB 1TB SSD 10\u2011core GPU Silver",
+      "product": "Samsung Galaxy Fold7 512GB Jet Black",
       "store": "Incredible Connection",
-      "price": 1800,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd-10-core-gpu-silver",
-      "category": "Laptops",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
+      "category": "Phones",
       "alternatives": []
     },
     {
@@ -1127,14 +1135,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fold7 512GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1151,6 +1151,14 @@
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-1tb-series",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro 1TB Cosmic Orange",
+      "store": "Incredible Connection",
+      "price": 38499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-1tb-cosmic-orange",
       "category": "Phones",
       "alternatives": []
     },
@@ -1219,6 +1227,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S26 Ultra 256GB Black",
+      "store": "Incredible Connection",
+      "price": 30999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-256gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
       "store": "Incredible Connection",
       "price": 30999,
@@ -1235,26 +1251,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 Ultra 256GB Black",
-      "store": "Incredible Connection",
-      "price": 30999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-256gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 17 Pro Max",
-      "store": "Incredible Connection",
-      "price": 30499,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPhone 17 Pro Max 256GB Deep Blue",
       "store": "Incredible Connection",
       "price": 30499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-256gb-deep-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max 256GB Silver",
+      "store": "Incredible Connection",
+      "price": 30499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-256gb-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -1267,18 +1275,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S11 Ultra 5G 256GB Gray",
+      "product": "Apple iPhone 17 Pro Max",
       "store": "Incredible Connection",
-      "price": 29999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s11-ultra-5g-256gb-gray",
+      "price": 30499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26+ Series",
+      "product": "Samsung Galaxy Tab S11 Ultra 5G 256GB Gray",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-series-1",
+      "price": 29999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s11-ultra-5g-256gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -1307,10 +1315,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 17 Pro",
+      "product": "Samsung Galaxy S26+ Series",
       "store": "Incredible Connection",
-      "price": 27699,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-series-1",
       "category": "Phones",
       "alternatives": []
     },
@@ -1339,10 +1347,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 13 inch M5",
+      "product": "Apple iPhone 17 Pro",
       "store": "Incredible Connection",
-      "price": 27499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
+      "price": 27699,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro",
       "category": "Phones",
       "alternatives": []
     },
@@ -1359,6 +1367,14 @@
       "store": "Incredible Connection",
       "price": 27499,
       "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5-wifi-256gb-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPad Pro 13 inch M5",
+      "store": "Incredible Connection",
+      "price": 27499,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
       "category": "Phones",
       "alternatives": []
     },
@@ -1387,22 +1403,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 512GB Black and Samsung Galaxy Buds 4 Bundle",
-      "store": "Incredible Connection",
-      "price": 1299,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-512gb-black-and-samsung-galaxy-buds-4-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPad Pro 13inch M4 WiFi 256GB Standard Glass Silver",
-      "store": "Incredible Connection",
-      "price": 26499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-wifi-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "JVC 100-inch QLED Smart TV-LT100NQ7145",
       "store": "Incredible Connection",
       "price": 17800,
@@ -1411,18 +1411,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Pro Console",
       "store": "Incredible Connection",
       "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Pro  Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1507,10 +1507,10 @@
       "alternatives": []
     },
     {
-      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
+      "product": "PS5 Slim Disc Edition",
       "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1523,18 +1523,18 @@
       "alternatives": []
     },
     {
-      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
+      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
       "store": "Incredible Connection",
       "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital Edition",
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1551,6 +1551,14 @@
       "store": "Incredible Connection",
       "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1671,14 +1679,6 @@
       "store": "Incredible Connection",
       "price": 3598,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-odyssey",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch OLED Model - White + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
-      "store": "Incredible Connection",
-      "price": 3598,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     }
