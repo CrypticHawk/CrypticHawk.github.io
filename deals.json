@@ -83,7 +83,7 @@
     {
       "product": "Lenovo Yoga 9 Slim Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 6000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-yoga-9-slim-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -93,22 +93,6 @@
       "store": "Incredible Connection",
       "price": 45999,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s14-ux5406-intel-core-ultra-9-32gb-ram-and-1tb-ssd",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB SpaceBlack",
-      "store": "Incredible Connection",
-      "price": 44999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-spaceblack",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 1TB SSD Silver",
-      "store": "Incredible Connection",
-      "price": 44999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -129,6 +113,22 @@
       "alternatives": []
     },
     {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB SpaceBlack",
+      "store": "Incredible Connection",
+      "price": 44999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-spaceblack",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 1TB SSD Silver",
+      "store": "Incredible Connection",
+      "price": 44999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb-ssd-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
       "store": "Incredible Connection",
       "price": 43999,
@@ -141,6 +141,14 @@
       "store": "Incredible Connection",
       "price": 43999,
       "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MBP 14 M5 10C 32 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "store": "Incredible Connection",
+      "price": 18599,
+      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-32-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -161,10 +169,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 32 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
       "store": "Incredible Connection",
-      "price": 18599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-32-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 39999,
+      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MBP 14 M5 10C 24 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "store": "Incredible Connection",
+      "price": 4599,
+      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -201,22 +217,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 24 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 4599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
-      "store": "Incredible Connection",
-      "price": 39999,
-      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo Yoga 9 2-in-1 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 10000,
@@ -241,18 +241,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Apple MBP 14 M5 10C 16 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
       "store": "Incredible Connection",
       "price": 3399,
       "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-16-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
+      "store": "Incredible Connection",
+      "price": 7000,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,18 +281,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Fold7 512GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fold7 512GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -369,18 +369,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
-      "store": "Incredible Connection",
-      "price": 30999,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-cellular-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy S26 Ultra Series",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-series",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
+      "store": "Incredible Connection",
+      "price": 30999,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-cellular-256gb-standard-glass-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -481,6 +481,14 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPad Pro 13 inch M5",
+      "store": "Incredible Connection",
+      "price": 27499,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPad Pro 13 inch M5 WiFi 256GB Space Black",
       "store": "Incredible Connection",
       "price": 27499,
@@ -493,14 +501,6 @@
       "store": "Incredible Connection",
       "price": 27499,
       "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5-wifi-256gb-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPad Pro 13 inch M5",
-      "store": "Incredible Connection",
-      "price": 27499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
       "category": "Phones",
       "alternatives": []
     },
@@ -537,26 +537,26 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 11 inch M5 Cellular 256GB Silver",
-      "store": "Incredible Connection",
-      "price": 25499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-11-inch-m5-cellular-256gb-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPad Pro 11 inch M5 Cellular 256GB Space Black",
-      "store": "Incredible Connection",
-      "price": 25499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-11-inch-m5-cellular-256gb-space-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPhone 17 512GB Black",
       "store": "Incredible Connection",
       "price": 25499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-512gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 512GB Mist Blue",
+      "store": "Incredible Connection",
+      "price": 25499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-512gb-mist-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPad Pro 11 inch M5 Cellular 256GB Silver",
+      "store": "Incredible Connection",
+      "price": 25499,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-11-inch-m5-cellular-256gb-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -593,18 +593,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
-      "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "JVC 49-inch Curved Adjustable Monitor",
       "store": "Incredible Connection",
       "price": 17999,
       "affiliate_url": "https://www.incredible.co.za/jvc-49-inch-curved-adjustable-monitor",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -657,14 +657,6 @@
       "alternatives": []
     },
     {
-      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
       "price": 12999,
@@ -673,10 +665,26 @@
       "alternatives": []
     },
     {
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Sony High Power Audio System with Party lights SHAKEX30D",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -693,14 +701,6 @@
       "store": "Incredible Connection",
       "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Digital Edition",
-      "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -737,58 +737,50 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
+      "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 3598,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
+      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 3698,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
+      "price": 3098,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
+      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 3598,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
+      "price": 3098,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
+      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 3698,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
+      "price": 3198,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White",
+      "product": "Switch Console Red/Blue 2022 + Super Mario Odyssey + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "price": 3098,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-odyssey-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue",
+      "product": "Switch Console Red/Blue 2022 + Super Mario Odyssey + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 3198,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-odyssey-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -801,18 +793,18 @@
       "alternatives": []
     },
     {
-      "product": "Turtle Beach Stealth 700 Gen 3 PS White",
-      "store": "Incredible Connection",
-      "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/turtle-beach-stealth-700-gen-3-ps-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "JVC 34-inch Curved Adjustable Monitor",
       "store": "Incredible Connection",
       "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/jvc-34-inch-curved-adjustable-monitor",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Turtle Beach Stealth 700 Gen 3 PS White",
+      "store": "Incredible Connection",
+      "price": 5999,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-stealth-700-gen-3-ps-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -833,10 +825,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch Lite Blue",
+      "product": "Xbox Wireless Controller - Elite Series 2",
       "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-blue",
+      "price": 5499,
+      "affiliate_url": "https://www.incredible.co.za/xbox-wireless-controller-elite-series-2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Skyworth 60-inch UHD Google TV-60G6400H",
+      "store": "Incredible Connection",
+      "price": 3500,
+      "affiliate_url": "https://www.incredible.co.za/skyworth-60-inch-uhd-google-tv-60g6400h",
       "category": "Consoles",
       "alternatives": []
     }
@@ -925,7 +925,7 @@
     {
       "product": "Lenovo Yoga 9 Slim Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 5000,
+      "price": 6000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-yoga-9-slim-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -935,22 +935,6 @@
       "store": "Incredible Connection",
       "price": 45999,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s14-ux5406-intel-core-ultra-9-32gb-ram-and-1tb-ssd",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB SpaceBlack",
-      "store": "Incredible Connection",
-      "price": 44999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-spaceblack",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 1TB SSD Silver",
-      "store": "Incredible Connection",
-      "price": 44999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -971,6 +955,22 @@
       "alternatives": []
     },
     {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB SpaceBlack",
+      "store": "Incredible Connection",
+      "price": 44999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-spaceblack",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 1TB SSD Silver",
+      "store": "Incredible Connection",
+      "price": 44999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb-ssd-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "ROG STRIX G16 AMD Ryzen\u2122 9-8940HX 16GB RAM & 1TB SSD RTX\u21225060",
       "store": "Incredible Connection",
       "price": 43999,
@@ -983,6 +983,14 @@
       "store": "Incredible Connection",
       "price": 43999,
       "affiliate_url": "https://www.incredible.co.za/surface-7-15-inch-snapdragon-x-elite-16gb-ram-1tb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MBP 14 M5 10C 32 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "store": "Incredible Connection",
+      "price": 18599,
+      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-32-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1003,10 +1011,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 32 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
       "store": "Incredible Connection",
-      "price": 18599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-32-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 39999,
+      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MBP 14 M5 10C 24 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "store": "Incredible Connection",
+      "price": 4599,
+      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1043,22 +1059,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 24 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 4599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
-      "store": "Incredible Connection",
-      "price": 39999,
-      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo Yoga 9 2-in-1 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 10000,
@@ -1083,18 +1083,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Apple MBP 14 M5 10C 16 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
       "store": "Incredible Connection",
       "price": 3399,
       "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-16-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14 M4 Pro 12 Core CPU 16 Core GPU 24GB 512GB SSD SB",
+      "store": "Incredible Connection",
+      "price": 7000,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m4-pro-12-core-cpu-16-core-gpu-24gb-512gb-ssd-sb",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,18 +1123,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Fold7 512GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fold7 512GB Jet Black",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7-512gb-jet-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1211,18 +1211,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
-      "store": "Incredible Connection",
-      "price": 30999,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-cellular-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy S26 Ultra Series",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-series",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
+      "store": "Incredible Connection",
+      "price": 30999,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-cellular-256gb-standard-glass-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -1323,6 +1323,14 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPad Pro 13 inch M5",
+      "store": "Incredible Connection",
+      "price": 27499,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPad Pro 13 inch M5 WiFi 256GB Space Black",
       "store": "Incredible Connection",
       "price": 27499,
@@ -1335,14 +1343,6 @@
       "store": "Incredible Connection",
       "price": 27499,
       "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5-wifi-256gb-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPad Pro 13 inch M5",
-      "store": "Incredible Connection",
-      "price": 27499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13-inch-m5",
       "category": "Phones",
       "alternatives": []
     },
@@ -1379,26 +1379,26 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 11 inch M5 Cellular 256GB Silver",
-      "store": "Incredible Connection",
-      "price": 25499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-11-inch-m5-cellular-256gb-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPad Pro 11 inch M5 Cellular 256GB Space Black",
-      "store": "Incredible Connection",
-      "price": 25499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-11-inch-m5-cellular-256gb-space-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPhone 17 512GB Black",
       "store": "Incredible Connection",
       "price": 25499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-512gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 512GB Mist Blue",
+      "store": "Incredible Connection",
+      "price": 25499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-512gb-mist-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPad Pro 11 inch M5 Cellular 256GB Silver",
+      "store": "Incredible Connection",
+      "price": 25499,
+      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-11-inch-m5-cellular-256gb-silver",
       "category": "Phones",
       "alternatives": []
     },
@@ -1435,18 +1435,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
-      "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "JVC 49-inch Curved Adjustable Monitor",
       "store": "Incredible Connection",
       "price": 17999,
       "affiliate_url": "https://www.incredible.co.za/jvc-49-inch-curved-adjustable-monitor",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1499,14 +1499,6 @@
       "alternatives": []
     },
     {
-      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
       "price": 12999,
@@ -1515,10 +1507,26 @@
       "alternatives": []
     },
     {
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Sony High Power Audio System with Party lights SHAKEX30D",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital Edition",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1535,14 +1543,6 @@
       "store": "Incredible Connection",
       "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Digital Edition",
-      "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1579,58 +1579,50 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
+      "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 3598,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
+      "price": 7999,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
+      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Odyssey",
       "store": "Incredible Connection",
-      "price": 3698,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
+      "price": 3098,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-odyssey",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White + Super Mario 3D World + Bowser's Fury + Super Mario Bros. Wonder",
+      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 3598,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-super-mario-3d-world-bowser-s-fury-super-mario-bros-wonder",
+      "price": 3098,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White + Super Mario 3D World + Bowser's Fury + Super Mario Galaxy 1 & 2",
+      "product": "Switch Console Red/Blue 2022 + Mario Kart 8 Deluxe + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 3698,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white-super-mario-3d-world-bowser-s-fury-super-mario-galaxy-1-2",
+      "price": 3198,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-mario-kart-8-deluxe-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White",
+      "product": "Switch Console Red/Blue 2022 + Super Mario Odyssey + Super Mario Bros. Wonder",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "price": 3098,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-odyssey-super-mario-bros-wonder",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue",
+      "product": "Switch Console Red/Blue 2022 + Super Mario Odyssey + Super Mario Galaxy 1 & 2",
       "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 3198,
+      "affiliate_url": "https://www.incredible.co.za/switch-console-red-blue-2022-super-mario-odyssey-super-mario-galaxy-1-2",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1643,18 +1635,18 @@
       "alternatives": []
     },
     {
-      "product": "Turtle Beach Stealth 700 Gen 3 PS White",
-      "store": "Incredible Connection",
-      "price": 5999,
-      "affiliate_url": "https://www.incredible.co.za/turtle-beach-stealth-700-gen-3-ps-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "JVC 34-inch Curved Adjustable Monitor",
       "store": "Incredible Connection",
       "price": 5999,
       "affiliate_url": "https://www.incredible.co.za/jvc-34-inch-curved-adjustable-monitor",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Turtle Beach Stealth 700 Gen 3 PS White",
+      "store": "Incredible Connection",
+      "price": 5999,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-stealth-700-gen-3-ps-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1675,10 +1667,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch Lite Blue",
+      "product": "Xbox Wireless Controller - Elite Series 2",
       "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-blue",
+      "price": 5499,
+      "affiliate_url": "https://www.incredible.co.za/xbox-wireless-controller-elite-series-2",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Skyworth 60-inch UHD Google TV-60G6400H",
+      "store": "Incredible Connection",
+      "price": 3500,
+      "affiliate_url": "https://www.incredible.co.za/skyworth-60-inch-uhd-google-tv-60g6400h",
       "category": "Consoles",
       "alternatives": []
     }
