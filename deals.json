@@ -19,16 +19,8 @@
     {
       "product": "Apple MacBook Pro 16 M5 Max 18 Core CPU 36 Core GPU 36GB 2TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 79999,
+      "price": 77999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-max-18-core-cpu-36-core-gpu-36gb-2tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 16 M5 Max 18C 36 2TB 32C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 1599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-16-m5-max-18c-36-2tb-32c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -43,32 +35,16 @@
     {
       "product": "Apple MacBook Pro 14 M5 Max 18 Core CPU 32 Core GPU 36GB 2TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 73999,
+      "price": 71999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-max-18-core-cpu-32-core-gpu-36gb-2tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD SpaceBlack",
+      "product": "Apple Macbook Pro 16 M5 Pro 18 Core CPU 20 Core GPU 48GB 1TB SSD SpaceBlack",
       "store": "Incredible Connection",
-      "price": 59999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-spaceblack",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD Silver",
-      "store": "Incredible Connection",
-      "price": 57499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD SpaceBlack",
-      "store": "Incredible Connection",
-      "price": 57499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-spaceblack",
+      "price": 61999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-pro-18-core-cpu-20-core-gpu-48gb-1tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -89,6 +65,22 @@
       "alternatives": []
     },
     {
+      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD Silver",
+      "store": "Incredible Connection",
+      "price": 55999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD SpaceBlack",
+      "store": "Incredible Connection",
+      "price": 55999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-spaceblack",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Lenovo Yoga 9 Slim Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 54999,
@@ -99,7 +91,7 @@
     {
       "product": "Apple Macbook Pro 16 M5 Pro 18 Core CPU 20 Core GPU 24GB 1TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 54999,
+      "price": 53999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-pro-18-core-cpu-20-core-gpu-24gb-1tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
@@ -107,24 +99,8 @@
     {
       "product": "Apple MacBook Pro 16 M5 Pro 18 Core CPU 20 Core GPU 24GB 1TB SSD SpaceBlack",
       "store": "Incredible Connection",
-      "price": 54999,
+      "price": 53999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-pro-18-core-cpu-20-core-gpu-24gb-1tb-ssd-spaceblack",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD Silver",
-      "store": "Incredible Connection",
-      "price": 53499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD SpaceBlack",
-      "store": "Incredible Connection",
-      "price": 53499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -133,6 +109,22 @@
       "store": "Incredible Connection",
       "price": 52999,
       "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-windows",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD Silver",
+      "store": "Incredible Connection",
+      "price": 51999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD SpaceBlack",
+      "store": "Incredible Connection",
+      "price": 51999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -147,7 +139,7 @@
     {
       "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB SpaceBlack",
       "store": "Incredible Connection",
-      "price": 44999,
+      "price": 44299,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-spaceblack",
       "category": "Laptops",
       "alternatives": []
@@ -155,24 +147,8 @@
     {
       "product": "Apple MacBook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 1TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 44999,
+      "price": 44299,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 14 M5 Pro 15C 24 1TB 16C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 1599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-pro-15c-24-1tb-16c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 14 M5 Pro 15C 24 1TB 16C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 1599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-pro-15c-24-1tb-16c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -201,26 +177,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Space Black",
+      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 42999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-space-black",
+      "price": 42499,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Silver",
+      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD SpaceBlack",
       "store": "Incredible Connection",
-      "price": 42999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 14 M5 10C 32 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 18599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-32-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 42499,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -249,34 +217,66 @@
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 24 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "product": "HP Omnibook Ultra Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-ultra-flip-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 24 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
       "store": "Incredible Connection",
-      "price": 4599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5  10\u2011core CPU 16GB 1TB SSD10\u2011core GPU Space Black",
+      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Space Black",
       "store": "Incredible Connection",
-      "price": 38799,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd10-core-gpu-space-black",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-space-black",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 16GB 1TB SSD 10\u2011core GPU Silver",
+      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Silver",
       "store": "Incredible Connection",
-      "price": 38799,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd-10-core-gpu-silver",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 34999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-512gb-ssd-laptop-1",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 16GB 512GB SSD and 10\u2011core GPU Silver",
+      "store": "Incredible Connection",
+      "price": 34499,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-512gb-ssd-and-10-core-gpu-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Air 15 M5 10 Core CPU 10 Core GPU 24GB 1TB SSD Sky Blue",
+      "store": "Incredible Connection",
+      "price": 33999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-air-15-m5-10-core-cpu-10-core-gpu-24gb-1tb-ssd-sky-blue",
       "category": "Laptops",
       "alternatives": []
     },
@@ -329,6 +329,30 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+      "store": "Incredible Connection",
+      "price": 35599,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-512gb-deep-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max 512GB Silver",
+      "store": "Incredible Connection",
+      "price": 35599,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-512gb-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+      "store": "Incredible Connection",
+      "price": 35599,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-512gb-cosmic-orange",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPhone 17 Pro 512GB Silver",
       "store": "Incredible Connection",
       "price": 32999,
@@ -377,6 +401,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S26 Ultra 512GB Sky Blue",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-512gb-sky-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S26 Ultra 512GB Black",
       "store": "Incredible Connection",
       "price": 4000,
@@ -393,26 +425,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 Ultra 512GB Sky Blue",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-512gb-sky-blue",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
       "store": "Incredible Connection",
       "price": 30999,
       "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-cellular-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 17 Pro Max",
-      "store": "Incredible Connection",
-      "price": 30499,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
       "category": "Phones",
       "alternatives": []
     },
@@ -437,6 +453,14 @@
       "store": "Incredible Connection",
       "price": 30499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-256gb-cosmic-orange",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max",
+      "store": "Incredible Connection",
+      "price": 30499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
       "category": "Phones",
       "alternatives": []
     },
@@ -537,38 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 13inch M4 WiFi 256GB Standard Glass Silver",
-      "store": "Incredible Connection",
-      "price": 26499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-wifi-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S26 Plus 512GB Black",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-plus-512gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S26 Plus 512GB Cobalt Violet",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-plus-512gb-cobalt-violet",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Pro Console",
       "store": "Incredible Connection",
       "price": 20999,
@@ -577,10 +569,10 @@
       "alternatives": []
     },
     {
-      "product": "JVC 100-inch QLED Smart TV-LT100NQ7145",
+      "product": "PS5 Pro  Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 20800,
-      "affiliate_url": "https://www.incredible.co.za/jvc-100-inch-qled-smart-tv-lt100nq7145",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -593,10 +585,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "product": "JVC 100-inch QLED Smart TV-LT100NQ7145",
       "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
+      "price": 20800,
+      "affiliate_url": "https://www.incredible.co.za/jvc-100-inch-qled-smart-tv-lt100nq7145",
       "category": "Consoles",
       "alternatives": []
     },
@@ -605,6 +597,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/steam-deck-oled-512gb-parallel-import",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -649,18 +649,18 @@
       "alternatives": []
     },
     {
-      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
       "category": "Consoles",
       "alternatives": []
     },
@@ -861,16 +861,8 @@
     {
       "product": "Apple MacBook Pro 16 M5 Max 18 Core CPU 36 Core GPU 36GB 2TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 79999,
+      "price": 77999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-max-18-core-cpu-36-core-gpu-36gb-2tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 16 M5 Max 18C 36 2TB 32C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 1599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-16-m5-max-18c-36-2tb-32c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -885,32 +877,16 @@
     {
       "product": "Apple MacBook Pro 14 M5 Max 18 Core CPU 32 Core GPU 36GB 2TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 73999,
+      "price": 71999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-max-18-core-cpu-32-core-gpu-36gb-2tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD SpaceBlack",
+      "product": "Apple Macbook Pro 16 M5 Pro 18 Core CPU 20 Core GPU 48GB 1TB SSD SpaceBlack",
       "store": "Incredible Connection",
-      "price": 59999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-spaceblack",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD Silver",
-      "store": "Incredible Connection",
-      "price": 57499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD SpaceBlack",
-      "store": "Incredible Connection",
-      "price": 57499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-spaceblack",
+      "price": 61999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-pro-18-core-cpu-20-core-gpu-48gb-1tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -931,6 +907,22 @@
       "alternatives": []
     },
     {
+      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD Silver",
+      "store": "Incredible Connection",
+      "price": 55999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14 M5 Pro 18 Core CPU 20 Core GPU 24GB 2TB SSD SpaceBlack",
+      "store": "Incredible Connection",
+      "price": 55999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-18-core-cpu-20-core-gpu-24gb-2tb-ssd-spaceblack",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Lenovo Yoga 9 Slim Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 54999,
@@ -941,7 +933,7 @@
     {
       "product": "Apple Macbook Pro 16 M5 Pro 18 Core CPU 20 Core GPU 24GB 1TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 54999,
+      "price": 53999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-pro-18-core-cpu-20-core-gpu-24gb-1tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
@@ -949,24 +941,8 @@
     {
       "product": "Apple MacBook Pro 16 M5 Pro 18 Core CPU 20 Core GPU 24GB 1TB SSD SpaceBlack",
       "store": "Incredible Connection",
-      "price": 54999,
+      "price": 53999,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-16-m5-pro-18-core-cpu-20-core-gpu-24gb-1tb-ssd-spaceblack",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD Silver",
-      "store": "Incredible Connection",
-      "price": 53499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD SpaceBlack",
-      "store": "Incredible Connection",
-      "price": 53499,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -975,6 +951,22 @@
       "store": "Incredible Connection",
       "price": 52999,
       "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-windows",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD Silver",
+      "store": "Incredible Connection",
+      "price": 51999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 2TB SSD SpaceBlack",
+      "store": "Incredible Connection",
+      "price": 51999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-2tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -989,7 +981,7 @@
     {
       "product": "Apple Macbook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB SpaceBlack",
       "store": "Incredible Connection",
-      "price": 44999,
+      "price": 44299,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-spaceblack",
       "category": "Laptops",
       "alternatives": []
@@ -997,24 +989,8 @@
     {
       "product": "Apple MacBook Pro 14 M5 Pro 15 Core CPU 16 Core GPU 24GB 1TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 44999,
+      "price": 44299,
       "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-pro-15-core-cpu-16-core-gpu-24gb-1tb-ssd-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 14 M5 Pro 15C 24 1TB 16C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 1599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-pro-15c-24-1tb-16c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 14 M5 Pro 15C 24 1TB 16C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 1599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-pro-15c-24-1tb-16c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1043,26 +1019,18 @@
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Space Black",
+      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD Silver",
       "store": "Incredible Connection",
-      "price": 42999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-space-black",
+      "price": 42499,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-silver",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Silver",
+      "product": "Apple MacBook Pro 14 M5 10 Core CPU 10 Core GPU 32GB 1TB SSD SpaceBlack",
       "store": "Incredible Connection",
-      "price": 42999,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Apple MBP 14 M5 10C 32 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
-      "store": "Incredible Connection",
-      "price": 18599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-32-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 42499,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-10-core-gpu-32gb-1tb-ssd-spaceblack",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1091,34 +1059,66 @@
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 24 1TB 10C SB With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "product": "HP Omnibook Ultra Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sb-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-ultra-flip-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MBP 14 M5 10C 24 1TB 10C SL With Port Yosemite Eco-Trendy Backpack 15.6\"",
+      "product": "ASUS TUF F16 Intel\u00ae Core\u2122 i7 14650HX 16GB RAM & 1TB SSD RTX\u21225070 Win 11H",
       "store": "Incredible Connection",
-      "price": 4599,
-      "affiliate_url": "https://www.incredible.co.za/apple-mbp-14-m5-10c-24-1tb-10c-sl-with-port-yosemite-eco-trendy-backpack-15-6",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-tuf-f16-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx5070-win-11h",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5  10\u2011core CPU 16GB 1TB SSD10\u2011core GPU Space Black",
+      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Space Black",
       "store": "Incredible Connection",
-      "price": 38799,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd10-core-gpu-space-black",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-space-black",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 16GB 1TB SSD 10\u2011core GPU Silver",
+      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 24GB 1TB SSD 10\u2011core GPU Silver",
       "store": "Incredible Connection",
-      "price": 38799,
-      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-1tb-ssd-10-core-gpu-silver",
+      "price": 37999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-24gb-1tb-ssd-10-core-gpu-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 34999,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-512gb-ssd-laptop-1",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Pro 14\" M5 10\u2011core CPU 16GB 512GB SSD and 10\u2011core GPU Silver",
+      "store": "Incredible Connection",
+      "price": 34499,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-pro-14-m5-10-core-cpu-16gb-512gb-ssd-and-10-core-gpu-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Apple MacBook Air 15 M5 10 Core CPU 10 Core GPU 24GB 1TB SSD Sky Blue",
+      "store": "Incredible Connection",
+      "price": 33999,
+      "affiliate_url": "https://www.incredible.co.za/apple-macbook-air-15-m5-10-core-cpu-10-core-gpu-24gb-1tb-ssd-sky-blue",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1171,6 +1171,30 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+      "store": "Incredible Connection",
+      "price": 35599,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-512gb-deep-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max 512GB Silver",
+      "store": "Incredible Connection",
+      "price": 35599,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-512gb-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+      "store": "Incredible Connection",
+      "price": 35599,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-512gb-cosmic-orange",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Apple iPhone 17 Pro 512GB Silver",
       "store": "Incredible Connection",
       "price": 32999,
@@ -1219,6 +1243,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S26 Ultra 512GB Sky Blue",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-512gb-sky-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S26 Ultra 512GB Black",
       "store": "Incredible Connection",
       "price": 4000,
@@ -1235,26 +1267,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 Ultra 512GB Sky Blue",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-512gb-sky-blue",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPad Pro 13inch M4 Cellular 256GB Standard Glass Silver",
       "store": "Incredible Connection",
       "price": 30999,
       "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-cellular-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 17 Pro Max",
-      "store": "Incredible Connection",
-      "price": 30499,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
       "category": "Phones",
       "alternatives": []
     },
@@ -1279,6 +1295,14 @@
       "store": "Incredible Connection",
       "price": 30499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max-256gb-cosmic-orange",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Apple iPhone 17 Pro Max",
+      "store": "Incredible Connection",
+      "price": 30499,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17-pro-max",
       "category": "Phones",
       "alternatives": []
     },
@@ -1379,38 +1403,6 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPad Pro 13inch M4 WiFi 256GB Standard Glass Silver",
-      "store": "Incredible Connection",
-      "price": 26499,
-      "affiliate_url": "https://www.incredible.co.za/apple-ipad-pro-13inch-m4-wifi-256gb-standard-glass-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S26 Plus 512GB Black",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-plus-512gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S26 Plus 512GB Cobalt Violet",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-plus-512gb-cobalt-violet",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5 Pro Console",
       "store": "Incredible Connection",
       "price": 20999,
@@ -1419,10 +1411,10 @@
       "alternatives": []
     },
     {
-      "product": "JVC 100-inch QLED Smart TV-LT100NQ7145",
+      "product": "PS5 Pro  Bundle + EA FC 26",
       "store": "Incredible Connection",
-      "price": 20800,
-      "affiliate_url": "https://www.incredible.co.za/jvc-100-inch-qled-smart-tv-lt100nq7145",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1435,10 +1427,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "product": "JVC 100-inch QLED Smart TV-LT100NQ7145",
       "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
+      "price": 20800,
+      "affiliate_url": "https://www.incredible.co.za/jvc-100-inch-qled-smart-tv-lt100nq7145",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1447,6 +1439,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/steam-deck-oled-512gb-parallel-import",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1491,18 +1491,18 @@
       "alternatives": []
     },
     {
-      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Sony High Power Audio System with Party lights SHAKEX30D",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/sony-high-power-audio-system-with-party-lights-shakex30d",
       "category": "Consoles",
       "alternatives": []
     },
