@@ -57,14 +57,6 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -125,6 +117,14 @@
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 700,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -209,14 +209,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 14 Intel\u00ae N150 8GB RAM 256GB SSD Laptop Blue",
-      "store": "Incredible Connection",
-      "price": 6999,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-n150-8gb-ram-256gb-ssd-laptop-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Aston Intel\u00ae Celeron\u00ae N100 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5499,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-aston-intel-celeron-n100-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -899,14 +899,6 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -967,6 +959,14 @@
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Montenero-C Intel\u00ae Celeron\u00ae N4020 4GB RAM 128GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 700,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c-intel-celeron-n4020-4gb-ram-128gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1051,14 +1051,6 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 14 Intel\u00ae N150 8GB RAM 256GB SSD Laptop Blue",
-      "store": "Incredible Connection",
-      "price": 6999,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-intel-n150-8gb-ram-256gb-ssd-laptop-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Aston Intel\u00ae Celeron\u00ae N100 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5499,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-aston-intel-celeron-n100-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
