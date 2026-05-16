@@ -513,6 +513,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Watch Fit  3 GPS 43mm White",
+      "store": "Incredible Connection",
+      "price": 2999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
       "store": "Incredible Connection",
       "price": 1000,
@@ -549,14 +557,6 @@
       "store": "Incredible Connection",
       "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A07 128GB Green",
-      "store": "Incredible Connection",
-      "price": 2499,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
       "category": "Phones",
       "alternatives": []
     },
@@ -705,14 +705,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
       "price": 9999,
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1346,10 +1346,26 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Watch Fit  3 GPS 43mm White",
+      "store": "Incredible Connection",
+      "price": 2999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-watch-fit-3-gps-43mm-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-1",
       "category": "Phones",
       "alternatives": []
     },
@@ -1368,14 +1384,6 @@
           "category": "Phones"
         }
       ]
-    },
-    {
-      "product": "Yoco Khumo Card Machine",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-1",
-      "category": "Phones",
-      "alternatives": []
     },
     {
       "product": "Honor X5c Plus Black",
@@ -1398,14 +1406,6 @@
       "store": "Incredible Connection",
       "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-white",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A07 128GB Green",
-      "store": "Incredible Connection",
-      "price": 2499,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
       "category": "Phones",
       "alternatives": []
     },
@@ -1554,14 +1554,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Disc Edition",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
       "price": 9999,
@@ -1686,6 +1678,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
     }
