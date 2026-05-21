@@ -153,18 +153,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -617,14 +617,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
-      "store": "Incredible Connection",
-      "price": 15499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
       "price": 11499,
@@ -839,6 +831,14 @@
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
+    },
+    {
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
     }
   ],
   "all_deals": [
@@ -995,18 +995,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1466,14 +1466,6 @@
       "alternatives": []
     },
     {
-      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
-      "store": "Incredible Connection",
-      "price": 15499,
-      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
       "price": 11499,
@@ -1686,6 +1678,14 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     }
