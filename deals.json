@@ -579,7 +579,7 @@
     {
       "product": "Xbox Series S Console",
       "store": "Incredible Connection",
-      "price": 10299,
+      "price": 1300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
       "category": "Consoles",
       "alternatives": []
@@ -747,7 +747,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -763,7 +763,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -771,7 +771,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -801,14 +801,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
-      "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -817,9 +809,17 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Charging Station",
+      "store": "Incredible Connection",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
@@ -1428,7 +1428,7 @@
     {
       "product": "Xbox Series S Console",
       "store": "Incredible Connection",
-      "price": 10299,
+      "price": 1300,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
       "category": "Consoles",
       "alternatives": []
@@ -1596,7 +1596,7 @@
     {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1612,7 +1612,7 @@
     {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
       "category": "Consoles",
       "alternatives": []
@@ -1620,7 +1620,7 @@
     {
       "product": "Xbox Series Wireless Controller - Carbon Black",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
@@ -1650,14 +1650,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
-      "store": "Incredible Connection",
-      "price": 799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1666,9 +1658,17 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Charging Station",
+      "store": "Incredible Connection",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
-      "price": 1699,
+      "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
