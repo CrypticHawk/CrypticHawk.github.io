@@ -97,14 +97,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -275,8 +267,16 @@
     {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
+      "store": "Incredible Connection",
+      "price": 249,
+      "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
       "category": "Laptops",
       "alternatives": []
     },
@@ -729,14 +729,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
       "price": 400,
@@ -839,6 +831,14 @@
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 299,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
     }
   ],
   "all_deals": [
@@ -935,14 +935,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1117,8 +1109,16 @@
     {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
+      "store": "Incredible Connection",
+      "price": 249,
+      "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1578,14 +1578,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro  Bundle + EA FC 26",
-      "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Blue",
       "store": "Incredible Connection",
       "price": 400,
@@ -1686,6 +1678,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 299,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
