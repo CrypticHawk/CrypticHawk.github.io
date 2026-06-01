@@ -11,7 +11,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -43,7 +43,7 @@
     {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 11999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -51,7 +51,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Silver",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
@@ -121,14 +121,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
       "store": "Incredible Connection",
       "price": 2000,
@@ -141,6 +133,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
       "category": "Laptops",
       "alternatives": []
     },
@@ -177,18 +177,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -203,7 +203,7 @@
     {
       "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -259,7 +259,7 @@
     {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -267,7 +267,7 @@
     {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
       "store": "Incredible Connection",
-      "price": 16000,
+      "price": 25000,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -611,7 +611,7 @@
     {
       "product": "PS5 Digital Edition (E) 825GB Console",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 900,
       "affiliate_url": "https://www.incredible.co.za/ps5-digital-edition-e-825gb-console",
       "category": "Consoles",
       "alternatives": []
@@ -643,7 +643,7 @@
     {
       "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
@@ -651,7 +651,7 @@
     {
       "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 599,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
@@ -659,7 +659,7 @@
     {
       "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 599,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
@@ -705,6 +705,14 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
       "store": "Incredible Connection",
       "price": 17999,
@@ -717,14 +725,6 @@
       "store": "Incredible Connection",
       "price": 1299,
       "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -777,18 +777,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
       "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 7499,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -853,7 +853,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -885,7 +885,7 @@
     {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 11999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -893,7 +893,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Silver",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
@@ -963,14 +963,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
       "store": "Incredible Connection",
       "price": 2000,
@@ -983,6 +975,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1019,18 +1019,18 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1045,7 +1045,7 @@
     {
       "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1101,7 +1101,7 @@
     {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1109,7 +1109,7 @@
     {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
       "store": "Incredible Connection",
-      "price": 16000,
+      "price": 25000,
       "affiliate_url": "https://www.incredible.co.za/rog-strix-scar-18-g835-intel-ultra-9-275hx-32gb-2tb-ssd-rtx5080-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1460,7 +1460,7 @@
     {
       "product": "PS5 Digital Edition (E) 825GB Console",
       "store": "Incredible Connection",
-      "price": 12899,
+      "price": 900,
       "affiliate_url": "https://www.incredible.co.za/ps5-digital-edition-e-825gb-console",
       "category": "Consoles",
       "alternatives": []
@@ -1492,7 +1492,7 @@
     {
       "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
@@ -1500,7 +1500,7 @@
     {
       "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 599,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
@@ -1508,7 +1508,7 @@
     {
       "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 599,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
@@ -1554,6 +1554,14 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
       "store": "Incredible Connection",
       "price": 17999,
@@ -1566,14 +1574,6 @@
       "store": "Incredible Connection",
       "price": 1299,
       "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1626,18 +1626,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
       "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 7499,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
