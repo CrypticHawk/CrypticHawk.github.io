@@ -33,14 +33,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 11999,
@@ -201,18 +193,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
-      "store": "Incredible Connection",
-      "price": 16999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -385,18 +385,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPhone 14 128GB Starlight Pre Owned (A Grade)",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-starlight-pre-owned-a-grade",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -441,18 +441,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch8 40mm BT Dark Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-dark-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Honor X7d Black",
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/honor-x7d-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch8 40mm BT Dark Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-dark-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -467,7 +467,7 @@
     {
       "product": "Motorola G06 Power",
       "store": "Incredible Connection",
-      "price": 2499,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
       "category": "Phones",
       "alternatives": []
@@ -577,10 +577,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro Console",
+      "product": "Xbox Series S Console",
       "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series X",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-x",
       "category": "Consoles",
       "alternatives": []
     },
@@ -681,6 +689,14 @@
       "alternatives": []
     },
     {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
       "price": 1500,
@@ -729,6 +745,14 @@
       "alternatives": []
     },
     {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
       "store": "Incredible Connection",
       "price": 1000,
@@ -753,10 +777,26 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
       "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -799,46 +839,6 @@
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-carry-case",
       "category": "Consoles",
       "alternatives": []
-    },
-    {
-      "product": "Legion Go S Screen Protector",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch Pro Controller",
-      "store": "Incredible Connection",
-      "price": 350,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-pro-controller",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Starlight Blue",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-starlight-blue",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "SanDisk Ultra Fit\u2122 USB 3.1 128GB",
-      "store": "Incredible Connection",
-      "price": 329,
-      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
-      "category": "Consoles",
-      "alternatives": []
     }
   ],
   "all_deals": [
@@ -871,14 +871,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1043,18 +1035,18 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
-      "store": "Incredible Connection",
-      "price": 16999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1234,18 +1234,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Apple iPhone 14 128GB Starlight Pre Owned (A Grade)",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-starlight-pre-owned-a-grade",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -1290,18 +1290,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Watch8 40mm BT Dark Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-dark-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Honor X7d Black",
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/honor-x7d-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Watch8 40mm BT Dark Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-dark-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -1316,7 +1316,7 @@
     {
       "product": "Motorola G06 Power",
       "store": "Incredible Connection",
-      "price": 2499,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
       "category": "Phones",
       "alternatives": []
@@ -1426,10 +1426,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro Console",
+      "product": "Xbox Series S Console",
       "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series X",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-x",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1530,6 +1538,14 @@
       "alternatives": []
     },
     {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Nintendo Switch OLED Model - White",
       "store": "Incredible Connection",
       "price": 1500,
@@ -1578,6 +1594,14 @@
       "alternatives": []
     },
     {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Logitech G923 Racing Wheel PS4, PS5 And PC",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1602,10 +1626,26 @@
       "alternatives": []
     },
     {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Red",
       "store": "Incredible Connection",
       "price": 400,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1646,46 +1686,6 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-carry-case",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go S Screen Protector",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch Pro Controller",
-      "store": "Incredible Connection",
-      "price": 350,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-pro-controller",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Starlight Blue",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-starlight-blue",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "SanDisk Ultra Fit\u2122 USB 3.1 128GB",
-      "store": "Incredible Connection",
-      "price": 329,
-      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
       "category": "Consoles",
       "alternatives": []
     }
