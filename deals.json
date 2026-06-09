@@ -33,6 +33,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1500,
@@ -197,14 +205,6 @@
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-150-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -513,14 +513,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 Edge 256GB Black",
-      "store": "Incredible Connection",
-      "price": 6500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Watch Ultra Titanium Silver LTE 2025",
       "store": "Incredible Connection",
       "price": 2000,
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 800,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Buds 4 Black",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -605,6 +605,14 @@
       "store": "Incredible Connection",
       "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
+      "store": "Incredible Connection",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
       "category": "Consoles",
       "alternatives": []
     },
@@ -681,18 +689,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller - Carbon Black",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
     },
@@ -831,14 +839,6 @@
       "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-2-ryzen-z2-extreme-processor-32gb-ram-1tb-ssd-windows-11",
       "category": "Consoles",
       "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
-      "category": "Consoles",
-      "alternatives": []
     }
   ],
   "all_deals": [
@@ -871,6 +871,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 1 Intel\u00ae Celeron\u00ae N4500 Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-1-intel-celeron-n4500-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1039,14 +1047,6 @@
       "store": "Incredible Connection",
       "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-150-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1362,14 +1362,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 Edge 256GB Black",
-      "store": "Incredible Connection",
-      "price": 6500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Watch Ultra Titanium Silver LTE 2025",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1406,6 +1398,14 @@
       "store": "Incredible Connection",
       "price": 800,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Buds 4 Black",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -1454,6 +1454,14 @@
       "store": "Incredible Connection",
       "price": 12899,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation\u00ae5 Console \u2013 Ghost of Y\u014dtei\u2122",
+      "store": "Incredible Connection",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/playstation5-console-ghost-of-yotei",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1530,18 +1538,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller - Carbon Black",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1678,14 +1686,6 @@
       "store": "Incredible Connection",
       "price": 33999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-2-ryzen-z2-extreme-processor-32gb-ram-1tb-ssd-windows-11",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
