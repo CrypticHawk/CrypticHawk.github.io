@@ -105,26 +105,10 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5-7520U 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-7520u-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +261,22 @@
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS ZenBook 14 UM3406 AMD\u00ae Ryzen\u2122 AI 7 455 32GB RAM and 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-um3406-amd-ryzen-ai-7-455-32gb-ram-and-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -475,7 +475,7 @@
     {
       "product": "Motorola G06 Power",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
       "category": "Phones",
       "alternatives": []
@@ -558,6 +558,14 @@
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
+      "store": "Incredible Connection",
+      "price": 2699,
+      "affiliate_url": "https://www.incredible.co.za/disc-drive-for-ps5-slim-digital-edition-consoles-or-ps5pro-consoles",
+      "category": "Consoles",
       "alternatives": []
     },
     {
@@ -689,10 +697,26 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PS5 DualSense Wireless Controller Midnight Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation Portal",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/playstation-portal",
       "category": "Consoles",
       "alternatives": []
     },
@@ -795,7 +819,7 @@
     {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
@@ -813,30 +837,6 @@
       "store": "Incredible Connection",
       "price": 33999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-2-ryzen-z2-extreme-processor-32gb-ram-1tb-ssd-windows-11",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go S Screen Protector",
-      "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
@@ -947,26 +947,10 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Zenbook 14 Snapdragon\u00ae X Plus (8-Core) 16GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-snapdragon-x-plus-8-core-16gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-blue",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5-7520U 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-7520u-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1119,6 +1103,22 @@
       "store": "Incredible Connection",
       "price": 9999,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS ZenBook 14 UM3406 AMD\u00ae Ryzen\u2122 AI 7 455 32GB RAM and 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-um3406-amd-ryzen-ai-7-455-32gb-ram-and-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1324,7 +1324,7 @@
     {
       "product": "Motorola G06 Power",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
       "category": "Phones",
       "alternatives": []
@@ -1407,6 +1407,14 @@
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
+      "store": "Incredible Connection",
+      "price": 2699,
+      "affiliate_url": "https://www.incredible.co.za/disc-drive-for-ps5-slim-digital-edition-consoles-or-ps5pro-consoles",
+      "category": "Consoles",
       "alternatives": []
     },
     {
@@ -1538,10 +1546,26 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Slim Disc Edition",
+      "store": "Incredible Connection",
+      "price": 800,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PS5 DualSense Wireless Controller Midnight Black",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PlayStation Portal",
+      "store": "Incredible Connection",
+      "price": 1500,
+      "affiliate_url": "https://www.incredible.co.za/playstation-portal",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1644,7 +1668,7 @@
     {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
-      "price": 300,
+      "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
@@ -1662,30 +1686,6 @@
       "store": "Incredible Connection",
       "price": 33999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-2-ryzen-z2-extreme-processor-32gb-ram-1tb-ssd-windows-11",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Nova Pink",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go S Screen Protector",
-      "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
