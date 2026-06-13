@@ -36,7 +36,7 @@
       "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -209,14 +209,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
       "store": "Incredible Connection",
       "price": 25000,
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 15999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -649,18 +649,18 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -777,18 +777,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Red",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
     },
@@ -878,7 +878,7 @@
       "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1051,14 +1051,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Omnibook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ROG Strix Scar 18 (G835) Intel\u00ae Ultra 9 275HX 32GB 2TB SSD RTX\u21225080 Laptop",
       "store": "Incredible Connection",
       "price": 25000,
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 15999,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Inspiron 5440 Intel\u00ae Core\u2122 7-150U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/dell-inspiron-5440-intel-core-7-150u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1498,18 +1498,18 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
-      "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
       "store": "Incredible Connection",
       "price": 13999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1626,18 +1626,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Red",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
     },
