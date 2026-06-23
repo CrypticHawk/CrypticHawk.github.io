@@ -41,14 +41,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -57,10 +49,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Silver",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-silver",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -77,22 +69,6 @@
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Pink",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-pink",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Blue",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-blue",
       "category": "Laptops",
       "alternatives": []
     },
@@ -281,282 +257,186 @@
       "alternatives": []
     },
     {
-      "product": "Yoco Khumo Card Machine",
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-1",
-      "category": "Phones",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 FE 128GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
-      "store": "Incredible Connection",
-      "price": 99,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S25 FE 256GB Jet Black",
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-256gb-jet-black",
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Garmin v\u00edvoactive\u00ae 5 Cream gold aluminium bezel",
+      "store": "Incredible Connection",
+      "price": 1900,
+      "affiliate_url": "https://www.incredible.co.za/garmin-vivoactive-5-cream-gold-aluminium-bezel",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 15 128GB Black",
+      "product": "DJI Mini 4 Pro Fly More Combo Plus with DJI RC 2 Controller",
+      "store": "Incredible Connection",
+      "price": 4700,
+      "affiliate_url": "https://www.incredible.co.za/dji-mini-4-pro-fly-more-combo-plus-with-dji-rc-2-controller",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Canon EOS R50 Creator Kit",
+      "store": "Incredible Connection",
+      "price": 4500,
+      "affiliate_url": "https://www.incredible.co.za/canon-eos-r50-creator-kit",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi A27i 27\" Full HD 1080p IPS Monitor",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-a27i-27-full-hd-1080p-ips-monitor",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "DJI Air 3S Fly More Combo (DJI RC2)",
+      "store": "Incredible Connection",
+      "price": 3500,
+      "affiliate_url": "https://www.incredible.co.za/dji-air-3s-fly-more-combo-dji-rc2",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Epson EcoTank L3250 Printer",
       "store": "Incredible Connection",
       "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
+      "affiliate_url": "https://www.incredible.co.za/epson-ecotank-l3250-printer",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
+      "product": "Xiaomi TV Box S 3rd Gen 4K Media Player",
       "store": "Incredible Connection",
-      "price": 149,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-tv-box-s-3rd-gen-4k-media-player",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Yoco Neo Touch Card Machine",
+      "product": "Sony Alpha ZV-E10 Mirrorless Camera with 16-50mm Lens",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/sony-alpha-zv-e10-mirrorless-camera-with-16-50mm-lens",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Yoco Khumo Print Card Machine",
+      "product": "Hisense 34L Digital Microwave Matt Black H34MOBS17",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
-      "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Yoco Khumo Print Card Machine",
-          "store": "Incredible Connection",
-          "price": 100,
-          "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
-          "category": "Phones"
-        }
-      ]
-    },
-    {
-      "product": "Samsung Galaxy A06 Blue Black",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/hisense-34l-digital-microwave-matt-black-h34mobs17",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Telkom Huawei E5576 Router Including 7.5GB Anytime and 7.5GB Night time",
+      "product": "DJI Mini 4K (RC-N1C)",
       "store": "Incredible Connection",
-      "price": 999,
-      "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
+      "price": 1200,
+      "affiliate_url": "https://www.incredible.co.za/dji-mini-4k-rc-n1c",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy A17 128GB Black",
+      "product": "Western Digital 5TB My Passport Portable Hard Drive Black",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
+      "price": 900,
+      "affiliate_url": "https://www.incredible.co.za/western-digital-5tb-my-passport-portable-hard-drive-black",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "product": "Samsung Galaxy Tab S10 Lite WiFi 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-wifi-128gb-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Creality Ender 3 V3 SE 3D Printer And Filament Bundle",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
+      "affiliate_url": "https://www.incredible.co.za/creality-ender-3-v3-se-3d-printer-and-filament-bundle",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "product": "DJI Osmo Mobile 8",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/dji-osmo-mobile-8",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Canon PIXMA G3470 MegaTank Printer",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/canon-pixma-g3470-megatank-printer",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Canon Maxify GX2040 MegaTank",
+      "store": "Incredible Connection",
+      "price": 4300,
+      "affiliate_url": "https://www.incredible.co.za/canon-maxify-gx2040-megatank",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "DJI Action 5 Pro Adventure Combo",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
+      "affiliate_url": "https://www.incredible.co.za/dji-action-5-pro-adventure-combo",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi 15C 128GB Midnight Black",
+      "product": "Creality Ender 3V3 3D Printer",
       "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/creality-ender-3v3-3d-printer",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Starlight Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-starlight-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fit3 Pink Gold",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A26 5G Black 128GB Dual SIM",
-      "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a26-5g-black-128gb-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 40mm BT Dark Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-dark-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Pre Owned",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi Watch 5 Active",
-      "store": "Incredible Connection",
-      "price": 220,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 44mm BT Dark Gray",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-dark-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Honor X7d Black",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/honor-x7d-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab A11+ 5G Grey",
+      "product": "JBL Partybox Encore Essential 2 Portable Bluetooth Party Speaker",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
+      "affiliate_url": "https://www.incredible.co.za/jbl-partybox-encore-essential-2-portable-bluetooth-party-speaker",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 4G Gray",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Buds 4 Pro Black",
+      "product": "Canon PIXMA TR4645 4-in-1 Multi-function Printer",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Motorola G06 Power",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A07 128GB Green",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch Ultra Titanium Silver LTE 2025",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch-ultra-titanium-silver-lte-2025",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Midnight Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 10999,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 40mm BT Silver",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Nokia 105 Black Dual Sim",
-      "store": "Incredible Connection",
-      "price": 239,
-      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15C",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Buds 4 Black",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
+      "affiliate_url": "https://www.incredible.co.za/canon-pixma-tr4645-4-in-1-multi-function-printer",
       "category": "Phones",
       "alternatives": []
     },
@@ -793,18 +673,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -883,14 +763,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Diamond White",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-diamond-white",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -899,10 +771,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Silver",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-silver",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -919,22 +791,6 @@
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Pink",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-pink",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Aspire Lite 14 Intel\u00ae Core\u2122 3-N355 8GB RAM 256GB SSD Laptop Blue",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/aspire-lite-14-intel-core-3-n355-8gb-ram-256gb-ssd-laptop-blue",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1123,289 +979,186 @@
       "alternatives": []
     },
     {
-      "product": "Yoco Khumo Card Machine",
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-1",
-      "category": "Phones",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S25 FE 128GB Jet Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-128gb-jet-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
-      "store": "Incredible Connection",
-      "price": 99,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S25 FE 256GB Jet Black",
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-fe-256gb-jet-black",
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Diamond White",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-diamond-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Garmin v\u00edvoactive\u00ae 5 Cream gold aluminium bezel",
+      "store": "Incredible Connection",
+      "price": 1900,
+      "affiliate_url": "https://www.incredible.co.za/garmin-vivoactive-5-cream-gold-aluminium-bezel",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 15 128GB Black",
+      "product": "DJI Mini 4 Pro Fly More Combo Plus with DJI RC 2 Controller",
+      "store": "Incredible Connection",
+      "price": 4700,
+      "affiliate_url": "https://www.incredible.co.za/dji-mini-4-pro-fly-more-combo-plus-with-dji-rc-2-controller",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Canon EOS R50 Creator Kit",
+      "store": "Incredible Connection",
+      "price": 4500,
+      "affiliate_url": "https://www.incredible.co.za/canon-eos-r50-creator-kit",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi A27i 27\" Full HD 1080p IPS Monitor",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-a27i-27-full-hd-1080p-ips-monitor",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "DJI Air 3S Fly More Combo (DJI RC2)",
+      "store": "Incredible Connection",
+      "price": 3500,
+      "affiliate_url": "https://www.incredible.co.za/dji-air-3s-fly-more-combo-dji-rc2",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Epson EcoTank L3250 Printer",
       "store": "Incredible Connection",
       "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15-128gb-black",
+      "affiliate_url": "https://www.incredible.co.za/epson-ecotank-l3250-printer",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
+      "product": "Xiaomi TV Box S 3rd Gen 4K Media Player",
       "store": "Incredible Connection",
-      "price": 149,
-      "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-tv-box-s-3rd-gen-4k-media-player",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Yoco Neo Touch Card Machine",
+      "product": "Sony Alpha ZV-E10 Mirrorless Camera with 16-50mm Lens",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/sony-alpha-zv-e10-mirrorless-camera-with-16-50mm-lens",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Yoco Khumo Print Card Machine",
+      "product": "Hisense 34L Digital Microwave Matt Black H34MOBS17",
       "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
-      "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Yoco Khumo Print Card Machine",
-          "store": "Incredible Connection",
-          "price": 100,
-          "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
-          "category": "Phones"
-        }
-      ]
-    },
-    {
-      "product": "Samsung Galaxy A06 Blue Black",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a06-blue-black",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/hisense-34l-digital-microwave-matt-black-h34mobs17",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Telkom Huawei E5576 Router Including 7.5GB Anytime and 7.5GB Night time",
+      "product": "DJI Mini 4K (RC-N1C)",
       "store": "Incredible Connection",
-      "price": 999,
-      "affiliate_url": "https://www.incredible.co.za/telkom-huawei-e5576-router-including-7-5gb-anytime-and-7-5gb-night-time",
+      "price": 1200,
+      "affiliate_url": "https://www.incredible.co.za/dji-mini-4k-rc-n1c",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy A17 128GB Black",
+      "product": "Western Digital 5TB My Passport Portable Hard Drive Black",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
+      "price": 900,
+      "affiliate_url": "https://www.incredible.co.za/western-digital-5tb-my-passport-portable-hard-drive-black",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "product": "Samsung Galaxy Tab S10 Lite WiFi 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-wifi-128gb-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Creality Ender 3 V3 SE 3D Printer And Filament Bundle",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
+      "affiliate_url": "https://www.incredible.co.za/creality-ender-3-v3-se-3d-printer-and-filament-bundle",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "product": "DJI Osmo Mobile 8",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/dji-osmo-mobile-8",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Canon PIXMA G3470 MegaTank Printer",
+      "store": "Incredible Connection",
+      "price": 1300,
+      "affiliate_url": "https://www.incredible.co.za/canon-pixma-g3470-megatank-printer",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Canon Maxify GX2040 MegaTank",
+      "store": "Incredible Connection",
+      "price": 4300,
+      "affiliate_url": "https://www.incredible.co.za/canon-maxify-gx2040-megatank",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "DJI Action 5 Pro Adventure Combo",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
+      "affiliate_url": "https://www.incredible.co.za/dji-action-5-pro-adventure-combo",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi 15C 128GB Midnight Black",
+      "product": "Creality Ender 3V3 3D Printer",
       "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c-128gb-midnight-black",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/creality-ender-3v3-3d-printer",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Starlight Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-starlight-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fit3 Pink Gold",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A26 5G Black 128GB Dual SIM",
-      "store": "Incredible Connection",
-      "price": 4999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a26-5g-black-128gb-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 40mm BT Dark Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-dark-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Pre Owned",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi Watch 5 Active",
-      "store": "Incredible Connection",
-      "price": 220,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 44mm BT Dark Gray",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-44mm-bt-dark-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Honor X7d Black",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/honor-x7d-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab A11+ 5G Grey",
+      "product": "JBL Partybox Encore Essential 2 Portable Bluetooth Party Speaker",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
+      "affiliate_url": "https://www.incredible.co.za/jbl-partybox-encore-essential-2-portable-bluetooth-party-speaker",
       "category": "Phones",
       "alternatives": []
     },
     {
-      "product": "Yoco Khumo Print Card Machine",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung Galaxy Tab A11 4G Gray",
-      "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Buds 4 Pro Black",
+      "product": "Canon PIXMA TR4645 4-in-1 Multi-function Printer",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Motorola G06 Power",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/motorola-g06-power",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A07 128GB Green",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a07-128gb-green",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch Ultra Titanium Silver LTE 2025",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch-ultra-titanium-silver-lte-2025",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 14 128GB Midnight Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 10999,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-midnight-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Watch8 40mm BT Silver",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-watch8-40mm-bt-silver",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Nokia 105 Black Dual Sim",
-      "store": "Incredible Connection",
-      "price": 239,
-      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15C",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Buds 4 Black",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
+      "affiliate_url": "https://www.incredible.co.za/canon-pixma-tr4645-4-in-1-multi-function-printer",
       "category": "Phones",
       "alternatives": []
     },
@@ -1642,18 +1395,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
