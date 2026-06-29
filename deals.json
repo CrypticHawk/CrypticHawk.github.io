@@ -609,14 +609,6 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 Console",
-      "store": "Incredible Connection",
-      "price": 11499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
       "price": 1000,
@@ -717,14 +709,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -837,6 +821,22 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Screen Protector",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
+      "store": "Incredible Connection",
+      "price": 199,
+      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1458,14 +1458,6 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 Console",
-      "store": "Incredible Connection",
-      "price": 11499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1566,14 +1558,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1686,6 +1670,22 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Screen Protector",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
+      "store": "Incredible Connection",
+      "price": 199,
+      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
     }
