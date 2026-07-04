@@ -25,14 +25,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -59,7 +51,7 @@
     {
       "product": "ASUS Vivobook 15 AMD\u2122 Ryzen\u2122 5 150 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-150-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -89,6 +81,14 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Asus Vivobook S3407 Snapdragon\u00ae X 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -97,10 +97,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
+      "product": "HP 250 Intel\u00ae N150 Laptop Black",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -117,6 +117,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -169,34 +177,18 @@
       "alternatives": []
     },
     {
-      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -209,10 +201,34 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop White",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 26999,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -221,6 +237,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -241,18 +265,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
+      "product": "HP 15s Intel\u00ae Core\u2122 Ultra 7 155H 16GB RAM and 512GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop White",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-ultra-7-155h-16gb-ram-and-512gb-ssd-laptop-blue",
       "category": "Laptops",
       "alternatives": []
     },
@@ -261,22 +277,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 26999,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook 16 Intel\u00ae Core\u2122 7 240H RTX\u2122 5050 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 12000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-16-intel-core-7-240h-rtx-5050-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -451,7 +451,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Black",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
@@ -531,7 +531,7 @@
     {
       "product": "Samsung Galaxy Buds 4 White",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
       "category": "Phones",
       "alternatives": []
@@ -867,14 +867,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 i3-1215U 8GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-i3-1215u-8gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -901,7 +893,7 @@
     {
       "product": "ASUS Vivobook 15 AMD\u2122 Ryzen\u2122 5 150 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-150-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -931,6 +923,14 @@
       "alternatives": []
     },
     {
+      "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Asus Vivobook S3407 Snapdragon\u00ae X 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -939,10 +939,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
+      "product": "HP 250 Intel\u00ae N150 Laptop Black",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -959,6 +959,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1011,34 +1019,18 @@
       "alternatives": []
     },
     {
-      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1051,10 +1043,34 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop White",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 26999,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1063,6 +1079,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-laptop-bundle",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1083,18 +1107,10 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
+      "product": "HP 15s Intel\u00ae Core\u2122 Ultra 7 155H 16GB RAM and 512GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop White",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
+      "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-ultra-7-155h-16gb-ram-and-512gb-ssd-laptop-blue",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1103,22 +1119,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 26999,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook 16 Intel\u00ae Core\u2122 7 240H RTX\u2122 5050 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 12000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-16-intel-core-7-240h-rtx-5050-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1300,7 +1300,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Black",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
@@ -1380,7 +1380,7 @@
     {
       "product": "Samsung Galaxy Buds 4 White",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
       "category": "Phones",
       "alternatives": []
