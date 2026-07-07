@@ -387,7 +387,7 @@
     {
       "product": "Samsung Galaxy Fit3 Pink Gold",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
       "category": "Phones",
       "alternatives": []
@@ -801,18 +801,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1229,7 +1229,7 @@
     {
       "product": "Samsung Galaxy Fit3 Pink Gold",
       "store": "Incredible Connection",
-      "price": 200,
+      "price": 300,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
       "category": "Phones",
       "alternatives": []
@@ -1650,18 +1650,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
