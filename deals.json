@@ -185,14 +185,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS VivoBook M1407 AMD Ryzen\u2122 AI 7 350 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Packard Bell Schumi LTE 14.1\" AMD Ryzen\u2122 3 16GB RAM 512GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 1000,
@@ -201,18 +193,18 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Montenero C82Pro Intel\u00ae Celeron N4500 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 17999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Montenero C82Pro Intel\u00ae Celeron N4500 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-gold",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -641,14 +641,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -839,6 +831,14 @@
       "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
     }
   ],
   "all_deals": [
@@ -1027,14 +1027,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS VivoBook M1407 AMD Ryzen\u2122 AI 7 350 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Packard Bell Schumi LTE 14.1\" AMD Ryzen\u2122 3 16GB RAM 512GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 1000,
@@ -1043,18 +1035,18 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Montenero C82Pro Intel\u00ae Celeron N4500 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 17999,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i5-13420h-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Packard Bell Montenero C82Pro Intel\u00ae Celeron N4500 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-montenero-c82pro-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-gold",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Surface 7 13.8-inch Snapdragon\u00ae X Plus 16GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/surface-7-13-8-inch-snapdragon-x-plus-16gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1490,14 +1490,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Disc + Fortnite Bundle",
-      "store": "Incredible Connection",
-      "price": 13999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-fortnite-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -1686,6 +1678,14 @@
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
     }
