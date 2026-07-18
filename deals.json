@@ -9,6 +9,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-n100-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
       "price": 2000,
@@ -38,15 +46,7 @@
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
       "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
@@ -147,7 +147,7 @@
     {
       "product": "Packard Bell Schumi LTE 14.1\" AMD Ryzen\u2122 3 16GB RAM 512GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -243,7 +243,7 @@
     {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -277,14 +277,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-gold",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -334,15 +326,7 @@
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
@@ -358,15 +342,7 @@
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
@@ -414,15 +390,7 @@
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy Tab A11+ 5G Grey",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "Yoco Khumo Print Card Machine",
@@ -593,130 +561,282 @@
       "alternatives": []
     },
     {
-      "product": "JVC 23.8-Inch FHD IPS Flat Monitor",
+      "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/jvc-23-8-inch-fhd-ips-flat-monitor",
+      "price": 2699,
+      "affiliate_url": "https://www.incredible.co.za/disc-drive-for-ps5-slim-digital-edition-consoles-or-ps5pro-consoles",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Xiaomi TV Box S 3rd Gen 4K Media Player",
+      "product": "Vertical Stand For PS5\u00ae and PS5\u00aePro Consoles",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/vertical-stand-for-ps5-and-ps5pro-consoles",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series S Console",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series X",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-x",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Digital Edition (E) 825GB Console",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-digital-edition-e-825gb-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital + Fortnite Console Bundle",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch - Red/Blue",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 Console",
+      "store": "Incredible Connection",
+      "price": 11499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch Lite Turquoise",
       "store": "Incredible Connection",
       "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-tv-box-s-3rd-gen-4k-media-player",
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-turquoise",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "JBL Partybox 710 Bluetooth Speaker",
+      "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/jbl-partybox-710-bluetooth-speaker",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung T7  Shield Portable SSD 4 TB",
+      "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-t7-shield-portable-ssd-4-tb",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10FE Plus",
+      "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10fe-plus",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "JVC 32-Inch FHD IPS Flat Monitor",
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - White",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Blue",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller Midnight Black",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/jvc-32-inch-fhd-ips-flat-monitor",
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite WiFi 128GB Gray",
+      "product": "Lenovo Legion Go 2 Ryzen Z2 Extreme Processor 32GB RAM & 1TB SSD Windows 11",
+      "store": "Incredible Connection",
+      "price": 32999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-2-ryzen-z2-extreme-processor-32gb-ram-1tb-ssd-windows-11",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-wifi-128gb-gray",
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Lenovo Idea Tab 11 128GB 5G with Pen and Case",
+      "product": "PS5\u00ae Pro A Console",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-idea-tab-11-128gb-5g-with-pen-and-case",
+      "price": 22499,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD 2-in-1 Laptop",
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
       "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/dell-14-plus-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-2-in-1-laptop",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD OLED Laptop",
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-oled-laptop",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi Pad 2 128G Graphite Gray",
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-pad-2-128g-graphite-gray",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 15",
+      "product": "PS5 Charging Station",
       "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26 Ultra Series",
+      "product": "Legion Go S Carry Case",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-series",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-carry-case",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "HP Omnibook 7 Aero AMD Ryzen\u2122 AI 7 350 32GB RAM 1TB SSD Laptop",
+      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-7-aero-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-laptop",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Hisense 98-inch QLED 4K TV-98Q6Q",
+      "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-98-inch-qled-4k-tv-98q6q",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung 12KG Bespoke AI Front Loader Eco Bubble WW12BB944DGBFA",
+      "product": "Lenovo Legion Go S Ryzen Z1 Extreme Processor 16GB RAM & 1TB SSD Steam OS",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-12kg-bespoke-ai-front-loader-eco-bubble-ww12bb944dgbfa",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-s-ryzen-z1-extreme-processor-16gb-ram-1tb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
@@ -727,6 +847,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Lenovo IdeaPad 3 Intel\u00ae N100 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-n100-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -760,15 +888,7 @@
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
       "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
@@ -869,7 +989,7 @@
     {
       "product": "Packard Bell Schumi LTE 14.1\" AMD Ryzen\u2122 3 16GB RAM 512GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -965,7 +1085,7 @@
     {
       "product": "Packard Bell Carrera Flex 3 AMD\u00ae Ryzen\u2122 3 3200U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-3200u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -999,14 +1119,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-gold",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1056,15 +1168,7 @@
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
@@ -1080,15 +1184,7 @@
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
@@ -1136,15 +1232,7 @@
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy Tab A11+ 5G Grey",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
-          "category": "Consoles"
-        }
-      ]
+      "alternatives": []
     },
     {
       "product": "Yoco Khumo Print Card Machine",
@@ -1322,158 +1410,282 @@
       "alternatives": []
     },
     {
-      "product": "JVC 23.8-Inch FHD IPS Flat Monitor",
+      "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
-      "price": 800,
-      "affiliate_url": "https://www.incredible.co.za/jvc-23-8-inch-fhd-ips-flat-monitor",
+      "price": 2699,
+      "affiliate_url": "https://www.incredible.co.za/disc-drive-for-ps5-slim-digital-edition-consoles-or-ps5pro-consoles",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Xiaomi TV Box S 3rd Gen 4K Media Player",
+      "product": "Vertical Stand For PS5\u00ae and PS5\u00aePro Consoles",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/vertical-stand-for-ps5-and-ps5pro-consoles",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series S Console",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series X",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-x",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Digital Edition (E) 825GB Console",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-digital-edition-e-825gb-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Digital + Fortnite Console Bundle",
+      "store": "Incredible Connection",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch - Red/Blue",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 Console",
+      "store": "Incredible Connection",
+      "price": 11499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch Lite Turquoise",
       "store": "Incredible Connection",
       "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-tv-box-s-3rd-gen-4k-media-player",
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-turquoise",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
-      "category": "Consoles"
-    },
-    {
-      "product": "JBL Partybox 710 Bluetooth Speaker",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/jbl-partybox-710-bluetooth-speaker",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-xbox-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung T7  Shield Portable SSD 4 TB",
+      "product": "Turtle Beach Recon 50 PS5 Gaming Headset Black",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/samsung-t7-shield-portable-ssd-4-tb",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10FE Plus",
+      "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10fe-plus",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "JVC 32-Inch FHD IPS Flat Monitor",
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
+      "store": "Incredible Connection",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - White",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller - Carbon Black",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-carbon-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Blue",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller Midnight Black",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-midnight-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Robot White",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 250,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
       "store": "Incredible Connection",
       "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/jvc-32-inch-fhd-ips-flat-monitor",
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab S10 Lite WiFi 128GB Gray",
+      "product": "Lenovo Legion Go 2 Ryzen Z2 Extreme Processor 32GB RAM & 1TB SSD Windows 11",
+      "store": "Incredible Connection",
+      "price": 32999,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-2-ryzen-z2-extreme-processor-32gb-ram-1tb-ssd-windows-11",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
       "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-wifi-128gb-gray",
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-ryzen-z2-processor-16gb-ram-512gb-ssd-steam-os",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Lenovo Idea Tab 11 128GB 5G with Pen and Case",
+      "product": "PS5\u00ae Pro A Console",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-idea-tab-11-128gb-5g-with-pen-and-case",
+      "price": 22499,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 256V 16GB RAM 1TB SSD 2-in-1 Laptop",
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
       "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/dell-14-plus-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-2-in-1-laptop",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
-      "category": "Consoles"
-    },
-    {
-      "product": "ASUS Vivobook Flip Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD OLED Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-flip-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-oled-laptop",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi Pad 2 128G Graphite Gray",
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-pad-2-128g-graphite-gray",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11+ 5G Grey",
+      "product": "PS5 Charging Station",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
-      "category": "Consoles"
-    },
-    {
-      "product": "Apple iPhone 15",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-15",
+      "price": 799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
+      "product": "Legion Go S Carry Case",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra Series",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra-series",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-carry-case",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "HP Omnibook 7 Aero AMD Ryzen\u2122 AI 7 350 32GB RAM 1TB SSD Laptop",
+      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-7-aero-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-laptop",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Hisense 98-inch QLED 4K TV-98Q6Q",
+      "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-98-inch-qled-4k-tv-98q6q",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
       "category": "Consoles",
       "alternatives": []
     },
     {
-      "product": "Samsung 12KG Bespoke AI Front Loader Eco Bubble WW12BB944DGBFA",
+      "product": "Lenovo Legion Go S Ryzen Z1 Extreme Processor 16GB RAM & 1TB SSD Steam OS",
       "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-12kg-bespoke-ai-front-loader-eco-bubble-ww12bb944dgbfa",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-legion-go-s-ryzen-z1-extreme-processor-16gb-ram-1tb-ssd-steam-os",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 DualSense Wireless Controller - Nova Pink",
+      "store": "Incredible Connection",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP Link RE200 AC750 WIFI Range Extender",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
