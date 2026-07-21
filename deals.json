@@ -65,14 +65,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook 16 Intel\u00ae Core\u2122 7 240H RTX\u2122 5050 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 15000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-16-intel-core-7-240h-rtx-5050-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -259,7 +251,7 @@
     {
       "product": "ASUS Vivobook S14 AMD Ryzen\u2122 AI 7 350 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 26999,
+      "price": 8000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-s14-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 16000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -649,10 +649,10 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "product": "PS5 Slim Digital Edition",
       "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "price": 2900,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -661,6 +661,14 @@
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -831,14 +839,6 @@
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
       "category": "Consoles",
       "alternatives": []
-    },
-    {
-      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
-      "store": "Incredible Connection",
-      "price": 199,
-      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
-      "category": "Consoles",
-      "alternatives": []
     }
   ],
   "all_deals": [
@@ -903,14 +903,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook 16 Intel\u00ae Core\u2122 7 240H RTX\u2122 5050 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 15000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-16-intel-core-7-240h-rtx-5050-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1101,7 +1093,7 @@
     {
       "product": "ASUS Vivobook S14 AMD Ryzen\u2122 AI 7 350 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 26999,
+      "price": 8000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-s14-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus Zenbook UX3405 Intel\u00ae Core\u2122 Ultra 9-285H 32GB RAM 1TB SSD OLED Laptop",
+      "store": "Incredible Connection",
+      "price": 16000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-ux3405-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-oled-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1498,10 +1498,10 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "product": "PS5 Slim Digital Edition",
       "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "price": 2900,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-edition",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1510,6 +1510,14 @@
       "store": "Incredible Connection",
       "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1678,14 +1686,6 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
-      "store": "Incredible Connection",
-      "price": 199,
-      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
     }
