@@ -193,14 +193,6 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Carrera Flex 5 AMD\u00ae Ryzen\u2122 5 5500U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-5-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-ryzen-7-170-16gb-ram-512gb-ssd-rtx3050-gaming-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Spin 14 Intel\u00ae Core\u2122 3 N355 8GB 512GB Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/acer-spin-14-intel-core-3-n355-8gb-512gb-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -425,46 +425,6 @@
       "alternatives": []
     },
     {
-      "product": "Honor X7d",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/honor-x7d",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Techno Violent and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-techno-violent-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Flip8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -477,6 +437,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-pink-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -497,10 +465,26 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Techno Violent and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-techno-violent-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -517,6 +501,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -557,6 +549,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 239,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
       "category": "Phones",
       "alternatives": []
     },
@@ -1035,14 +1035,6 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Carrera Flex 5 AMD\u00ae Ryzen\u2122 5 5500U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-5-amd-ryzen-5-5500u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i5 13420H 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-ryzen-7-170-16gb-ram-512gb-ssd-rtx3050-gaming-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Spin 14 Intel\u00ae Core\u2122 3 N355 8GB 512GB Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/acer-spin-14-intel-core-3-n355-8gb-512gb-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1267,51 +1267,11 @@
       "alternatives": []
     },
     {
-      "product": "Honor X7d",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/honor-x7d",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Yoco Khumo Print Card Machine",
       "store": "Incredible Connection",
       "price": 1499,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
       "category": "Phones"
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Techno Violent and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-techno-violent-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
     },
     {
       "product": "Samsung Galaxy Z Flip8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
@@ -1326,6 +1286,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-pink-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1346,10 +1314,26 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Techno Violent and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-techno-violent-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1366,6 +1350,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1406,6 +1398,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 239,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
       "category": "Phones",
       "alternatives": []
     },
