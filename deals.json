@@ -193,14 +193,6 @@
       "alternatives": []
     },
     {
-      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -269,6 +261,14 @@
       "store": "Incredible Connection",
       "price": 8000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-s14-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -481,14 +481,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -517,6 +509,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -713,6 +713,14 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Pro  Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 300,
@@ -745,14 +753,6 @@
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -765,6 +765,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
       "category": "Consoles",
       "alternatives": []
     },
@@ -829,14 +837,6 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1035,14 +1035,6 @@
       "alternatives": []
     },
     {
-      "product": "HP OmniBook 3 AMD Ryzen AI 7 350 16GB RAM 512GB SSD Silver Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-350-16gb-ram-512gb-ssd-silver-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -1111,6 +1103,14 @@
       "store": "Incredible Connection",
       "price": 8000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-s14-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1330,14 +1330,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1366,6 +1358,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1562,6 +1562,14 @@
       "alternatives": []
     },
     {
+      "product": "PS5 Pro  Bundle + EA FC 26",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-bundle-ea-fc-26",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 300,
@@ -1594,14 +1602,6 @@
       "alternatives": []
     },
     {
-      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1614,6 +1614,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1678,14 +1686,6 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-nova-pink",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "TP Link RE200 AC750 WIFI Range Extender",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-re200-ac750-wifi-range-extender",
       "category": "Consoles",
       "alternatives": []
     }
