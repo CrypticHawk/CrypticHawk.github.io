@@ -329,6 +329,22 @@
       "alternatives": []
     },
     {
+      "product": "Yoco Khumo Print Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
+      "category": "Phones",
+      "alternatives": [
+        {
+          "product": "Yoco Khumo Print Card Machine",
+          "store": "Incredible Connection",
+          "price": 1499,
+          "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
+          "category": "Phones"
+        }
+      ]
+    },
+    {
       "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -381,14 +397,6 @@
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Yoco Khumo Print Card Machine",
-      "store": "Incredible Connection",
-      "price": 1499,
-      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
       "category": "Phones",
       "alternatives": []
     },
@@ -553,14 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "Honor X5c Plus",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -611,7 +611,7 @@
     {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -737,14 +737,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
-      "store": "Incredible Connection",
-      "price": 699,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -757,6 +749,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Charging Station",
+      "store": "Incredible Connection",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1171,6 +1171,22 @@
       "alternatives": []
     },
     {
+      "product": "Yoco Khumo Print Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-1",
+      "category": "Phones",
+      "alternatives": [
+        {
+          "product": "Yoco Khumo Print Card Machine",
+          "store": "Incredible Connection",
+          "price": 1499,
+          "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
+          "category": "Phones"
+        }
+      ]
+    },
+    {
       "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1231,8 +1247,7 @@
       "store": "Incredible Connection",
       "price": 1499,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2",
-      "category": "Phones",
-      "alternatives": []
+      "category": "Phones"
     },
     {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
@@ -1395,14 +1410,6 @@
       "alternatives": []
     },
     {
-      "product": "Honor X5c Plus",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -1453,7 +1460,7 @@
     {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1579,14 +1586,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Charging Station",
-      "store": "Incredible Connection",
-      "price": 699,
-      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
@@ -1599,6 +1598,14 @@
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5 Charging Station",
+      "store": "Incredible Connection",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/ps5-charging-station",
       "category": "Consoles",
       "alternatives": []
     },
