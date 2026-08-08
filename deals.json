@@ -337,6 +337,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y91 Dual Sim Silver",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y91-dual-sim-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -345,10 +353,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Nova Y91 Dual Sim Silver",
+      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 6999,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y91-dual-sim-silver",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -365,22 +381,6 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a04s-dual-sim-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-      "store": "Incredible Connection",
-      "price": 9999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -403,7 +403,7 @@
     {
       "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 7499,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
@@ -433,18 +433,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -491,7 +491,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Pro Black",
       "store": "Incredible Connection",
-      "price": 4999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
       "category": "Phones",
       "alternatives": []
@@ -509,6 +509,22 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -533,22 +549,6 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -637,6 +637,22 @@
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - Red/Blue",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - White",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -769,6 +785,14 @@
       "alternatives": []
     },
     {
+      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
       "price": 1799,
@@ -813,30 +837,6 @@
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go 2 Dock",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-2-dock",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5\u00ae Slim Disc E + COD BO7 & Horizon Zero Dawn Remastered Console Bundle",
-      "store": "Incredible Connection",
-      "price": 15799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-e-cod-bo7-horizon-zero-dawn-remastered-console-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
-      "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1179,6 +1179,14 @@
       "alternatives": []
     },
     {
+      "product": "Huawei Nova Y91 Dual Sim Silver",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y91-dual-sim-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1187,10 +1195,18 @@
       "alternatives": []
     },
     {
-      "product": "Huawei Nova Y91 Dual Sim Silver",
+      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 6999,
-      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y91-dual-sim-silver",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -1207,22 +1223,6 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a04s-dual-sim-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
-      "store": "Incredible Connection",
-      "price": 9999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
     },
@@ -1245,7 +1245,7 @@
     {
       "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 7499,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
@@ -1275,18 +1275,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1333,7 +1333,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Pro Black",
       "store": "Incredible Connection",
-      "price": 4999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
       "category": "Phones",
       "alternatives": []
@@ -1351,6 +1351,22 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1375,22 +1391,6 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1479,6 +1479,22 @@
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - Red/Blue",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - White",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1611,6 +1627,14 @@
       "alternatives": []
     },
     {
+      "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
       "price": 1799,
@@ -1655,30 +1679,6 @@
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go 2 Dock",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-2-dock",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5\u00ae Slim Disc E + COD BO7 & Horizon Zero Dawn Remastered Console Bundle",
-      "store": "Incredible Connection",
-      "price": 15799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-e-cod-bo7-horizon-zero-dawn-remastered-console-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
-      "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
       "category": "Consoles",
       "alternatives": []
     }
