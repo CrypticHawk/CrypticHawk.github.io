@@ -211,7 +211,7 @@
     {
       "product": "ASUS CM300 2-in-1 MediaTek 520 4GB RAM 64GB eMMC Chromebook",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/asus-cm300-2-in-1-mediatek-520-4gb-ram-64gb-emmc-chromebook",
       "category": "Laptops",
       "alternatives": []
@@ -243,7 +243,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -253,14 +253,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook 15 AMD\u2122 Ryzen\u2122 5 150 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-150-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -427,16 +427,8 @@
     {
       "product": "Vivo Y27 Dual SIM",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/vivo-y27-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -453,6 +445,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1053,7 +1053,7 @@
     {
       "product": "ASUS CM300 2-in-1 MediaTek 520 4GB RAM 64GB eMMC Chromebook",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/asus-cm300-2-in-1-mediatek-520-4gb-ram-64gb-emmc-chromebook",
       "category": "Laptops",
       "alternatives": []
@@ -1085,7 +1085,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1095,14 +1095,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS Vivobook 15 AMD\u2122 Ryzen\u2122 5 150 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-15-amd-ryzen-5-150-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1269,16 +1269,8 @@
     {
       "product": "Vivo Y27 Dual SIM",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/vivo-y27-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1295,6 +1287,14 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
