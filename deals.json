@@ -593,10 +593,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro Console",
+      "product": "PS5 Slim Digital + Fortnite Console Bundle",
       "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -619,7 +619,7 @@
     {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 7999,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -633,14 +633,6 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -649,10 +641,10 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White",
+      "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
@@ -661,6 +653,14 @@
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - White",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -729,18 +729,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Red",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
     },
@@ -825,18 +825,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series S 1TB White Console",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Legion Go S Carry Case",
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-carry-case",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series S 1TB White Console",
+      "store": "Incredible Connection",
+      "price": 11999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1435,10 +1435,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Pro Console",
+      "product": "PS5 Slim Digital + Fortnite Console Bundle",
       "store": "Incredible Connection",
-      "price": 20999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-pro-console",
+      "price": 12899,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1461,7 +1461,7 @@
     {
       "product": "Nintendo Switch - Red/Blue",
       "store": "Incredible Connection",
-      "price": 7999,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-red-blue",
       "category": "Consoles",
       "alternatives": []
@@ -1475,14 +1475,6 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - Red/Blue",
-      "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Turtle Beach Recon 50 Xbox Gaming Headset Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -1491,10 +1483,10 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch OLED Model - White",
+      "product": "Nintendo Switch OLED Model - Red/Blue",
       "store": "Incredible Connection",
       "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-red-blue",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1503,6 +1495,14 @@
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch OLED Model - White",
+      "store": "Incredible Connection",
+      "price": 2500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-oled-model-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1571,18 +1571,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series Wireless Controller Red",
-      "store": "Incredible Connection",
-      "price": 1699,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series Wireless Controller Robot White",
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-robot-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series Wireless Controller Red",
+      "store": "Incredible Connection",
+      "price": 1699,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-red",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1667,18 +1667,18 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series S 1TB White Console",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Legion Go S Carry Case",
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-carry-case",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Xbox Series S 1TB White Console",
+      "store": "Incredible Connection",
+      "price": 11999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
       "category": "Consoles",
       "alternatives": []
     }
