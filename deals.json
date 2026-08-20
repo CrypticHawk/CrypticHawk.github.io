@@ -801,14 +801,6 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series S 1TB White Console",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Legion Go 2 Dock",
       "store": "Incredible Connection",
       "price": 1999,
@@ -817,10 +809,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
+      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
       "category": "Consoles",
       "alternatives": []
     },
@@ -833,10 +825,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
+      "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "price": 11999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
+      "store": "Incredible Connection",
+      "price": 449,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1643,14 +1643,6 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series S 1TB White Console",
-      "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Legion Go 2 Dock",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1659,10 +1651,10 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
+      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
+      "price": 1799,
+      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1675,10 +1667,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
+      "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "price": 11999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
+      "store": "Incredible Connection",
+      "price": 449,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
       "category": "Consoles",
       "alternatives": []
     }
