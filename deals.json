@@ -73,14 +73,6 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook  S3407 Intel\u00ae Core\u2122 Ultra 7 255H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-s3407-intel-core-ultra-7-255h-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -193,18 +185,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 250 Intel\u00ae N150 Laptop Black",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 10999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 250 Intel\u00ae N150 Laptop Black",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -217,14 +209,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -233,10 +217,26 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -257,14 +257,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 3000,
@@ -281,18 +273,18 @@
       "alternatives": []
     },
     {
+      "product": "HP Omnibook 7 Aero AMD Ryzen\u2122 AI 7 350 32GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-7-aero-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 99,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
       "category": "Phones",
       "alternatives": []
     },
@@ -305,10 +297,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
       "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
       "category": "Phones",
       "alternatives": []
     },
@@ -321,10 +313,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -337,6 +329,14 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
@@ -345,18 +345,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 2800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Xiaomi Redmi 15",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "store": "Incredible Connection",
+      "price": 2800,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
     },
@@ -409,6 +409,14 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPhone XR 64GB White Pre Owned (A Grade)",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-xr-64gb-white-pre-owned-a-grade",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S26 Ultra",
       "store": "Incredible Connection",
       "price": 4000,
@@ -421,22 +429,6 @@
       "store": "Incredible Connection",
       "price": 1600,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone XR 64GB White Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-xr-64gb-white-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A37 256GB Gray including Samsung Galaxy Buds Core",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a37-256gb-gray-including-samsung-galaxy-buds-core",
       "category": "Phones",
       "alternatives": []
     },
@@ -457,10 +449,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11+ 5G Grey",
+      "product": "Samsung Galaxy A37 256GB Gray including Samsung Galaxy Buds Core",
       "store": "Incredible Connection",
-      "price": 2800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a37-256gb-gray-including-samsung-galaxy-buds-core",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fit3 Pink Gold",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
       "category": "Phones",
       "alternatives": []
     },
@@ -481,10 +481,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "price": 2800,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
     },
@@ -497,26 +497,18 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Fold8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fit3 Pink Gold",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 11 64GB Black Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-11-64gb-black-pre-owned-a-grade",
       "category": "Phones",
       "alternatives": []
     },
@@ -529,6 +521,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S25 256GB Navy",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -537,18 +537,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Fold8 512GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -621,6 +621,14 @@
       "store": "Incredible Connection",
       "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-turquoise",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
+      "store": "Incredible Connection",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
     },
@@ -745,18 +753,18 @@
       "alternatives": []
     },
     {
-      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
       "category": "Consoles",
       "alternatives": []
     },
@@ -785,6 +793,14 @@
       "alternatives": []
     },
     {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
       "price": 2000,
@@ -801,18 +817,10 @@
       "alternatives": []
     },
     {
-      "product": "Legion Go 2 Dock",
+      "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-2-dock",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
-      "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "price": 11999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -825,18 +833,10 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series S 1TB White Console",
+      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
       "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
-      "store": "Incredible Connection",
-      "price": 449,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
       "category": "Consoles",
       "alternatives": []
     }
@@ -915,14 +915,6 @@
       "alternatives": []
     },
     {
-      "product": "Asus Vivobook  S3407 Intel\u00ae Core\u2122 Ultra 7 255H 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-s3407-intel-core-ultra-7-255h-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1035,18 +1027,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 250 Intel\u00ae N150 Laptop Black",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 10999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 250 Intel\u00ae N150 Laptop Black",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1059,14 +1051,6 @@
       "alternatives": []
     },
     {
-      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
@@ -1075,10 +1059,26 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1099,14 +1099,6 @@
       "alternatives": []
     },
     {
-      "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop Blue",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1123,18 +1115,18 @@
       "alternatives": []
     },
     {
+      "product": "HP Omnibook 7 Aero AMD Ryzen\u2122 AI 7 350 32GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-7-aero-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 99,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
       "category": "Phones",
       "alternatives": []
     },
@@ -1147,10 +1139,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
       "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
       "category": "Phones",
       "alternatives": []
     },
@@ -1163,10 +1155,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1179,6 +1171,14 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "store": "Incredible Connection",
+      "price": 400,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
@@ -1187,18 +1187,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
-      "store": "Incredible Connection",
-      "price": 2800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Xiaomi Redmi 15",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
+      "store": "Incredible Connection",
+      "price": 2800,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
     },
@@ -1251,6 +1251,14 @@
       "alternatives": []
     },
     {
+      "product": "Apple iPhone XR 64GB White Pre Owned (A Grade)",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-xr-64gb-white-pre-owned-a-grade",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy S26 Ultra",
       "store": "Incredible Connection",
       "price": 4000,
@@ -1263,22 +1271,6 @@
       "store": "Incredible Connection",
       "price": 1600,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone XR 64GB White Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-xr-64gb-white-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A37 256GB Gray including Samsung Galaxy Buds Core",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a37-256gb-gray-including-samsung-galaxy-buds-core",
       "category": "Phones",
       "alternatives": []
     },
@@ -1299,10 +1291,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Tab A11+ 5G Grey",
+      "product": "Samsung Galaxy A37 256GB Gray including Samsung Galaxy Buds Core",
       "store": "Incredible Connection",
-      "price": 2800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a37-256gb-gray-including-samsung-galaxy-buds-core",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Fit3 Pink Gold",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
       "category": "Phones",
       "alternatives": []
     },
@@ -1323,10 +1323,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "price": 2800,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
     },
@@ -1339,26 +1339,18 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy Z Fold8 Ultra 1TB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-1tb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Fold8 256GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Fit3 Pink Gold",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fit3-pink-gold",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 11 64GB Black Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-11-64gb-black-pre-owned-a-grade",
       "category": "Phones",
       "alternatives": []
     },
@@ -1371,6 +1363,14 @@
       "alternatives": []
     },
     {
+      "product": "Samsung Galaxy S25 256GB Navy",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Z Fold8 256GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1379,18 +1379,18 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Fold8 512GB Cream and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-cream-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Z Fold8 512GB Lavender and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-lavender-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1463,6 +1463,14 @@
       "store": "Incredible Connection",
       "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-turquoise",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Disc Edition (E) 1TB",
+      "store": "Incredible Connection",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-edition-e-1tb",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1587,18 +1595,18 @@
       "alternatives": []
     },
     {
-      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
-      "store": "Incredible Connection",
-      "price": 12999,
-      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Logitech G923 Racing Wheel PS4, PS5 and PC - (Parallel Import)",
       "store": "Incredible Connection",
       "price": 500,
       "affiliate_url": "https://www.incredible.co.za/logitech-g923-racing-wheel-ps4-ps5-and-pc-parallel-import",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "ROG Xbox Ally Ryzen Z2 A 16GB RAM & 512GB SSD",
+      "store": "Incredible Connection",
+      "price": 12999,
+      "affiliate_url": "https://www.incredible.co.za/rog-xbox-ally-ryzen-z2-a-16gb-ram-512gb-ssd",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1627,6 +1635,14 @@
       "alternatives": []
     },
     {
+      "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-tl-w850re-300-mbps-range-extender",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
       "product": "Legion Go S Ryzen Z2 Processor 16GB RAM & 512GB SSD Steam OS",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1643,18 +1659,10 @@
       "alternatives": []
     },
     {
-      "product": "Legion Go 2 Dock",
+      "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-2-dock",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 DualSense Wireless Controller - Galactic Purple",
-      "store": "Incredible Connection",
-      "price": 1799,
-      "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "price": 11999,
+      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1667,18 +1675,10 @@
       "alternatives": []
     },
     {
-      "product": "Xbox Series S 1TB White Console",
+      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
       "store": "Incredible Connection",
-      "price": 11999,
-      "affiliate_url": "https://www.incredible.co.za/xbox-series-s-1tb-white-console",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
-      "store": "Incredible Connection",
-      "price": 449,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
       "category": "Consoles",
       "alternatives": []
     }
