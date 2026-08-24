@@ -35,7 +35,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -51,7 +51,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
@@ -75,7 +75,7 @@
     {
       "product": "Packard Bell Schumi LTE 14.1\" AMD Ryzen\u2122 3 16GB RAM 512GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -123,7 +123,7 @@
     {
       "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 5 330 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 6000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -139,7 +139,7 @@
     {
       "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -203,7 +203,7 @@
     {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -211,7 +211,7 @@
     {
       "product": "HP 250 Intel\u00ae N150 Laptop Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 6999,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -219,7 +219,7 @@
     {
       "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4000,
+      "price": 17999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -297,14 +297,6 @@
       "alternatives": []
     },
     {
-      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -321,26 +313,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15",
       "category": "Phones",
       "alternatives": []
     },
@@ -369,22 +345,6 @@
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone XR 64GB White Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-xr-64gb-white-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
       "price": 1600,
@@ -395,40 +355,8 @@
     {
       "product": "Apple iPhone 14 128GB Pre Owned",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 10499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Motorola G85",
-      "store": "Incredible Connection",
-      "price": 3500,
-      "affiliate_url": "https://www.incredible.co.za/motorola-g85",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-      "store": "Incredible Connection",
-      "price": 1800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A37 256GB Gray including Samsung Galaxy Buds Core",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a37-256gb-gray-including-samsung-galaxy-buds-core",
       "category": "Phones",
       "alternatives": []
     },
@@ -465,42 +393,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S25 256GB Navy",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Hisense INFINITY H60 Lite Plus Earpods",
       "store": "Incredible Connection",
       "price": 3999,
       "affiliate_url": "https://www.incredible.co.za/hisense-infinity-h60-lite-plus-earpods",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 11 64GB Black Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-11-64gb-black-pre-owned-a-grade",
       "category": "Phones",
       "alternatives": []
     },
@@ -529,34 +425,138 @@
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi Note 15 Pro+ 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank-1",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A36 5G 128GB DS",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a36-5g-128gb-ds",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
       "price": 1600,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine 2.0",
+      "store": "Incredible Connection",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-2-0",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Buds 4 Pro Black",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi 15C",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
+      "store": "Incredible Connection",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Buds 4 Pro White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Hisense Y83 4G Network Locked",
+      "store": "Incredible Connection",
+      "price": 899,
+      "affiliate_url": "https://www.incredible.co.za/hisense-y83-4g-network-locked",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 239,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo POS Print Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-pos-print-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A14 LTE Dual Sim Black",
+      "store": "Incredible Connection",
+      "price": 2499,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a14-lte-dual-sim-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X5c Plus",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy S25 Edge 256GB Black",
+      "store": "Incredible Connection",
+      "price": 8500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Print Card Machine 2.0",
+      "store": "Incredible Connection",
+      "price": 1499,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2-0",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Hisense U207 4G",
+      "store": "Incredible Connection",
+      "price": 299,
+      "affiliate_url": "https://www.incredible.co.za/hisense-u207-4g",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "HUAWEI nova Y62 Midnight Black",
+      "store": "Incredible Connection",
+      "price": 3399,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y62-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova Y91 Dual Sim Silver",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y91-dual-sim-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Neo Touch Card Machine",
+      "store": "Incredible Connection",
+      "price": 999,
+      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
       "category": "Phones",
       "alternatives": []
     },
@@ -817,14 +817,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
       "price": 11999,
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     }
@@ -877,7 +877,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -893,7 +893,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 7000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-8gb-ram-512gb-ssd-laptop-1",
       "category": "Laptops",
       "alternatives": []
@@ -917,7 +917,7 @@
     {
       "product": "Packard Bell Schumi LTE 14.1\" AMD Ryzen\u2122 3 16GB RAM 512GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-schumi-lte-14-1-amd-ryzen-3-16gb-ram-512gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -965,7 +965,7 @@
     {
       "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 5 330 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 6000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -981,7 +981,7 @@
     {
       "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1045,7 +1045,7 @@
     {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1053,7 +1053,7 @@
     {
       "product": "HP 250 Intel\u00ae N150 Laptop Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 6999,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-laptop-black",
       "category": "Laptops",
       "alternatives": []
@@ -1061,7 +1061,7 @@
     {
       "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4000,
+      "price": 17999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1139,14 +1139,6 @@
       "alternatives": []
     },
     {
-      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
-      "store": "Incredible Connection",
-      "price": 100,
-      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1163,26 +1155,10 @@
       "alternatives": []
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Telkom LTE Sim with 10GB Anytime and 10GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 149,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-10gb-anytime-and-10gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15",
       "category": "Phones",
       "alternatives": []
     },
@@ -1211,22 +1187,6 @@
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone XR 64GB White Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-xr-64gb-white-pre-owned-a-grade",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
       "price": 1600,
@@ -1237,40 +1197,8 @@
     {
       "product": "Apple iPhone 14 128GB Pre Owned",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 10499,
       "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Motorola G85",
-      "store": "Incredible Connection",
-      "price": 3500,
-      "affiliate_url": "https://www.incredible.co.za/motorola-g85",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-      "store": "Incredible Connection",
-      "price": 1800,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A37 256GB Gray including Samsung Galaxy Buds Core",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a37-256gb-gray-including-samsung-galaxy-buds-core",
       "category": "Phones",
       "alternatives": []
     },
@@ -1307,42 +1235,10 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy S26",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy S25 256GB Navy",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Hisense INFINITY H60 Lite Plus Earpods",
       "store": "Incredible Connection",
       "price": 3999,
       "affiliate_url": "https://www.incredible.co.za/hisense-infinity-h60-lite-plus-earpods",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Apple iPhone 11 64GB Black Pre Owned (A Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-11-64gb-black-pre-owned-a-grade",
       "category": "Phones",
       "alternatives": []
     },
@@ -1371,34 +1267,138 @@
       "alternatives": []
     },
     {
-      "product": "Xiaomi Redmi Note 15 Pro+ 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank-1",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy A36 5G 128GB DS",
-      "store": "Incredible Connection",
-      "price": 600,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a36-5g-128gb-ds",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
       "price": 1600,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine 2.0",
+      "store": "Incredible Connection",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-2-0",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Buds 4 Pro Black",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi 15C",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
+      "store": "Incredible Connection",
+      "price": 699,
+      "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy Buds 4 Pro White",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Hisense Y83 4G Network Locked",
+      "store": "Incredible Connection",
+      "price": 899,
+      "affiliate_url": "https://www.incredible.co.za/hisense-y83-4g-network-locked",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia 105 Black Dual Sim",
+      "store": "Incredible Connection",
+      "price": 239,
+      "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo POS Print Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-pos-print-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy A14 LTE Dual Sim Black",
+      "store": "Incredible Connection",
+      "price": 2499,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a14-lte-dual-sim-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Honor X5c Plus",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/honor-x5c-plus",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Samsung Galaxy S25 Edge 256GB Black",
+      "store": "Incredible Connection",
+      "price": 8500,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-edge-256gb-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Print Card Machine 2.0",
+      "store": "Incredible Connection",
+      "price": 1499,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-print-card-machine-2-0",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Hisense U207 4G",
+      "store": "Incredible Connection",
+      "price": 299,
+      "affiliate_url": "https://www.incredible.co.za/hisense-u207-4g",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "HUAWEI nova Y62 Midnight Black",
+      "store": "Incredible Connection",
+      "price": 3399,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y62-midnight-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Huawei Nova Y91 Dual Sim Silver",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/huawei-nova-y91-dual-sim-silver",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Neo Touch Card Machine",
+      "store": "Incredible Connection",
+      "price": 999,
+      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
       "category": "Phones",
       "alternatives": []
     },
@@ -1659,14 +1659,6 @@
       "alternatives": []
     },
     {
-      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Xbox Series S 1TB White Console",
       "store": "Incredible Connection",
       "price": 11999,
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 14999,
       "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "TP-Link M7350 LTE- Mobile WIFI Router",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/tp-link-m7350-lte-mobile-wifi-router",
       "category": "Consoles",
       "alternatives": []
     }
