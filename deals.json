@@ -3,7 +3,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -11,7 +11,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -43,7 +43,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop White",
       "store": "Incredible Connection",
-      "price": 17999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
       "category": "Laptops",
       "alternatives": []
@@ -59,7 +59,7 @@
     {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -99,7 +99,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -107,7 +107,7 @@
     {
       "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -123,7 +123,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5 40 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -147,7 +147,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -211,7 +211,7 @@
     {
       "product": "HP Omnibook 7 Aero AMD Ryzen\u2122 AI 7 350 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-7-aero-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -243,7 +243,7 @@
     {
       "product": "ASUS ZenBook 14 UM3406 AMD\u00ae Ryzen\u2122 AI 7 455 32GB RAM and 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 6000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-um3406-amd-ryzen-ai-7-455-32gb-ram-and-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -285,30 +285,6 @@
       "store": "Incredible Connection",
       "price": 99,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -385,14 +361,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Hisense INFINITY H60 Lite Plus Earpods",
       "store": "Incredible Connection",
       "price": 3999,
@@ -413,14 +381,6 @@
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15C",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
       "category": "Phones",
       "alternatives": []
     },
@@ -467,7 +427,7 @@
     {
       "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
       "store": "Incredible Connection",
-      "price": 699,
+      "price": 749,
       "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
       "category": "Phones",
       "alternatives": []
@@ -475,7 +435,7 @@
     {
       "product": "Nokia 105 Black Dual Sim",
       "store": "Incredible Connection",
-      "price": 239,
+      "price": 229,
       "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
       "category": "Phones",
       "alternatives": []
@@ -557,6 +517,46 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Genius Solutions F6 GPS Activity Tracker Black",
+      "store": "Incredible Connection",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia C1 2nd Edition Dual Sim Blue",
+      "store": "Incredible Connection",
+      "price": 1199,
+      "affiliate_url": "https://www.incredible.co.za/nokia-c1-2nd-edition-dual-sim-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -845,7 +845,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -853,7 +853,7 @@
     {
       "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
       "category": "Laptops",
       "alternatives": []
@@ -885,7 +885,7 @@
     {
       "product": "HP 15s Intel\u00ae Core\u2122 i5 1334U 16GB RAM 512GB SSD Laptop White",
       "store": "Incredible Connection",
-      "price": 17999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-intel-core-i5-1334u-16gb-ram-512gb-ssd-laptop-white",
       "category": "Laptops",
       "alternatives": []
@@ -901,7 +901,7 @@
     {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -941,7 +941,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -949,7 +949,7 @@
     {
       "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -965,7 +965,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5 40 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -989,7 +989,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1053,7 +1053,7 @@
     {
       "product": "HP Omnibook 7 Aero AMD Ryzen\u2122 AI 7 350 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 4000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-7-aero-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1085,7 +1085,7 @@
     {
       "product": "ASUS ZenBook 14 UM3406 AMD\u00ae Ryzen\u2122 AI 7 455 32GB RAM and 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 6000,
       "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-um3406-amd-ryzen-ai-7-455-32gb-ram-and-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1127,30 +1127,6 @@
       "store": "Incredible Connection",
       "price": 99,
       "affiliate_url": "https://www.incredible.co.za/telkom-lte-sim-with-7-5gb-anytime-and-7-5gb-night-time-data-once-off",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Flip8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-flip8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-ultra-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Samsung Galaxy Z Fold8 256GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-256gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
       "category": "Phones",
       "alternatives": []
     },
@@ -1227,14 +1203,6 @@
       "alternatives": []
     },
     {
-      "product": "Samsung Galaxy Z Fold8 512GB Graphite and Samsung 45W Power Adapter Magnetic Battery Pack Bundle",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-z-fold8-512gb-graphite-and-samsung-45w-power-adapter-magnetic-battery-pack-bundle",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Hisense INFINITY H60 Lite Plus Earpods",
       "store": "Incredible Connection",
       "price": 3999,
@@ -1255,14 +1223,6 @@
       "store": "Incredible Connection",
       "price": 899,
       "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-watch-5-active",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Xiaomi Redmi 15C",
-      "store": "Incredible Connection",
-      "price": 300,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
       "category": "Phones",
       "alternatives": []
     },
@@ -1309,7 +1269,7 @@
     {
       "product": "Hisense U43 Black Dual Sim Vodacom Network Locked",
       "store": "Incredible Connection",
-      "price": 699,
+      "price": 749,
       "affiliate_url": "https://www.incredible.co.za/hisense-u43-black-dual-sim-vodacom-network-locked",
       "category": "Phones",
       "alternatives": []
@@ -1317,7 +1277,7 @@
     {
       "product": "Nokia 105 Black Dual Sim",
       "store": "Incredible Connection",
-      "price": 239,
+      "price": 229,
       "affiliate_url": "https://www.incredible.co.za/nokia-105-black-dual-sim",
       "category": "Phones",
       "alternatives": []
@@ -1399,6 +1359,46 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Yoco Khumo Card Machine",
+      "store": "Incredible Connection",
+      "price": 100,
+      "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Genius Solutions F6 GPS Activity Tracker Black",
+      "store": "Incredible Connection",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Nokia C1 2nd Edition Dual Sim Blue",
+      "store": "Incredible Connection",
+      "price": 1199,
+      "affiliate_url": "https://www.incredible.co.za/nokia-c1-2nd-edition-dual-sim-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
