@@ -153,14 +153,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 10999,
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-445-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS ZenBook 14 UM3406 AMD\u00ae Ryzen\u2122 AI 7 455 32GB RAM and 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-um3406-amd-ryzen-ai-7-455-32gb-ram-and-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -699,7 +699,7 @@
     {
       "product": "PS5\u00ae Pro A Console",
       "store": "Incredible Connection",
-      "price": 22499,
+      "price": 22999,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
       "category": "Consoles",
       "alternatives": []
@@ -801,18 +801,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
+      "store": "Incredible Connection",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -995,14 +995,6 @@
       "alternatives": []
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 7000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 10999,
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-3-amd-ryzen-ai-7-445-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS ZenBook 14 UM3406 AMD\u00ae Ryzen\u2122 AI 7 455 32GB RAM and 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-14-um3406-amd-ryzen-ai-7-455-32gb-ram-and-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1541,7 +1541,7 @@
     {
       "product": "PS5\u00ae Pro A Console",
       "store": "Incredible Connection",
-      "price": 22499,
+      "price": 22999,
       "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
       "category": "Consoles",
       "alternatives": []
@@ -1643,18 +1643,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PlayStation 5 DualSense Wireless Controller - Cosmic Red",
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/playstation-5-dualsense-wireless-controller-cosmic-red",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
+      "store": "Incredible Connection",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
       "category": "Consoles",
       "alternatives": []
     },
