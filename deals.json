@@ -97,6 +97,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 5000,
@@ -185,6 +193,14 @@
       "alternatives": []
     },
     {
+      "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-3-5400u-8gb-ram-and-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -243,7 +259,7 @@
     {
       "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 5 7430U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-5-7430u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -291,7 +307,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 2800,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -299,7 +315,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 1600,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -307,7 +323,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 3500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -331,7 +347,7 @@
     {
       "product": "Samsung Galaxy A17 128GB Black",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 3999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -339,7 +355,7 @@
     {
       "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 2800,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
@@ -355,7 +371,7 @@
     {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
-      "price": 1600,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
       "category": "Phones",
       "alternatives": []
@@ -379,7 +395,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Pro Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
       "category": "Phones",
       "alternatives": []
@@ -419,7 +435,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Pro White",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-white",
       "category": "Phones",
       "alternatives": []
@@ -433,14 +449,6 @@
       "alternatives": []
     },
     {
-      "product": "Yoco Neo Touch Card Machine",
-      "store": "Incredible Connection",
-      "price": 999,
-      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Nova Y91 Dual Sim Silver",
       "store": "Incredible Connection",
       "price": 6999,
@@ -449,9 +457,17 @@
       "alternatives": []
     },
     {
+      "product": "Yoco Neo Touch Card Machine",
+      "store": "Incredible Connection",
+      "price": 999,
+      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Buds 4 Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
@@ -499,7 +515,7 @@
     {
       "product": "Samsung Galaxy Buds 4 White",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
       "category": "Phones",
       "alternatives": []
@@ -585,14 +601,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital + Fortnite Console Bundle",
-      "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
       "price": 11499,
@@ -649,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -677,6 +685,14 @@
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Pro A Console",
+      "store": "Incredible Connection",
+      "price": 22999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -813,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/titan-black-hawk-5000-in-1-handheld",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
+      "store": "Incredible Connection",
+      "price": 160,
+      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
     }
@@ -915,6 +939,14 @@
       "alternatives": []
     },
     {
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP Omnibook X Flip 16 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 5000,
@@ -1003,6 +1035,14 @@
       "alternatives": []
     },
     {
+      "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 9999,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-3-5400u-8gb-ram-and-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Dell 14 Plus Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
@@ -1061,7 +1101,7 @@
     {
       "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 5 7430U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 12999,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-5-7430u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1109,7 +1149,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 2800,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1117,7 +1157,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 1600,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1125,7 +1165,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 3500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -1149,7 +1189,7 @@
     {
       "product": "Samsung Galaxy A17 128GB Black",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 3999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a17-128gb-black",
       "category": "Phones",
       "alternatives": []
@@ -1157,7 +1197,7 @@
     {
       "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 2800,
+      "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
@@ -1173,7 +1213,7 @@
     {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
-      "price": 1600,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
       "category": "Phones",
       "alternatives": []
@@ -1197,7 +1237,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Pro Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-black",
       "category": "Phones",
       "alternatives": []
@@ -1237,7 +1277,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Pro White",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4999,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-pro-white",
       "category": "Phones",
       "alternatives": []
@@ -1251,14 +1291,6 @@
       "alternatives": []
     },
     {
-      "product": "Yoco Neo Touch Card Machine",
-      "store": "Incredible Connection",
-      "price": 999,
-      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Huawei Nova Y91 Dual Sim Silver",
       "store": "Incredible Connection",
       "price": 6999,
@@ -1267,9 +1299,17 @@
       "alternatives": []
     },
     {
+      "product": "Yoco Neo Touch Card Machine",
+      "store": "Incredible Connection",
+      "price": 999,
+      "affiliate_url": "https://www.incredible.co.za/yoco-neo-touch-card-machine",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Samsung Galaxy Buds 4 Black",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
@@ -1317,7 +1357,7 @@
     {
       "product": "Samsung Galaxy Buds 4 White",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
       "category": "Phones",
       "alternatives": []
@@ -1403,14 +1443,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5 Slim Digital + Fortnite Console Bundle",
-      "store": "Incredible Connection",
-      "price": 12899,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-fortnite-console-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Switch 2 Console",
       "store": "Incredible Connection",
       "price": 11499,
@@ -1467,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1495,6 +1527,14 @@
       "store": "Incredible Connection",
       "price": 1699,
       "affiliate_url": "https://www.incredible.co.za/xbox-series-wireless-controller-blue",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Pro A Console",
+      "store": "Incredible Connection",
+      "price": 22999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1631,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/titan-black-hawk-5000-in-1-handheld",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
+      "store": "Incredible Connection",
+      "price": 160,
+      "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
       "category": "Consoles",
       "alternatives": []
     }
