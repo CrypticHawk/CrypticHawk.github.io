@@ -25,14 +25,6 @@
       "alternatives": []
     },
     {
-      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 6999,
-      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 2000,
@@ -61,14 +53,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 5 330 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -177,10 +161,10 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Indi N150 2-in-1 16GB RAM 512GB SSD Detachable Laptop",
+      "product": "Packard Bell Indi Intel\u00ae N150 2-in-1 16GB RAM 512GB SSD Detachable Laptop",
       "store": "Incredible Connection",
       "price": 9999,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-indi-n150-2-in-1-16gb-ram-512gb-ssd-detachable-laptop",
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-indi-intel-n150-2-in-1-16gb-ram-512gb-ssd-detachable-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -277,6 +261,22 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-7-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -405,6 +405,14 @@
       "store": "Incredible Connection",
       "price": 699,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-2-0",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi 15C",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
       "category": "Phones",
       "alternatives": []
     },
@@ -553,14 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "Mobicel Neo Plus LTE Dual Sim",
-      "store": "Incredible Connection",
-      "price": 699,
-      "affiliate_url": "https://www.incredible.co.za/mobicel-neo-plus-lte-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -657,18 +657,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -777,14 +777,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
       "store": "Incredible Connection",
       "price": 399,
@@ -809,18 +801,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con\u2122 Wheel Pair",
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
+      "store": "Incredible Connection",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/titan-black-hawk-5000-in-1-handheld",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Disc E + Marvel Spiderman 2 & Lies of P Console Bundle",
+      "store": "Incredible Connection",
+      "price": 16299,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-e-marvel-spiderman-2-lies-of-p-console-bundle",
       "category": "Consoles",
       "alternatives": []
     }
@@ -867,14 +867,6 @@
       "alternatives": []
     },
     {
-      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 6999,
-      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 2000,
@@ -903,14 +895,6 @@
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-flex-3-amd-ryzen-3-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 5 330 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-5-330-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1019,10 +1003,10 @@
       "alternatives": []
     },
     {
-      "product": "Packard Bell Indi N150 2-in-1 16GB RAM 512GB SSD Detachable Laptop",
+      "product": "Packard Bell Indi Intel\u00ae N150 2-in-1 16GB RAM 512GB SSD Detachable Laptop",
       "store": "Incredible Connection",
       "price": 9999,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-indi-n150-2-in-1-16gb-ram-512gb-ssd-detachable-laptop",
+      "affiliate_url": "https://www.incredible.co.za/packard-bell-indi-intel-n150-2-in-1-16gb-ram-512gb-ssd-detachable-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1119,6 +1103,22 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-16-amd-ryzen-ai-7-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1247,6 +1247,14 @@
       "store": "Incredible Connection",
       "price": 699,
       "affiliate_url": "https://www.incredible.co.za/yoco-khumo-card-machine-2-0",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Xiaomi Redmi 15C",
+      "store": "Incredible Connection",
+      "price": 300,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-15c",
       "category": "Phones",
       "alternatives": []
     },
@@ -1395,14 +1403,6 @@
       "alternatives": []
     },
     {
-      "product": "Mobicel Neo Plus LTE Dual Sim",
-      "store": "Incredible Connection",
-      "price": 699,
-      "affiliate_url": "https://www.incredible.co.za/mobicel-neo-plus-lte-dual-sim",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 2699,
@@ -1499,18 +1499,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Switch 2 + Mario Kart World",
-      "store": "Incredible Connection",
-      "price": 12499,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Titan PS4 Wireless BT Gaming Controller- White",
       "store": "Incredible Connection",
       "price": 399,
       "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 12499,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1619,14 +1619,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "TP-Link TL-W850RE 300 Mbps Range Extender",
       "store": "Incredible Connection",
       "price": 399,
@@ -1651,18 +1643,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con\u2122 Wheel Pair",
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
+      "store": "Incredible Connection",
+      "price": 14999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 999,
       "affiliate_url": "https://www.incredible.co.za/titan-black-hawk-5000-in-1-handheld",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Disc E + Marvel Spiderman 2 & Lies of P Console Bundle",
+      "store": "Incredible Connection",
+      "price": 16299,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-e-marvel-spiderman-2-lies-of-p-console-bundle",
       "category": "Consoles",
       "alternatives": []
     }
