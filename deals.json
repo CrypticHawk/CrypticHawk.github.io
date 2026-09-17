@@ -1,14 +1,6 @@
 {
   "best_deals": [
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 1500,
@@ -19,7 +11,7 @@
     {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -75,7 +67,7 @@
     {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -257,14 +249,6 @@
       "alternatives": []
     },
     {
-      "product": "Vizia 15.6Inch MetroPro Mailer Laptop Bag",
-      "store": "Incredible Connection",
-      "price": 610,
-      "affiliate_url": "https://www.incredible.co.za/vizia-15-6inch-metropro-mailer-laptop-bag",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP OmniBook 3 AMD Ryzen\u2122 5 130 8GB RAM and 512SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -277,6 +261,22 @@
       "store": "Incredible Connection",
       "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/acer-e10-etbook-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS ZenBook S14 UX3405 Intel\u00ae Core\u2122 Ultra 9 285H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 15000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s14-ux3405-intel-core-ultra-9-285h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -801,14 +801,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5\u00ae Slim Disc E + Marvel Spiderman 2 & Lies of P Console Bundle",
       "store": "Incredible Connection",
       "price": 16299,
@@ -825,7 +817,7 @@
       "alternatives": []
     },
     {
-      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
+      "product": "SanDisk Ultra Fit\u2122 USB 3.1 32GB",
       "store": "Incredible Connection",
       "price": 359,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
@@ -837,20 +829,20 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
+      "store": "Incredible Connection",
+      "price": 449,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
       "category": "Consoles",
       "alternatives": []
     }
   ],
   "all_deals": [
     {
-      "product": "HP 15s AMD Ryzen\u2122 5 7520U 16GB RAM 512GB SSD Laptop Natural Silver",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-laptop-natural-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 1500,
@@ -861,7 +853,7 @@
     {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/hp-15s-ryzen-3-7320u-8gb-ram-256gb-ssd-laptop-bundle",
       "category": "Laptops",
       "alternatives": []
@@ -917,7 +909,7 @@
     {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1099,14 +1091,6 @@
       "alternatives": []
     },
     {
-      "product": "Vizia 15.6Inch MetroPro Mailer Laptop Bag",
-      "store": "Incredible Connection",
-      "price": 610,
-      "affiliate_url": "https://www.incredible.co.za/vizia-15-6inch-metropro-mailer-laptop-bag",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "HP OmniBook 3 AMD Ryzen\u2122 5 130 8GB RAM and 512SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1119,6 +1103,22 @@
       "store": "Incredible Connection",
       "price": 7999,
       "affiliate_url": "https://www.incredible.co.za/acer-e10-etbook-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 16999,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "ASUS ZenBook S14 UX3405 Intel\u00ae Core\u2122 Ultra 9 285H 16GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 15000,
+      "affiliate_url": "https://www.incredible.co.za/asus-zenbook-s14-ux3405-intel-core-ultra-9-285h-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1643,14 +1643,6 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Nova Pink Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-nova-pink-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "PS5\u00ae Slim Disc E + Marvel Spiderman 2 & Lies of P Console Bundle",
       "store": "Incredible Connection",
       "price": 16299,
@@ -1667,7 +1659,7 @@
       "alternatives": []
     },
     {
-      "product": "SANDISK Ultra Fit\u2122 USB 3.1 32GB",
+      "product": "SanDisk Ultra Fit\u2122 USB 3.1 32GB",
       "store": "Incredible Connection",
       "price": 359,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-32gb",
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 200,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
+      "store": "Incredible Connection",
+      "price": 449,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
       "category": "Consoles",
       "alternatives": []
     }
