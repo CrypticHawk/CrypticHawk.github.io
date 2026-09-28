@@ -529,22 +529,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
       "price": 1999,
@@ -553,10 +537,26 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "UAG Apple iPhone 16 Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -677,14 +677,6 @@
       "store": "Incredible Connection",
       "price": 12499,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PlayStation Portal\u2122 Remote Player Midnight Black",
-      "store": "Incredible Connection",
-      "price": 5799,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal-remote-player-midnight-black",
       "category": "Consoles",
       "alternatives": []
     },
@@ -819,7 +811,7 @@
     {
       "product": "Legion Go S Screen Protector",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
+      "store": "Incredible Connection",
+      "price": 449,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1371,22 +1371,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1395,10 +1379,26 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "UAG Apple iPhone 16 Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -1519,14 +1519,6 @@
       "store": "Incredible Connection",
       "price": 12499,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PlayStation Portal\u2122 Remote Player Midnight Black",
-      "store": "Incredible Connection",
-      "price": 5799,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal-remote-player-midnight-black",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1661,7 +1653,7 @@
     {
       "product": "Legion Go S Screen Protector",
       "store": "Incredible Connection",
-      "price": 400,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/sandisk-ultra-fit-usb-3-1-128gb",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con\u2122 Wheel Pair",
+      "store": "Incredible Connection",
+      "price": 449,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
       "category": "Consoles",
       "alternatives": []
     }
