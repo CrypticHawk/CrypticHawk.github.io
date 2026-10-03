@@ -83,7 +83,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -387,7 +387,7 @@
     {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
       "category": "Phones",
       "alternatives": []
@@ -745,18 +745,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
@@ -925,7 +925,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 3000,
+      "price": 2500,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1229,7 +1229,7 @@
     {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 4499,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
       "category": "Phones",
       "alternatives": []
@@ -1587,18 +1587,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
       "category": "Consoles",
       "alternatives": []
     },
