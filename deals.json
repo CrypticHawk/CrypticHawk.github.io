@@ -9,6 +9,14 @@
       "alternatives": []
     },
     {
+      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 2000,
@@ -33,7 +41,7 @@
       "alternatives": []
     },
     {
-      "product": "Orion 14 Intel\u00ae Pentium\u00ae 6500Y 8GB RAM 256GB SSD Laptop",
+      "product": "Orion 14\" Intel\u00ae Pentium\u00ae 6500Y 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
@@ -57,14 +65,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5 40 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -83,7 +83,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -291,7 +291,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 6499,
+      "price": 2200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -307,7 +307,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 3999,
+      "price": 1100,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -315,7 +315,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -339,7 +339,7 @@
     {
       "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 7499,
+      "price": 2200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
@@ -379,7 +379,7 @@
     {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
-      "price": 4499,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
       "category": "Phones",
       "alternatives": []
@@ -473,6 +473,14 @@
       "alternatives": []
     },
     {
+      "product": "Nokia C1 2nd Edition Dual Sim Blue",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/nokia-c1-2nd-edition-dual-sim-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Genius Solutions F6 GPS Activity Tracker Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -549,14 +557,6 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -657,10 +657,10 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
       "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -677,6 +677,14 @@
       "store": "Incredible Connection",
       "price": 1299,
       "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -829,14 +837,6 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go S Screen Protector",
-      "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
@@ -851,6 +851,14 @@
       "alternatives": []
     },
     {
+      "product": "Orion 15.6\" AMD\u00ae Ryzen\u2122 3 3200 8GB RAM and 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6999,
+      "affiliate_url": "https://www.incredible.co.za/orion-15-6-amd-ryzen-3-3200-8gb-ram-and-256gb-ssd-laptop-1",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "HP 15s Ryzen\u2122 3 7320U 8GB RAM 256GB SSD Laptop Bundle",
       "store": "Incredible Connection",
       "price": 2000,
@@ -875,7 +883,7 @@
       "alternatives": []
     },
     {
-      "product": "Orion 14 Intel\u00ae Pentium\u00ae 6500Y 8GB RAM 256GB SSD Laptop",
+      "product": "Orion 14\" Intel\u00ae Pentium\u00ae 6500Y 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-pentium-6500y-8gb-ram-256gb-ssd-laptop",
@@ -899,14 +907,6 @@
       "alternatives": []
     },
     {
-      "product": "HP 15s AMD Ryzen\u2122 7 7730U 16GB RAM 512GB SSD Laptop Silver",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-15s-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-laptop-silver",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5 40 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 1000,
@@ -925,7 +925,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1133,7 +1133,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Plus Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 6499,
+      "price": 2200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-plus-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1149,7 +1149,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 3999,
+      "price": 1100,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1157,7 +1157,7 @@
     {
       "product": "Samsung Galaxy Tab S10 Lite 5G 128GB Gray",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-s10-lite-5g-128gb-gray",
       "category": "Phones",
       "alternatives": []
@@ -1181,7 +1181,7 @@
     {
       "product": "Samsung Galaxy Tab A11+ 5G Grey",
       "store": "Incredible Connection",
-      "price": 7499,
+      "price": 2200,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-5g-grey",
       "category": "Phones",
       "alternatives": []
@@ -1221,7 +1221,7 @@
     {
       "product": "Samsung Galaxy Tab A11 4G Gray",
       "store": "Incredible Connection",
-      "price": 4499,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-4g-gray",
       "category": "Phones",
       "alternatives": []
@@ -1315,6 +1315,14 @@
       "alternatives": []
     },
     {
+      "product": "Nokia C1 2nd Edition Dual Sim Blue",
+      "store": "Incredible Connection",
+      "price": 200,
+      "affiliate_url": "https://www.incredible.co.za/nokia-c1-2nd-edition-dual-sim-blue",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "Genius Solutions F6 GPS Activity Tracker Black",
       "store": "Incredible Connection",
       "price": 599,
@@ -1391,14 +1399,6 @@
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -1499,10 +1499,10 @@
       "alternatives": []
     },
     {
-      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
       "store": "Incredible Connection",
-      "price": 399,
-      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
+      "price": 17999,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1519,6 +1519,14 @@
       "store": "Incredible Connection",
       "price": 1299,
       "affiliate_url": "https://www.incredible.co.za/ps4-dualshock-4-black",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Titan PS4 Wireless BT Gaming Controller- White",
+      "store": "Incredible Connection",
+      "price": 399,
+      "affiliate_url": "https://www.incredible.co.za/titan-ps4-wireless-bt-gaming-controller-white",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1671,14 +1679,6 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "Legion Go S Screen Protector",
-      "store": "Incredible Connection",
-      "price": 499,
-      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
