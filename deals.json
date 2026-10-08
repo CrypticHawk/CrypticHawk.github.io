@@ -35,7 +35,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -67,7 +67,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -107,7 +107,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 19999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -115,7 +115,7 @@
     {
       "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 7 445 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 19999,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -211,7 +211,7 @@
     {
       "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 17999,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -267,7 +267,7 @@
     {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -475,7 +475,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Black",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
@@ -523,7 +523,7 @@
     {
       "product": "Samsung Galaxy Buds 4 White",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
       "category": "Phones",
       "alternatives": []
@@ -537,10 +537,18 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -549,14 +557,6 @@
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
       "category": "Phones",
       "alternatives": []
     },
@@ -653,14 +653,6 @@
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
-      "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -837,6 +829,14 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Screen Protector",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
@@ -877,7 +877,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 9999,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -909,7 +909,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -949,7 +949,7 @@
     {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 13999,
+      "price": 19999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -957,7 +957,7 @@
     {
       "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 7 445 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 19999,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1053,7 +1053,7 @@
     {
       "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 17999,
+      "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1109,7 +1109,7 @@
     {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1317,7 +1317,7 @@
     {
       "product": "Samsung Galaxy Buds 4 Black",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-black",
       "category": "Phones",
       "alternatives": []
@@ -1365,7 +1365,7 @@
     {
       "product": "Samsung Galaxy Buds 4 White",
       "store": "Incredible Connection",
-      "price": 3499,
+      "price": 500,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-buds-4-white",
       "category": "Phones",
       "alternatives": []
@@ -1379,10 +1379,18 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
       "category": "Phones",
       "alternatives": []
     },
@@ -1391,14 +1399,6 @@
       "store": "Incredible Connection",
       "price": 749,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
       "category": "Phones",
       "alternatives": []
     },
@@ -1495,14 +1495,6 @@
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/turtle-beach-recon-50-ps5-gaming-headset-black",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PS5 Slim Disc + 2 CG + DS5 + Gran Turismo 7, GOW: Ragnarok & Cricket26",
-      "store": "Incredible Connection",
-      "price": 17999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-disc-2-cg-ds5-gran-turismo-7-gow-ragnarok-cricket26",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1679,6 +1671,14 @@
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Screen Protector",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
