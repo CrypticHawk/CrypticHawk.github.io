@@ -3,7 +3,7 @@
     {
       "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-core-i3-10100y-8gb-ram-256gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -43,7 +43,7 @@
     {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -59,7 +59,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5 40 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -75,7 +75,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -83,7 +83,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -91,23 +91,15 @@
     {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Packard Bell Carrera R3 Flex 14.1\" AMD\u00ae Ryzen\u2122 3 16GB 256GB SSD Laptop",
-      "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-r3-flex-14-1-amd-ryzen-3-16gb-256gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
       "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -139,7 +131,7 @@
     {
       "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-3-5400u-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -235,7 +227,7 @@
     {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 22999,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -281,6 +273,14 @@
       "alternatives": []
     },
     {
+      "product": "HP Victus 15 AMD Ryzen\u21225-8645HS 16GB RAM & 512GB SSD RTX3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/hp-victus-15-amd-ryzen5-8645hs-16gb-ram-512gb-ssd-rtx3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 99,
@@ -307,7 +307,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 1100,
+      "price": 700,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -529,14 +529,6 @@
       "alternatives": []
     },
     {
-      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 819,
@@ -545,18 +537,26 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Genius Solutions F6 GPS Activity Tracker Black",
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
       "category": "Phones",
       "alternatives": []
     },
@@ -635,7 +635,7 @@
     {
       "product": "Titan Gaming Projector",
       "store": "Incredible Connection",
-      "price": 1999,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/titan-gaming-projector",
       "category": "Consoles",
       "alternatives": []
@@ -737,18 +737,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -825,18 +825,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con\u2122 Wheel Pair",
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Screen Protector",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
@@ -845,7 +845,7 @@
     {
       "product": "Orion 14\" Intel\u00ae Core\u00ae i3 10100Y 8GB RAM 256GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 1500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/orion-14-intel-core-i3-10100y-8gb-ram-256gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -885,7 +885,7 @@
     {
       "product": "Lenovo IdeaPad Slim 3 Intel\u00ae Core\u2122 i5 13420H 8GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-slim-3-intel-core-i5-13420h-8gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -901,7 +901,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 5 40 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-5-40-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -917,7 +917,7 @@
     {
       "product": "ASUS VivoBook Go E1504 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2500,
+      "price": 8999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -925,7 +925,7 @@
     {
       "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -933,23 +933,15 @@
     {
       "product": "ASUS VivoBook Go E1504 AMD Ryzen\u2122 3 30 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 10999,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Packard Bell Carrera R3 Flex 14.1\" AMD\u00ae Ryzen\u2122 3 16GB 256GB SSD Laptop",
-      "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/packard-bell-carrera-r3-flex-14-1-amd-ryzen-3-16gb-256gb-ssd-laptop",
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-go-e1504-amd-ryzen-3-30-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
     {
       "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 8999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -981,7 +973,7 @@
     {
       "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-3-5400u-8gb-ram-and-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1077,7 +1069,7 @@
     {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 22999,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1123,6 +1115,14 @@
       "alternatives": []
     },
     {
+      "product": "HP Victus 15 AMD Ryzen\u21225-8645HS 16GB RAM & 512GB SSD RTX3050 Laptop",
+      "store": "Incredible Connection",
+      "price": 20999,
+      "affiliate_url": "https://www.incredible.co.za/hp-victus-15-amd-ryzen5-8645hs-16gb-ram-512gb-ssd-rtx3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
       "product": "Telkom LTE Sim with 7.5GB Anytime and 7.5GB Night Time Data Once Off",
       "store": "Incredible Connection",
       "price": 99,
@@ -1149,7 +1149,7 @@
     {
       "product": "Samsung Galaxy Tab A11 Wi-Fi Grey",
       "store": "Incredible Connection",
-      "price": 1100,
+      "price": 700,
       "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-tab-a11-wi-fi-grey",
       "category": "Phones",
       "alternatives": []
@@ -1371,14 +1371,6 @@
       "alternatives": []
     },
     {
-      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
-      "store": "Incredible Connection",
-      "price": 1999,
-      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
       "store": "Incredible Connection",
       "price": 819,
@@ -1387,18 +1379,26 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plyo Case Ice",
-      "store": "Incredible Connection",
-      "price": 629,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Genius Solutions F6 GPS Activity Tracker Black",
       "store": "Incredible Connection",
       "price": 599,
       "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
+      "store": "Incredible Connection",
+      "price": 1999,
+      "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
       "category": "Phones",
       "alternatives": []
     },
@@ -1477,7 +1477,7 @@
     {
       "product": "Titan Gaming Projector",
       "store": "Incredible Connection",
-      "price": 1999,
+      "price": 200,
       "affiliate_url": "https://www.incredible.co.za/titan-gaming-projector",
       "category": "Consoles",
       "alternatives": []
@@ -1579,18 +1579,18 @@
       "alternatives": []
     },
     {
-      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
-      "store": "Incredible Connection",
-      "price": 1949,
-      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con Pair Neon Blue And Neon Yellow",
       "store": "Incredible Connection",
       "price": 1949,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-blue-and-neon-yellow",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Joy-Con Pair Neon Purple And Neon Orange",
+      "store": "Incredible Connection",
+      "price": 1949,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-pair-neon-purple-and-neon-orange",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1667,18 +1667,18 @@
       "alternatives": []
     },
     {
-      "product": "PS5\u00ae Slim Digital E Console + Sterling Silver Controller Bundle",
-      "store": "Incredible Connection",
-      "price": 14999,
-      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-console-sterling-silver-controller-bundle",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Nintendo Joy-Con\u2122 Wheel Pair",
       "store": "Incredible Connection",
       "price": 449,
       "affiliate_url": "https://www.incredible.co.za/nintendo-joy-con-wheel-pair",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Legion Go S Screen Protector",
+      "store": "Incredible Connection",
+      "price": 499,
+      "affiliate_url": "https://www.incredible.co.za/legion-go-s-screen-protector",
       "category": "Consoles",
       "alternatives": []
     }
