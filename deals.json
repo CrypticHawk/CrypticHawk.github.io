@@ -131,16 +131,8 @@
     {
       "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-3-5400u-8gb-ram-and-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo LOQ 15 Ryzen\u2122 5 150 16GB RAM & 512GB SSD RTX\u21223050 Gaming Laptop",
-      "store": "Incredible Connection",
-      "price": 16999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-ryzen-5-150-16gb-ram-512gb-ssd-rtx3050-gaming-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -203,7 +195,7 @@
     {
       "product": "Acer Aspire Lite 14 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-amd-ryzen-3-5400u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -227,7 +219,7 @@
     {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/hp-victus-15-amd-ryzen5-8645hs-16gb-ram-512gb-ssd-rtx3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
+      "store": "Incredible Connection",
+      "price": 50,
+      "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
       "category": "Laptops",
       "alternatives": []
     },
@@ -529,34 +529,34 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Genius Solutions F6 GPS Activity Tracker Black",
-      "store": "Incredible Connection",
-      "price": 599,
-      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -973,16 +973,8 @@
     {
       "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-3-5400u-8gb-ram-and-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "Lenovo LOQ 15 Ryzen\u2122 5 150 16GB RAM & 512GB SSD RTX\u21223050 Gaming Laptop",
-      "store": "Incredible Connection",
-      "price": 16999,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-loq-15-ryzen-5-150-16gb-ram-512gb-ssd-rtx3050-gaming-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1045,7 +1037,7 @@
     {
       "product": "Acer Aspire Lite 14 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
+      "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-amd-ryzen-3-5400u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1069,7 +1061,7 @@
     {
       "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 5 225U 16GB RAM 1TB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 22999,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-5-225u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 20999,
       "affiliate_url": "https://www.incredible.co.za/hp-victus-15-amd-ryzen5-8645hs-16gb-ram-512gb-ssd-rtx3050-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Volkano Wrap Series 15.6\" Black Laptop Sleeve",
+      "store": "Incredible Connection",
+      "price": 50,
+      "affiliate_url": "https://www.incredible.co.za/volkano-wrap-series-15-6-black-laptop-sleeve",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1371,34 +1371,34 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Genius Solutions F6 GPS Activity Tracker Black",
-      "store": "Incredible Connection",
-      "price": 599,
-      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "UAG Apple iPhone 16 Plus Esential Armor Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 749,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-esential-armor-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
       "price": 1999,
       "affiliate_url": "https://www.incredible.co.za/ugreen-25w-3in1-magnetic-wireless-charger",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plyo Case Ice",
+      "store": "Incredible Connection",
+      "price": 629,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Civilian Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 749,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-civilian-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
       "category": "Phones",
       "alternatives": []
     },
