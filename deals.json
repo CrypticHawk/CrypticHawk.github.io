@@ -97,7 +97,7 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 5 7430U 8GB RAM and 512GB SSD Laptop",
+      "product": "Acer Aspire Lite 15 AMD Ryzen\u2122 5 7430U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-5-7430u-8gb-ram-and-512gb-ssd-laptop",
@@ -113,18 +113,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 19999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -157,14 +157,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -203,7 +195,7 @@
     {
       "product": "Packard Bell Indi Intel\u00ae N150 2-in-1 16GB RAM 512GB SSD Detachable Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-indi-intel-n150-2-in-1-16gb-ram-512gb-ssd-detachable-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -277,6 +269,14 @@
       "store": "Incredible Connection",
       "price": 50,
       "affiliate_url": "https://www.incredible.co.za/volkano-suave-15-6-laptop-backpack-black-turquoise",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -513,22 +513,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Genius Solutions F6 GPS Activity Tracker Black",
-      "store": "Incredible Connection",
-      "price": 599,
-      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
       "price": 1999,
@@ -537,10 +521,26 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "UAG Apple iPhone 16 Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Genius Solutions F6 GPS Activity Tracker Black",
+      "store": "Incredible Connection",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
       "category": "Phones",
       "alternatives": []
     },
@@ -939,7 +939,7 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 15 AMD\u00ae Ryzen\u2122 5 7430U 8GB RAM and 512GB SSD Laptop",
+      "product": "Acer Aspire Lite 15 AMD Ryzen\u2122 5 7430U 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 2000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-15-amd-ryzen-5-7430u-8gb-ram-and-512gb-ssd-laptop",
@@ -955,18 +955,18 @@
       "alternatives": []
     },
     {
-      "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
       "price": 19999,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "HP 250 Intel\u00ae N150 8GB RAM 256GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/hp-250-intel-n150-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -999,14 +999,6 @@
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
-      "product": "HP Omnibook 5 16-inch Intel\u00ae Core\u2122 Ultra 7 255U 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-5-16-inch-intel-core-ultra-7-255u-16gb-ram-1tb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1045,7 +1037,7 @@
     {
       "product": "Packard Bell Indi Intel\u00ae N150 2-in-1 16GB RAM 512GB SSD Detachable Laptop",
       "store": "Incredible Connection",
-      "price": 500,
+      "price": 1000,
       "affiliate_url": "https://www.incredible.co.za/packard-bell-indi-intel-n150-2-in-1-16gb-ram-512gb-ssd-detachable-laptop",
       "category": "Laptops",
       "alternatives": []
@@ -1119,6 +1111,14 @@
       "store": "Incredible Connection",
       "price": 50,
       "affiliate_url": "https://www.incredible.co.za/volkano-suave-15-6-laptop-backpack-black-turquoise",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1355,22 +1355,6 @@
       "alternatives": []
     },
     {
-      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
-      "store": "Incredible Connection",
-      "price": 819,
-      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
-      "product": "Genius Solutions F6 GPS Activity Tracker Black",
-      "store": "Incredible Connection",
-      "price": 599,
-      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
-      "category": "Phones",
-      "alternatives": []
-    },
-    {
       "product": "Ugreen 25W  3In1 Magnetic Wireless Charger",
       "store": "Incredible Connection",
       "price": 1999,
@@ -1379,10 +1363,26 @@
       "alternatives": []
     },
     {
+      "product": "UAG Apple iPhone 16 Plus Pathfinder Magsafe Case Black",
+      "store": "Incredible Connection",
+      "price": 819,
+      "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plus-pathfinder-magsafe-case-black",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
       "product": "UAG Apple iPhone 16 Plyo Case Ice",
       "store": "Incredible Connection",
       "price": 629,
       "affiliate_url": "https://www.incredible.co.za/uag-apple-iphone-16-plyo-case-ice",
+      "category": "Phones",
+      "alternatives": []
+    },
+    {
+      "product": "Genius Solutions F6 GPS Activity Tracker Black",
+      "store": "Incredible Connection",
+      "price": 599,
+      "affiliate_url": "https://www.incredible.co.za/genius-solutions-f6-gps-activity-tracker-black",
       "category": "Phones",
       "alternatives": []
     },
