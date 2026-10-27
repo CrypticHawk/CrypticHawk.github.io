@@ -209,18 +209,18 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 14 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-amd-ryzen-3-5400u-8gb-ram-and-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 7 445 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 14 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-amd-ryzen-3-5400u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -561,14 +561,6 @@
       "alternatives": []
     },
     {
-      "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
-      "store": "Incredible Connection",
-      "price": 2699,
-      "affiliate_url": "https://www.incredible.co.za/disc-drive-for-ps5-slim-digital-edition-consoles-or-ps5pro-consoles",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Vertical Stand For PS5\u00ae and PS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 699,
@@ -669,14 +661,6 @@
       "store": "Incredible Connection",
       "price": 12499,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PlayStation Portal",
-      "store": "Incredible Connection",
-      "price": 5799,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal",
       "category": "Consoles",
       "alternatives": []
     },
@@ -837,6 +821,22 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Digital (E) Wolverine Yellow LE Console Bundle",
+      "store": "Incredible Connection",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-wolverine-yellow-le-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch Lite Blue",
+      "store": "Incredible Connection",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-blue",
       "category": "Consoles",
       "alternatives": []
     }
@@ -1051,18 +1051,18 @@
       "alternatives": []
     },
     {
-      "product": "Acer Aspire Lite 14 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-amd-ryzen-3-5400u-8gb-ram-and-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": []
-    },
-    {
       "product": "ASUS VivoBook M1407 AMD\u00ae Ryzen\u2122 AI 7 445 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 5000,
       "affiliate_url": "https://www.incredible.co.za/asus-vivobook-m1407-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": []
+    },
+    {
+      "product": "Acer Aspire Lite 14 AMD\u00ae Ryzen\u2122 3 5400U 8GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-lite-14-amd-ryzen-3-5400u-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": []
     },
@@ -1403,14 +1403,6 @@
       "alternatives": []
     },
     {
-      "product": "Disc Drive For PS5\u00ae Slim Digital Edition Consoles or\nPS5\u00aePro Consoles",
-      "store": "Incredible Connection",
-      "price": 2699,
-      "affiliate_url": "https://www.incredible.co.za/disc-drive-for-ps5-slim-digital-edition-consoles-or-ps5pro-consoles",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
       "product": "Vertical Stand For PS5\u00ae and PS5\u00aePro Consoles",
       "store": "Incredible Connection",
       "price": 699,
@@ -1511,14 +1503,6 @@
       "store": "Incredible Connection",
       "price": 12499,
       "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
-      "category": "Consoles",
-      "alternatives": []
-    },
-    {
-      "product": "PlayStation Portal",
-      "store": "Incredible Connection",
-      "price": 5799,
-      "affiliate_url": "https://www.incredible.co.za/playstation-portal",
       "category": "Consoles",
       "alternatives": []
     },
@@ -1679,6 +1663,22 @@
       "store": "Incredible Connection",
       "price": 1799,
       "affiliate_url": "https://www.incredible.co.za/ps5-dualsense-wireless-controller-galactic-purple",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "PS5\u00ae Slim Digital (E) Wolverine Yellow LE Console Bundle",
+      "store": "Incredible Connection",
+      "price": 15499,
+      "affiliate_url": "https://www.incredible.co.za/ps5-slim-digital-e-wolverine-yellow-le-console-bundle",
+      "category": "Consoles",
+      "alternatives": []
+    },
+    {
+      "product": "Nintendo Switch Lite Blue",
+      "store": "Incredible Connection",
+      "price": 4999,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-lite-blue",
       "category": "Consoles",
       "alternatives": []
     }
