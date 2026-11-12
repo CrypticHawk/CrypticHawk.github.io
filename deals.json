@@ -47,6 +47,75 @@
       ]
     },
     {
+      "product": "PS5\u00ae Pro A Console",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "PS5\u00ae Pro A Console",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+          "category": "Phones"
+        },
+        {
+          "product": "PS5\u00ae Pro A Console",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung 55-Inch Crystal UHD 55U8000",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 55-Inch Crystal UHD 55U8000",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 55-Inch Crystal UHD 55U8000",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
       "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
       "store": "Incredible Connection",
       "price": 3000,
@@ -65,328 +134,6 @@
           "store": "Incredible Connection",
           "price": 3000,
           "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-          "category": "Phones"
-        },
-        {
-          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-          "category": "Phones"
-        },
-        {
-          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-          "category": "Phones"
-        },
-        {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy S26 Ultra",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy S26 Ultra",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-          "category": "Phones"
-        },
-        {
-          "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-          "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-          "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 10000,
-      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 10000,
-          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 10000,
-          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-          "category": "Phones"
-        },
-        {
-          "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Apple iPhone 13 Pre Owned (B Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Apple iPhone 13 Pre Owned (B Grade)",
-          "store": "Incredible Connection",
-          "price": 200,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-          "category": "Phones"
-        },
-        {
-          "product": "Apple iPhone 13 Pre Owned (B Grade)",
-          "store": "Incredible Connection",
-          "price": 200,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-          "category": "Phones"
-        },
-        {
-          "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-          "store": "Incredible Connection",
-          "price": 1500,
-          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
-          "category": "Phones"
-        },
-        {
-          "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-          "store": "Incredible Connection",
-          "price": 1500,
-          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
           "category": "Consoles"
         }
       ]
@@ -415,47 +162,300 @@
       ]
     },
     {
-      "product": "Samsung Galaxy S26+",
+      "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Samsung Galaxy S26+",
+          "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
           "category": "Phones"
         },
         {
-          "product": "Samsung Galaxy S26+",
+          "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
           "category": "Phones"
         },
         {
-          "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10000,
+      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 10000,
+          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 10000,
+          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung Galaxy S26 Ultra",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung Galaxy S26 Ultra",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung Galaxy S26 Ultra",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+          "category": "Phones"
+        },
+        {
+          "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+          "category": "Phones"
+        },
+        {
+          "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Nintendo Switch 2 + Mario Kart World",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+          "category": "Phones"
+        },
+        {
+          "product": "Nintendo Switch 2 + Mario Kart World",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Apple iPhone 17",
+      "store": "Incredible Connection",
+      "price": 1800,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Apple iPhone 17",
+          "store": "Incredible Connection",
+          "price": 1800,
+          "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+          "category": "Phones"
+        },
+        {
+          "product": "Apple iPhone 17",
+          "store": "Incredible Connection",
+          "price": 1800,
+          "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
+          "category": "Phones"
+        },
+        {
+          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
           "category": "Consoles"
         }
       ]
@@ -509,6 +509,75 @@
       ]
     },
     {
+      "product": "PS5\u00ae Pro A Console",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "PS5\u00ae Pro A Console",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+          "category": "Phones"
+        },
+        {
+          "product": "PS5\u00ae Pro A Console",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung 55-Inch Crystal UHD 55U8000",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 55-Inch Crystal UHD 55U8000",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 55-Inch Crystal UHD 55U8000",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
       "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
       "store": "Incredible Connection",
       "price": 3000,
@@ -527,328 +596,6 @@
           "store": "Incredible Connection",
           "price": 3000,
           "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-          "category": "Phones"
-        },
-        {
-          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-          "category": "Phones"
-        },
-        {
-          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-          "category": "Phones"
-        },
-        {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy S26 Ultra",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy S26 Ultra",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-          "category": "Phones"
-        },
-        {
-          "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-          "store": "Incredible Connection",
-          "price": 6000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-          "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-          "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 10000,
-      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 10000,
-          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 10000,
-          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-          "category": "Phones"
-        },
-        {
-          "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Apple iPhone 13 Pre Owned (B Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Apple iPhone 13 Pre Owned (B Grade)",
-          "store": "Incredible Connection",
-          "price": 200,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-          "category": "Phones"
-        },
-        {
-          "product": "Apple iPhone 13 Pre Owned (B Grade)",
-          "store": "Incredible Connection",
-          "price": 200,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-          "category": "Phones"
-        },
-        {
-          "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-          "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-          "store": "Incredible Connection",
-          "price": 1500,
-          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
-          "category": "Phones"
-        },
-        {
-          "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-          "store": "Incredible Connection",
-          "price": 1500,
-          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
           "category": "Consoles"
         }
       ]
@@ -877,47 +624,300 @@
       ]
     },
     {
-      "product": "Samsung Galaxy S26+",
+      "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Samsung Galaxy S26+",
+          "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
           "category": "Phones"
         },
         {
-          "product": "Samsung Galaxy S26+",
+          "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
           "category": "Phones"
         },
         {
-          "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+          "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
           "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10000,
+      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 10000,
+          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 10000,
+          "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung Galaxy S26 Ultra",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung Galaxy S26 Ultra",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung Galaxy S26 Ultra",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+          "category": "Phones"
+        },
+        {
+          "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+          "category": "Phones"
+        },
+        {
+          "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+          "store": "Incredible Connection",
+          "price": 1000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Nintendo Switch 2 + Mario Kart World",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+          "category": "Phones"
+        },
+        {
+          "product": "Nintendo Switch 2 + Mario Kart World",
+          "store": "Incredible Connection",
+          "price": 500,
+          "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Apple iPhone 17",
+      "store": "Incredible Connection",
+      "price": 1800,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Apple iPhone 17",
+          "store": "Incredible Connection",
+          "price": 1800,
+          "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+          "category": "Phones"
+        },
+        {
+          "product": "Apple iPhone 17",
+          "store": "Incredible Connection",
+          "price": 1800,
+          "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
+          "category": "Phones"
+        },
+        {
+          "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
           "category": "Consoles"
         }
       ]
@@ -937,108 +937,31 @@
       "category": "Phones"
     },
     {
+      "product": "PS5\u00ae Pro A Console",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+      "category": "Phones"
+    },
+    {
+      "product": "Samsung 55-Inch Crystal UHD 55U8000",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+      "category": "Phones"
+    },
+    {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Phones"
+    },
+    {
       "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
-      "category": "Phones"
-    },
-    {
-      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-      "category": "Phones"
-    },
-    {
-      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-      "category": "Phones"
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-      "category": "Phones"
-    },
-    {
-      "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-      "category": "Phones"
-    },
-    {
-      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 10000,
-      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-      "category": "Phones"
-    },
-    {
-      "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-      "category": "Phones"
-    },
-    {
-      "product": "Apple iPhone 13 Pre Owned (B Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-      "category": "Phones"
-    },
-    {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-      "category": "Phones"
-    },
-    {
-      "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-      "category": "Phones"
-    },
-    {
-      "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
       "category": "Phones"
     },
     {
@@ -1049,17 +972,94 @@
       "category": "Phones"
     },
     {
-      "product": "Samsung Galaxy S26+",
+      "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
       "category": "Phones"
     },
     {
-      "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
+      "category": "Phones"
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+      "category": "Phones"
+    },
+    {
+      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10000,
+      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+      "category": "Phones"
+    },
+    {
+      "product": "Samsung Galaxy S26 Ultra",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+      "category": "Phones"
+    },
+    {
+      "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+      "category": "Phones"
+    },
+    {
+      "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+      "category": "Phones"
+    },
+    {
+      "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+      "category": "Phones"
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Phones"
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Phones"
+    },
+    {
+      "product": "Apple iPhone 17",
+      "store": "Incredible Connection",
+      "price": 1800,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+      "category": "Phones"
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Phones"
+    },
+    {
+      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
       "category": "Phones"
     },
     {
@@ -1077,108 +1077,31 @@
       "category": "Consoles"
     },
     {
+      "product": "PS5\u00ae Pro A Console",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/ps5-pro-a-console",
+      "category": "Consoles"
+    },
+    {
+      "product": "Samsung 55-Inch Crystal UHD 55U8000",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-crystal-uhd-55u8000",
+      "category": "Consoles"
+    },
+    {
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
+      "category": "Consoles"
+    },
+    {
       "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
       "store": "Incredible Connection",
       "price": 3000,
       "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
-      "category": "Consoles"
-    },
-    {
-      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
-      "category": "Consoles"
-    },
-    {
-      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
-      "category": "Consoles"
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung Galaxy S26 Ultra",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
-      "category": "Consoles"
-    },
-    {
-      "product": "TCL 75-inch 144Hz Mini-LED Google TV 75P8L",
-      "store": "Incredible Connection",
-      "price": 6000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-144hz-mini-led-google-tv-75p8l",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung LS24F33 24-inch 100Hz Monitor Black",
-      "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/samsung-ls24f33-24-inch-100hz-monitor-black",
-      "category": "Consoles"
-    },
-    {
-      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 10000,
-      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
-      "category": "Consoles"
-    },
-    {
-      "product": "Hisense 65-inch QLED 4K TV-65Q6Q",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-65-inch-qled-4k-tv-65q6q",
-      "category": "Consoles"
-    },
-    {
-      "product": "Apple iPhone 13 Pre Owned (B Grade)",
-      "store": "Incredible Connection",
-      "price": 200,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-13-pre-owned-b-grade",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
-      "category": "Consoles"
-    },
-    {
-      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
-      "category": "Consoles"
-    },
-    {
-      "product": "LG UltraGear 32\" QHD Curved Gaming 180Hz 1ms AMD FreeSync",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/lg-ultragear-32-qhd-curved-gaming-180hz-1ms-amd-freesync",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung 43-inch FHD Smart TV-43F6000F",
-      "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-43-inch-fhd-smart-tv-43f6000f",
-      "category": "Consoles"
-    },
-    {
-      "product": "Xiaomi Redmi Note 15 Pro 256G Black plus a 10000mAH Powerbank",
-      "store": "Incredible Connection",
-      "price": 1500,
-      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-pro-256g-black-plus-a-10000mah-powerbank",
       "category": "Consoles"
     },
     {
@@ -1189,17 +1112,94 @@
       "category": "Consoles"
     },
     {
-      "product": "Samsung Galaxy S26+",
+      "product": "Samsung 75-inch Crystal UHD 4K-75U8000F Black",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-1",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-75-inch-crystal-uhd-4k-75u8000f-black",
       "category": "Consoles"
     },
     {
-      "product": "TCL 75 -inch SQD-MINI LED 144Hz TV 75C7L",
+      "product": "PCBuilder Ryzen 5 5600GT DEFENDER Win11 Gaming PC + Xiaomi 24\" FHD Monitor",
       "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-75-inch-sqd-mini-led-144hz-tv-75c7l",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/pcbuilder-ryzen-5-5600gt-defender-win11-gaming-pc-xiaomi-24-fhd-monitor",
+      "category": "Consoles"
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra 256GB Titanium Black",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-ultra-256gb-titanium-black",
+      "category": "Consoles"
+    },
+    {
+      "product": "ASUS ExpertBook Intel\u00ae Core\u2122 Ultra 7 356H 32GB RAM 1TB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 10000,
+      "affiliate_url": "https://www.incredible.co.za/asus-expertbook-intel-core-ultra-7-356h-32gb-ram-1tb-ssd-laptop",
+      "category": "Consoles"
+    },
+    {
+      "product": "Samsung Galaxy S26 Ultra",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s26-ultra",
+      "category": "Consoles"
+    },
+    {
+      "product": "Samsung 65-inch QLED Q6FA 4K Smart TV",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-qled-q6fa-4k-smart-tv",
+      "category": "Consoles"
+    },
+    {
+      "product": "Xiaomi Redmi Note 15 256G Black plus a 10000mAH Powerbank",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/xiaomi-redmi-note-15-256g-black-plus-a-10000mah-powerbank",
+      "category": "Consoles"
+    },
+    {
+      "product": "Lenovo IdeaPad 3 MediaTek Kompanio 540 8GB RAM and 128GB UFS Chromebook",
+      "store": "Incredible Connection",
+      "price": 1000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-mediatek-kompanio-540-8gb-ram-and-128gb-ufs-chromebook",
+      "category": "Consoles"
+    },
+    {
+      "product": "Nintendo Switch 2 + Mario Kart World",
+      "store": "Incredible Connection",
+      "price": 500,
+      "affiliate_url": "https://www.incredible.co.za/nintendo-switch-2-mario-kart-world",
+      "category": "Consoles"
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 7-150U 16GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Consoles"
+    },
+    {
+      "product": "Apple iPhone 17",
+      "store": "Incredible Connection",
+      "price": 1800,
+      "affiliate_url": "https://www.incredible.co.za/apple-iphone-17",
+      "category": "Consoles"
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Consoles"
+    },
+    {
+      "product": "Hisense 75-inch QLED 4K TV-75Q6Q",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-75-inch-qled-4k-tv-75q6q",
       "category": "Consoles"
     }
   ]
