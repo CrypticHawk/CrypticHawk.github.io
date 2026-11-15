@@ -24,29 +24,6 @@
       ]
     },
     {
-      "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-      "store": "Incredible Connection",
-      "price": 3300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-          "store": "Incredible Connection",
-          "price": 3300,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-          "store": "Incredible Connection",
-          "price": 3300,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
       "product": "Samsung 55-Inch Crystal UHD 55U8000",
       "store": "Incredible Connection",
       "price": 2000,
@@ -456,6 +433,29 @@
           "store": "Incredible Connection",
           "price": 4000,
           "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
@@ -486,29 +486,6 @@
       ]
     },
     {
-      "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-      "store": "Incredible Connection",
-      "price": 3300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-          "store": "Incredible Connection",
-          "price": 3300,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-          "store": "Incredible Connection",
-          "price": 3300,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
       "product": "Samsung 55-Inch Crystal UHD 55U8000",
       "store": "Incredible Connection",
       "price": 2000,
@@ -923,17 +900,33 @@
       ]
     },
     {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
       "product": "Toshiba 55-inch 4K UHD Smart TV-55C350RP",
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/toshiba-55-inch-4k-uhd-smart-tv-55c350rp",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-      "store": "Incredible Connection",
-      "price": 3300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
       "category": "Phones"
     },
     {
@@ -1063,17 +1056,17 @@
       "category": "Phones"
     },
     {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Phones"
+    },
+    {
       "product": "Toshiba 55-inch 4K UHD Smart TV-55C350RP",
       "store": "Incredible Connection",
       "price": 1500,
       "affiliate_url": "https://www.incredible.co.za/toshiba-55-inch-4k-uhd-smart-tv-55c350rp",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung Galaxy A57 256GB including Samsung Galaxy Fit3 Watch",
-      "store": "Incredible Connection",
-      "price": 3300,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-256gb-including-samsung-galaxy-fit3-watch",
       "category": "Consoles"
     },
     {
@@ -1200,6 +1193,13 @@
       "store": "Incredible Connection",
       "price": 4000,
       "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-7-150u-16gb-ram-512gb-ssd-laptop",
+      "category": "Consoles"
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
       "category": "Consoles"
     }
   ]
