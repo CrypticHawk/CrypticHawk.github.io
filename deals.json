@@ -47,52 +47,6 @@
       ]
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 8000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-          "store": "Incredible Connection",
-          "price": 8000,
-          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-          "store": "Incredible Connection",
-          "price": 8000,
-          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
       "product": "Samsung Galaxy S26",
       "store": "Incredible Connection",
       "price": 3000,
@@ -139,139 +93,93 @@
       ]
     },
     {
-      "product": "Samsung Galaxy S25 256GB Navy",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy S25 256GB Navy",
-          "store": "Incredible Connection",
-          "price": 5000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy S25 256GB Navy",
-          "store": "Incredible Connection",
-          "price": 5000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
           "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+          "price": 8000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
           "category": "Phones"
         },
         {
-          "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
           "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+          "price": 8000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung Galaxy A57 5G 256GB Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy A57 5G 256GB Gray",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy A57 5G 256GB Gray",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
-          "category": "Phones"
-        },
-        {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
@@ -300,116 +208,162 @@
       ]
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Apple iPhone 14 128GB Pre Owned BG",
+          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
           "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
           "category": "Phones"
         },
         {
-          "product": "Apple iPhone 14 128GB Pre Owned BG",
+          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
           "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+      "product": "Samsung Galaxy S25 256GB Navy",
       "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+          "product": "Samsung Galaxy S25 256GB Navy",
           "store": "Incredible Connection",
-          "price": 2500,
-          "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
           "category": "Phones"
         },
         {
-          "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+          "product": "Samsung Galaxy S25 256GB Navy",
           "store": "Incredible Connection",
-          "price": 2500,
-          "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+      "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+          "product": "Samsung Galaxy Fold7",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
           "category": "Phones"
         },
         {
-          "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+          "product": "Samsung Galaxy Fold7",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "category": "Phones"
+        },
+        {
+          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung Galaxy A57 5G 256GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung Galaxy A57 5G 256GB Gray",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung Galaxy A57 5G 256GB Gray",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
@@ -438,24 +392,70 @@
       ]
     },
     {
-      "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+          "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+          "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+          "store": "Incredible Connection",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+          "store": "Incredible Connection",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+          "category": "Phones"
+        },
+        {
+          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
           "category": "Consoles"
         }
       ]
@@ -509,52 +509,6 @@
       ]
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 8000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-          "store": "Incredible Connection",
-          "price": 8000,
-          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-          "store": "Incredible Connection",
-          "price": 8000,
-          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
       "product": "Samsung Galaxy S26",
       "store": "Incredible Connection",
       "price": 3000,
@@ -601,139 +555,93 @@
       ]
     },
     {
-      "product": "Samsung Galaxy S25 256GB Navy",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy S25 256GB Navy",
-          "store": "Incredible Connection",
-          "price": 5000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy S25 256GB Navy",
-          "store": "Incredible Connection",
-          "price": 5000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
           "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+          "price": 8000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
           "category": "Phones"
         },
         {
-          "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+          "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
           "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+          "price": 8000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+          "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 3000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Samsung Galaxy A57 5G 256GB Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Samsung Galaxy A57 5G 256GB Gray",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-          "category": "Phones"
-        },
-        {
-          "product": "Samsung Galaxy A57 5G 256GB Gray",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
-          "category": "Phones"
-        },
-        {
-          "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
+          "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
@@ -762,116 +670,162 @@
       ]
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Apple iPhone 14 128GB Pre Owned BG",
+          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
           "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
           "category": "Phones"
         },
         {
-          "product": "Apple iPhone 14 128GB Pre Owned BG",
+          "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
           "store": "Incredible Connection",
-          "price": 400,
-          "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+      "product": "Samsung Galaxy S25 256GB Navy",
       "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+          "product": "Samsung Galaxy S25 256GB Navy",
           "store": "Incredible Connection",
-          "price": 2500,
-          "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
           "category": "Phones"
         },
         {
-          "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+          "product": "Samsung Galaxy S25 256GB Navy",
           "store": "Incredible Connection",
-          "price": 2500,
-          "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-      "category": "Laptops",
-      "alternatives": [
-        {
-          "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-          "category": "Phones"
-        },
-        {
-          "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-          "store": "Incredible Connection",
-          "price": 2000,
-          "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-          "category": "Consoles"
-        }
-      ]
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
           "store": "Incredible Connection",
           "price": 4000,
-          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
     },
     {
-      "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+      "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+          "product": "Samsung Galaxy Fold7",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
           "category": "Phones"
         },
         {
-          "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+          "product": "Samsung Galaxy Fold7",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "category": "Phones"
+        },
+        {
+          "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+          "store": "Incredible Connection",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung Galaxy A57 5G 256GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung Galaxy A57 5G 256GB Gray",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung Galaxy A57 5G 256GB Gray",
+          "store": "Incredible Connection",
+          "price": 2000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
+          "category": "Phones"
+        },
+        {
+          "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+          "store": "Incredible Connection",
+          "price": 6000,
+          "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
           "category": "Consoles"
         }
       ]
@@ -900,24 +854,70 @@
       ]
     },
     {
-      "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
       "category": "Laptops",
       "alternatives": [
         {
-          "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+          "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
           "category": "Phones"
         },
         {
-          "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+          "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
           "store": "Incredible Connection",
-          "price": 1000,
-          "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+          "price": 3000,
+          "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+          "store": "Incredible Connection",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+          "category": "Phones"
+        },
+        {
+          "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+          "store": "Incredible Connection",
+          "price": 5000,
+          "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+          "category": "Consoles"
+        }
+      ]
+    },
+    {
+      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+      "category": "Laptops",
+      "alternatives": [
+        {
+          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+          "category": "Phones"
+        },
+        {
+          "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+          "store": "Incredible Connection",
+          "price": 4000,
+          "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
           "category": "Consoles"
         }
       ]
@@ -937,20 +937,6 @@
       "category": "Phones"
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 8000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Phones"
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-      "category": "Phones"
-    },
-    {
       "product": "Samsung Galaxy S26",
       "store": "Incredible Connection",
       "price": 3000,
@@ -965,45 +951,31 @@
       "category": "Phones"
     },
     {
-      "product": "Samsung Galaxy S25 256GB Navy",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-      "category": "Phones"
-    },
-    {
-      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Phones"
     },
     {
-      "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Phones"
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+      "category": "Phones"
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Phones"
-    },
-    {
-      "product": "Samsung Galaxy A57 5G 256GB Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-      "category": "Phones"
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
       "category": "Phones"
     },
     {
@@ -1014,38 +986,52 @@
       "category": "Phones"
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Phones"
     },
     {
-      "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+      "product": "Samsung Galaxy S25 256GB Navy",
       "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
       "category": "Phones"
     },
     {
-      "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-      "category": "Phones"
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
       "category": "Phones"
     },
     {
-      "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+      "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+      "category": "Phones"
+    },
+    {
+      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "category": "Phones"
+    },
+    {
+      "product": "Samsung Galaxy A57 5G 256GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+      "category": "Phones"
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
       "category": "Phones"
     },
     {
@@ -1056,10 +1042,24 @@
       "category": "Phones"
     },
     {
-      "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+      "category": "Phones"
+    },
+    {
+      "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+      "category": "Phones"
+    },
+    {
+      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
       "category": "Phones"
     },
     {
@@ -1077,20 +1077,6 @@
       "category": "Consoles"
     },
     {
-      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
-      "store": "Incredible Connection",
-      "price": 8000,
-      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
-      "category": "Consoles"
-    },
-    {
-      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
-      "category": "Consoles"
-    },
-    {
       "product": "Samsung Galaxy S26",
       "store": "Incredible Connection",
       "price": 3000,
@@ -1105,45 +1091,31 @@
       "category": "Consoles"
     },
     {
-      "product": "Samsung Galaxy S25 256GB Navy",
-      "store": "Incredible Connection",
-      "price": 5000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
-      "category": "Consoles"
-    },
-    {
-      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 7 170 16GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-7-170-16gb-ram-and-512gb-ssd-laptop",
       "category": "Consoles"
     },
     {
-      "product": "HP OmniBook X Flip 14 Intel\u00ae Core\u2122 Ultra 7 258V 32GB RAM 1TB SSD Laptop",
+      "product": "ASUS Vivobook X1504 Intel\u00ae Core\u2122 5 120U 16GB RAM 512GB SSD Storage Laptop",
       "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-intel-core-ultra-7-258v-32gb-ram-1tb-ssd-laptop",
+      "price": 8000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-5-120u-16gb-ram-512gb-ssd-storage-laptop",
       "category": "Consoles"
     },
     {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
+      "product": "Samsung 55-Inch Mini-LED TV 55M70H",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-55-inch-mini-led-tv-55m70h",
+      "category": "Consoles"
+    },
+    {
+      "product": "Acer Aspire Go 15 Intel\u00ae Core\u2122 5-120U 16GB RAM 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 3000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
-      "category": "Consoles"
-    },
-    {
-      "product": "Samsung Galaxy A57 5G 256GB Gray",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
-      "category": "Consoles"
-    },
-    {
-      "product": "Lenovo IdeaPad 3 Intel\u00ae Core 3 N355 8GB RAM and 128GB UFS Chromebook Flip",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-3-n355-8gb-ram-and-128gb-ufs-chromebook-flip",
+      "affiliate_url": "https://www.incredible.co.za/acer-aspire-go-15-intel-core-5-120u-16gb-ram-512gb-ssd-laptop",
       "category": "Consoles"
     },
     {
@@ -1154,38 +1126,52 @@
       "category": "Consoles"
     },
     {
-      "product": "Apple iPhone 14 128GB Pre Owned BG",
+      "product": "Lenovo IdeaPad 3 Intel\u00ae Core\u2122 i7 13620H 16GB RAM 512GB SSD Laptop Grey",
       "store": "Incredible Connection",
-      "price": 400,
-      "affiliate_url": "https://www.incredible.co.za/apple-iphone-14-128gb-pre-owned-bg",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-intel-core-i7-13620h-16gb-ram-512gb-ssd-laptop-grey",
       "category": "Consoles"
     },
     {
-      "product": "Acer Spin 513 Qualcomm 7c 4GB RAM 64GB eMMC Chromebook",
+      "product": "Samsung Galaxy S25 256GB Navy",
       "store": "Incredible Connection",
-      "price": 2500,
-      "affiliate_url": "https://www.incredible.co.za/acer-spin-513-qualcomm-7c-4gb-ram-64gb-emmc-chromebook",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-s25-256gb-navy",
       "category": "Consoles"
     },
     {
-      "product": "HP Omnibook X Flip 14 AMD Ryzen\u2122 AI 5 16GB RAM 1TB SSD Laptop",
-      "store": "Incredible Connection",
-      "price": 2000,
-      "affiliate_url": "https://www.incredible.co.za/hp-omnibook-x-flip-14-amd-ryzen-ai-5-16gb-ram-1tb-ssd-laptop",
-      "category": "Consoles"
-    },
-    {
-      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "product": "Lenovo IdeaPad 3 AMD Ryzen\u2122 3 30 8GB RAM and 512GB SSD Laptop",
       "store": "Incredible Connection",
       "price": 4000,
-      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-ryzen-3-30-8gb-ram-and-512gb-ssd-laptop",
       "category": "Consoles"
     },
     {
-      "product": "Skyworth 50-inch QLED Google TV-50Q5600K",
+      "product": "Samsung Galaxy Fold7",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/skyworth-50-inch-qled-google-tv-50q5600k",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-fold7",
+      "category": "Consoles"
+    },
+    {
+      "product": "Hisense 58-inch Smart 4K UHD TV 58A6N",
+      "store": "Incredible Connection",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/hisense-58-inch-smart-4k-uhd-tv-58a6n",
+      "category": "Consoles"
+    },
+    {
+      "product": "Samsung Galaxy A57 5G 256GB Gray",
+      "store": "Incredible Connection",
+      "price": 2000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-galaxy-a57-5g-256gb-gray",
+      "category": "Consoles"
+    },
+    {
+      "product": "Asus VivoBook X1504 Intel\u00ae Core\u2122 7 150U 8GB RAM 512GB SSD Laptop",
+      "store": "Incredible Connection",
+      "price": 6000,
+      "affiliate_url": "https://www.incredible.co.za/asus-vivobook-x1504-intel-core-7-150u-8gb-ram-512gb-ssd-laptop",
       "category": "Consoles"
     },
     {
@@ -1196,10 +1182,24 @@
       "category": "Consoles"
     },
     {
-      "product": "Dell Pro 14 Essential Intel\u00ae Core\u2122 5 120U 16GB RAM and 512GB SSD Laptop",
+      "product": "Lenovo IdeaPad 3 AMD\u00ae Athlon\u2122 8GB RAM 256GB SSD Laptop",
       "store": "Incredible Connection",
-      "price": 1000,
-      "affiliate_url": "https://www.incredible.co.za/dell-pro-14-essential-intel-core-5-120u-16gb-ram-and-512gb-ssd-laptop",
+      "price": 3000,
+      "affiliate_url": "https://www.incredible.co.za/lenovo-ideapad-3-amd-athlon-8gb-ram-256gb-ssd-laptop",
+      "category": "Consoles"
+    },
+    {
+      "product": "Samsung 65-Inch Mini-LED TV 65M80H",
+      "store": "Incredible Connection",
+      "price": 5000,
+      "affiliate_url": "https://www.incredible.co.za/samsung-65-inch-mini-led-tv-65m80h",
+      "category": "Consoles"
+    },
+    {
+      "product": "TCL 65-Inch Mini LED Google TV-65C6KS",
+      "store": "Incredible Connection",
+      "price": 4000,
+      "affiliate_url": "https://www.incredible.co.za/tcl-65-inch-mini-led-google-tv-65c6ks",
       "category": "Consoles"
     }
   ]
